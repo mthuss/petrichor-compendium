@@ -7,7 +7,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Ghor_27s_Tome_p5uwxk.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Ghor_27s_Tome_p5uwxk.webp",
+        "pickup": "Chance on kill to drop a treasure."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db32",
@@ -17,7 +18,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Harvester_27s_Scythe_neidgq.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Harvester_27s_Scythe_neidgq.webp",
+        "pickup": "'Critical Strikes' heal you."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db3e",
@@ -27,7 +29,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211990/riskofrain/Item_Scrap_2C_Green_rps0dc.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211990/riskofrain/Item_Scrap_2C_Green_rps0dc.webp",
+        "pickup": "Does nothing. Prioritized when used with 3D Printers."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db90",
@@ -37,7 +40,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Will-o_27-the-wisp_bvhsir.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Will-o_27-the-wisp_bvhsir.webp",
+        "pickup": "Detonate enemies on kill."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db54",
@@ -47,7 +51,8 @@
         "cooldown": "None",
         "stackType": "Hyperbolic",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Old_Guillotine_fqbq0p.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Old_Guillotine_fqbq0p.webp",
+        "pickup": "Instantly kill low health Elite monsters."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db05",
@@ -57,7 +62,8 @@
         "cooldown": "None",
         "stackType": "Hyperbolic",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Bandolier_jjoo1u.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Bandolier_jjoo1u.webp",
+        "pickup": "Chance on kill to drop an ammo pack that resets all skill cooldowns."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db26",
@@ -67,7 +73,8 @@
         "cooldown": "None",
         "stackType": "Linear Hyperbolic",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Fuel_Cell_k2ephv.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Fuel_Cell_k2ephv.webp",
+        "pickup": "Hold an additional equipment charge. Reduce equipment cooldown."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db3b",
@@ -77,7 +84,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Infusion_k72l8s.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Infusion_k72l8s.webp",
+        "pickup": "Killing an enemy permanently increases your maximum health, up to 100."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db73",
@@ -87,7 +95,8 @@
         "cooldown": "None",
         "stackType": "Special",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shipping_Request_Form_ajl9hb.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shipping_Request_Form_ajl9hb.webp",
+        "pickup": "Get a delivery each stage that contains powerful items."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db7b",
@@ -97,7 +106,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Squid_Polyp_uq7d41.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Squid_Polyp_uq7d41.webp",
+        "pickup": "Activating an interactable summons a Squid Turret nearby."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db38",
@@ -107,7 +117,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Hunter_27s_Harpoon_urpvst.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Hunter_27s_Harpoon_urpvst.webp",
+        "pickup": "Killing an enemy gives you a burst of movement speed."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db65",
@@ -117,7 +128,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Regenerating_Scrap_v1rsku.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Regenerating_Scrap_v1rsku.webp",
+        "pickup": "At the start of each stage, it transforms into Regenerating Scrap."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db45",
@@ -127,7 +139,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lepton_Daisy_hbzmdp.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lepton_Daisy_hbzmdp.webp",
+        "pickup": "Periodically release a healing nova during the Teleporter event."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db64",
@@ -137,7 +150,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Red_Whip_gbpk3x.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Red_Whip_gbpk3x.webp",
+        "pickup": "Move fast out of combat."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db11",
@@ -147,7 +161,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Chronobauble_bgpqst.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Chronobauble_bgpqst.webp",
+        "pickup": "Slow enemies on hit."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db55",
@@ -157,7 +172,8 @@
         "cooldown": "30 Seconds",
         "stackType": "Hyperbolic",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Old_War_Stealthkit_u5ap0f.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Old_War_Stealthkit_u5ap0f.webp",
+        "pickup": "Turn invisible at low health."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db3a",
@@ -167,7 +183,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Ignition_Tank_chjcci.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Ignition_Tank_chjcci.webp",
+        "pickup": "Your ignite effects deal quadruple damage."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db74",
@@ -177,7 +194,8 @@
         "cooldown": "10 Seconds",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shuriken_rhsc0b.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shuriken_rhsc0b.webp",
+        "pickup": "Activating your Primary skill also throws a shuriken. Recharges over time."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db09",
@@ -187,7 +205,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Berzerker_27s_Pauldron_itpfkd.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Berzerker_27s_Pauldron_itpfkd.webp",
+        "pickup": "Enter a frenzy after killing 4 enemies in quick succession."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db62",
@@ -197,7 +216,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Razorwire_m8chlq.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Razorwire_m8chlq.webp",
+        "pickup": "Enter a frenzy after killing 4 enemies in quick succession."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db6b",
@@ -207,7 +227,8 @@
         "cooldown": "10 Seconds",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211999/riskofrain/Runald_27s_Band_oohy2z.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211999/riskofrain/Runald_27s_Band_oohy2z.webp",
+        "pickup": "High damage hits also blasts enemies with runic ice. Recharges over time."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db8e",
@@ -217,7 +238,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Wax_Quail_qfugne.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Wax_Quail_qfugne.webp",
+        "pickup": "Jumping while sprinting boosts you forward."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db42",
@@ -227,7 +249,8 @@
         "cooldown": "10 Seconds",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Kjaro_27s_Band_ul5v2l.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Kjaro_27s_Band_ul5v2l.webp",
+        "pickup": "High damage hits also blasts enemies with a runic flame tornado. Recharges over time."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db44",
@@ -237,7 +260,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Leeching_Seed_em9ryh.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Leeching_Seed_em9ryh.webp",
+        "pickup": "Dealing damage heals you."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db87",
@@ -247,7 +271,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Ukulele_qeya6r.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Ukulele_qeya6r.webp",
+        "pickup": "...and his music was electric."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db8d",
@@ -257,7 +282,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/War_Horn_nl9jls.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/War_Horn_nl9jls.webp",
+        "pickup": "Activating your Equipment gives you a burst of attack speed."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db13",
@@ -267,7 +293,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Death_Mark_lriuag.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Death_Mark_lriuag.webp",
+        "pickup": "Enemies with 4 or more debuffs are marked for death, taking bonus damage."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db37",
@@ -277,7 +304,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Hopoo_Feather_illscz.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Hopoo_Feather_illscz.webp",
+        "pickup": "Gain an extra jump."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db5c",
@@ -287,7 +315,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Predatory_Instincts_ew98s0.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Predatory_Instincts_ew98s0.webp",
+        "pickup": "'Critical Strikes' increase attack speed. Stacks 3 times."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db69",
@@ -297,7 +326,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Rose_Buckler_u5yr5i.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Rose_Buckler_u5yr5i.webp",
+        "pickup": "Reduce incoming damage while sprinting."
     },
     {
         "_id": "63d9fa11e25473935853a6bb",
@@ -307,6 +337,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/AtG_Missile_Mk._1_rhv73j.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/AtG_Missile_Mk._1_rhv73j.webp",
+        "pickup": "Reduce incoming damage while sprinting."
     }
 ]

@@ -7,7 +7,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Brittle_Crown_e9i8xt.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Brittle_Crown_e9i8xt.webp",
+        "pickup": "Gain gold on hit... <color=#FF7F7F>\\BUT lose gold on getting hit.</color>\\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db33",
@@ -17,7 +18,8 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Helfire_Tincture_mvkjk5.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Helfire_Tincture_mvkjk5.webp",
+        "pickup": "Gain gold on hit... <color=#FF7F7F>\\BUT lose gold on getting hit.</color>\\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db46",
@@ -27,7 +29,8 @@
         "cooldown": "None",
         "stackType": "Hyperbolic Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Light_Flux_Pauldron_ojntlp.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Light_Flux_Pauldron_ojntlp.webp",
+        "pickup": "Halve your cooldowns.. <color=#FF7F7F>BUT halve your attack speed.</color>\\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db28",
@@ -37,7 +40,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Gesture_of_the_Drowned_ngzcsg.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Gesture_of_the_Drowned_ngzcsg.webp",
+        "pickup": "Dramatically reduce Equipment cooldown... <color=#FF7F7F>\\BUT it automatically activates.</color>"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db5f",
@@ -47,7 +51,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Purity_jd0i36.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Purity_jd0i36.webp",
+        "pickup": "Reduce your skill cooldowns by 2 seconds. <color=#FF7F7F>You are unlucky.</color>"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db84",
@@ -57,7 +62,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Transcendence_rd5jww.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Transcendence_rd5jww.webp",
+        "pickup": "Convert all your health into shield. Increase maximum health."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db1b",
@@ -67,7 +73,8 @@
         "cooldown": "60",
         "stackType": "Hyperbolic Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Egocentrism_cfimk3.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Egocentrism_cfimk3.webp",
+        "pickup": "Gain multiple orbiting bombs. <color=#FF7F7F>Every minute, assimilate another item into Egocentrism.</color>"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db89",
@@ -77,7 +84,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Visions_of_Heresy_fy2vuv.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Visions_of_Heresy_fy2vuv.webp",
+        "pickup": "Replace your Primary Skill with 'Hungering Gaze'."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db1f",
@@ -87,7 +95,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Eulogy_Zero_sgee9x.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Eulogy_Zero_sgee9x.webp",
+        "pickup": "Items and equipment have a small chance to transform into a Lunar item instead."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db7a",
@@ -97,7 +106,8 @@
         "cooldown": "60 Seconds",
         "stackType": "None",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Spinel_Tonic_oxlmmo.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Spinel_Tonic_oxlmmo.webp",
+        "pickup": "Items and equipment have a small chance to transform into a Lunar item instead."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db06",
@@ -107,7 +117,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Beads_of_Fealty_ki5lph.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Beads_of_Fealty_ki5lph.webp",
+        "pickup": "Seems to do nothing... <color=#FF7F7F>but...</color>\\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db21",
@@ -117,7 +128,8 @@
         "cooldown": "None",
         "stackType": "Hyperbolic",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Focused_Convergence_t0hhzg.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Focused_Convergence_t0hhzg.webp",
+        "pickup": "Increase the speed of Teleporter charging... <color=#FF7F7F>BUT reduce the size of the zone</color>."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db36",
@@ -127,7 +139,8 @@
         "cooldown": "5 Seconds. +5s per stack",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Hooks_of_Heresy_lqyrox.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Hooks_of_Heresy_lqyrox.webp",
+        "pickup": "Replace your Secondary Skill with 'Slicing Maelstrom'."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db7c",
@@ -137,7 +150,8 @@
         "cooldown": "None",
         "stackType": "Linear Hyperbolic",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Stone_Flux_Pauldron_bm77ko.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Stone_Flux_Pauldron_bm77ko.webp",
+        "pickup": "Double your health... <color=#FF7F7F>BUT halve your speed.</color>\\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db7d",
@@ -147,7 +161,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Strides_of_Heresy_x1ipgo.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Strides_of_Heresy_x1ipgo.webp",
+        "pickup": "Replace your Utility Skill with 'Shadowfade'."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db12",
@@ -157,7 +172,8 @@
         "cooldown": "Lunar",
         "stackType": "Linear Hyperbolic",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Corpsebloom_kwbbhd.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Corpsebloom_kwbbhd.webp",
+        "pickup": "Double your healing... <color=#FF7F7F>\\BUT it's applied over time.</color>\\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db1a",
@@ -167,7 +183,8 @@
         "cooldown": "15 Seconds",
         "stackType": "None",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Effigy_of_Grief_r8cfsg.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Effigy_of_Grief_r8cfsg.webp",
+        "pickup": "Double your healing... <color=#FF7F7F>\\BUT it's applied over time.</color>\\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db2a",
@@ -177,7 +194,8 @@
         "cooldown": " 140 Seconds",
         "stackType": "None",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Glowing_Meteorite_ft3e3g.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Glowing_Meteorite_ft3e3g.webp",
+        "pickup": "Double your healing... <color=#FF7F7F>\\BUT it's applied over time.</color>\\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db16",
@@ -187,7 +205,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Defiant_Gouge_newm87.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Defiant_Gouge_newm87.webp",
+        "pickup": "Using a Shrine summons enemies nearby."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db1e",
@@ -197,7 +216,8 @@
         "cooldown": "8 Seconds",
         "stackType": "Linear",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Essence_of_Heresy_fjfvjd.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Essence_of_Heresy_fjfvjd.webp",
+        "pickup": "Replace your Special Skill with 'Ruin'."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db4a",
@@ -207,7 +227,8 @@
         "cooldown": "None",
         "stackType": "Exponential",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Mercurial_Rachis_ukrnfe.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Mercurial_Rachis_ukrnfe.webp",
+        "pickup": "Randomly create a Ward of Power. ALL characters deal bonus damage while in the Ward."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db6f",
@@ -217,6 +238,7 @@
         "cooldown": "None",
         "stackType": "Exponential Hyperbolic",
         "rarity": "Lunar",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Shaped_Glass_iljeyg.webp"
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Shaped_Glass_iljeyg.webp",
+        "pickup": "Double your damage... <color=#FF7F7F>BUT halve your health.</color>\\n"
     }
 ]
