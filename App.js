@@ -1,12 +1,19 @@
+import { NavigationContainer } from '@react-navigation/native';
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
+import Navigation from './components/Navigation';
+import { useFonts } from 'expo-font';
 
 export default function App() {
+  const [fontsLoaded] = useFonts({
+    'Risk-of-Rain': require('./assets/fonts/risk-of-rain.ttf')
+})
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <SafeAreaView style={{flex:1}}>
+      <NavigationContainer>
+        <Navigation></Navigation>
+      </NavigationContainer>
+    </SafeAreaView>
   );
 }
 
