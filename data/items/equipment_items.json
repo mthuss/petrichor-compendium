@@ -1,0 +1,342 @@
+[
+    {
+        "_id": "63d9f34f6d08bb0acd07db6d",
+        "itemName": "Sawmerang",
+        "color": "Orange",
+        "description": "Throw three large saw blades that slice through enemies for 3x400% damage. Also deals an additional 3x100% damage per second while bleeding enemies. Can strike enemies again on the way back.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Sawmerang_pjdkxl.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db0a",
+        "itemName": "Blast Shower",
+        "color": "Orange",
+        "description": "Cleanse all negative effects. Includes debuffs, damage over time, and nearby projectiles.",
+        "cooldown": "20 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Blast_Shower_aiabjx.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db20",
+        "itemName": "Executive Card",
+        "color": "Orange",
+        "description": "Whenever you make a gold purchase, get 10% of the spent gold back. If the purchase is a multishop terminal, the other terminals will remain open.",
+        "cooldown": "0.1 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Executive_Card_tuek5j.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db22",
+        "itemName": "Foreign Fruit",
+        "color": "Orange",
+        "description": "Instantly heal for 50% of your maximum health.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Foreign_Fruit_c5he15.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db67",
+        "itemName": "Remote Caffeinator",
+        "color": "Orange",
+        "description": "Request an Eclipse Zero Vending Machine from the UES Safe Travels. Delivery guaranteed in 5 seconds, dealing 2000% damage. Heal up to 3 targets for 25% of their maximum health.",
+        "cooldown": "60 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Remote_Caffeinator_ymdtpr.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db63",
+        "itemName": "Recycler",
+        "color": "Orange",
+        "description": "Transform an Item or Equipment into a different one. Can only be converted into the same tier one time.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Recycler_vowjzd.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db19",
+        "itemName": "Eccentric Vase",
+        "color": "Orange",
+        "description": "Create a quantum tunnel of up to 1000m in length. Lasts 30 seconds.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Eccentric_Vase_htz2bb.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db2c",
+        "itemName": "Goobo Jr.",
+        "color": "Orange",
+        "description": "Spawn a gummy clone that has 300% damage and 300% health. Expires in 30 seconds.",
+        "cooldown": "100 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Goobo_Jr._hfyjsw.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db85",
+        "itemName": "Trophy Hunter's Tricorn",
+        "color": "Orange",
+        "description": "Execute any enemy capable of spawning a unique reward, and it will drop that item. Equipment is consumed on use.",
+        "cooldown": "60 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Trophy_Hunter_27s_Tricorn_t6fklh.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db5d",
+        "itemName": "Preon Accumulator",
+        "color": "Orange",
+        "description": "Fires preon tendrils, zapping enemies within 35m for up to 600% damage/second. On contact, detonate in an enormous 20m explosion for 4000% damage.",
+        "cooldown": "145 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Preon_Accumulator_vconr8.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db8b",
+        "itemName": "Volcanic Egg",
+        "color": "Orange",
+        "description": "Turn into a draconic fireball for 5 seconds. Deal 500% damage on impact. Detonates at the end for 800% damage.",
+        "cooldown": "30 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Volcanic_Egg_znaj7y.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db18",
+        "itemName": "Disposable Missle Launcher",
+        "color": "Orange",
+        "description": "Fire a swarm of 12 missiles that deal 12x300% damage.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Disposable_Missile_Launcher_eh6yyh.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db23",
+        "itemName": "Forgive Me PLease",
+        "color": "Orange",
+        "description": "Throw a cursed doll out that triggers any On-Kill effects you have every 1 second for 8 seconds.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Forgive_Me_Please_l9bxhw.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db41",
+        "itemName": "Jade Elephant",
+        "color": "Orange",
+        "description": "Gain 500 armor for 5 seconds.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Jade_Elephant_pcxbmd.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db5e",
+        "itemName": "Primordial Cube",
+        "color": "Orange",
+        "description": "Fire a black hole that draws enemies within 30m into its center. Lasts 10 seconds",
+        "cooldown": "60 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Primordial_Cube_gkgerf.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db35",
+        "itemName": "His Reassurance",
+        "color": "Orange",
+        "description": "Become an aspect of earth.",
+        "cooldown": "None",
+        "stackType": "Mending",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/His_Reassurance_a7f9dj.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db25",
+        "itemName": "Fuel Array",
+        "color": "Orange",
+        "description": "Looks like it could power something. EXTREMELY unstable...",
+        "cooldown": "None",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Fuel_Array_bptuoc.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db4b",
+        "itemName": "Milky Chrysalis",
+        "color": "Orange",
+        "description": "Sprout wings and fly for 15 seconds. Gain +20% movement speed for the duration.",
+        "cooldown": "60 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Milky_Chrysalis_ceovsf.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db4d",
+        "itemName": "Molotov(6-Pack)",
+        "color": "Orange",
+        "description": "Throw 6 molotov cocktails that ignites enemies for 500% base damage. Each molotov leaves a burning area for 200% damage per second.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Molotov_29_jfctfw.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db70",
+        "itemName": "Shared Design",
+        "color": "Orange",
+        "description": "Become an aspect of perfection.",
+        "cooldown": "None",
+        "stackType": "Perfected",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Shared_Design_qy4ffd.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db2d",
+        "itemName": "Gorag's Opus",
+        "color": "Orange",
+        "description": "All allies enter a frenzy for 7 seconds. Increases movement speed by 50% and attack speed by 100%.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211988/riskofrain/Gorag_27s_Opus_avav1f.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db53",
+        "itemName": "Ocular HUD",
+        "color": "Orange",
+        "description": "Gain +100% Critical Strike Chance for 8 seconds.",
+        "cooldown": "60 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Ocular_HUD_t2ptgo.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db2b",
+        "itemName": "Gnarled Woodsprite",
+        "color": "Orange",
+        "description": "Gain a Woodsprite follower that heals for 1.5% of your maximum health/second. Can be sent to an ally to heal them for 10% of their maximum health.",
+        "cooldown": "15 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Gnarled_Woodsprite_zjjkoy.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db39",
+        "itemName": "Ifrit's Distinction",
+        "color": "Orange",
+        "description": "Become an aspect of fire.",
+        "cooldown": "None",
+        "stackType": "Blazing",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Ifrit_27s_Distinction_t9fgoh.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db4f",
+        "itemName": "N'kuhana's Retort",
+        "color": "Orange",
+        "description": "Become an aspect of corruption.",
+        "cooldown": "None",
+        "stackType": "Malachite",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/N27s_Retort_gyb0mj.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db81",
+        "itemName": "The Back-up",
+        "color": "Orange",
+        "description": "Call 4 Strike Drones to fight for you. Lasts 25 seconds.",
+        "cooldown": "100 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/The_Back-up_hlesai.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db82",
+        "itemName": "The Crowdfunder",
+        "color": "Orange",
+        "description": "Fires a continuous barrage that deals 100% damage per bullet. Costs $1 per bullet. Cost increases over time.",
+        "cooldown": "None",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/The_Crowdfunder_cnhghg.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db61",
+        "itemName": "Radar Scanner",
+        "color": "Orange",
+        "description": "Reveal all interactables within 500m for 10 seconds.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Radar_Scanner_mwawsd.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db79",
+        "itemName": "Spectral Circlet",
+        "color": "Orange",
+        "description": "Become an aspect of incorporeality.",
+        "cooldown": "None",
+        "stackType": "Celestine",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Spectral_Circlet_zstf6q.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db7e",
+        "itemName": "Super Massive Leech",
+        "color": "Orange",
+        "description": "Heal for 20% of the damage you deal. Lasts 8 seconds",
+        "cooldown": "60 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675225566/riskofrain/Super_Massive_Leech_tffuhu.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db34",
+        "itemName": "Her Biting Embrace",
+        "color": "Orange",
+        "description": "Become an aspect of ice.",
+        "cooldown": "None",
+        "stackType": "Glacial",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Her_Biting_Embrace_erhwro.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db6a",
+        "itemName": "Royal Capacitor",
+        "color": "Orange",
+        "description": "Call down a lightning strike on a targeted monster, dealing 3000% damage and stunning nearby monsters.",
+        "cooldown": "20 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Royal_Capacitor_niztoy.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db75",
+        "itemName": "Silence Between Two Strikes.",
+        "color": "Orange",
+        "description": "Become an aspect of lightning.",
+        "cooldown": "None",
+        "stackType": "Overloading",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Silence_Between_Two_Strikes_dvofke.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db86",
+        "itemName": "Trophy Hunter's Tricorn(Consumed)",
+        "color": "Orange",
+        "description": "Looks kinda cool, but that's about it.",
+        "cooldown": "60 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675225671/riskofrain/Trophy_Hunter28Consumed_29_wgkvmw.webp"
+    }
+]

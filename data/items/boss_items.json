@@ -1,0 +1,162 @@
+[
+    {
+        "_id": "63d9f34f6d08bb0acd07db1c",
+        "itemName": "Empathy Cores",
+        "color": "Yellow",
+        "description": "Every 30 seconds, summon two Solus Probes that gain +100% (+100% per stack) damage per ally on your team.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Empathy_Cores_uxafot.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db2f",
+        "itemName": "Halcyon Seed",
+        "color": "Yellow",
+        "description": "Summon Aurelionite during the teleporter event. It has 100% (+50% per stack) damage and 100% (+100% per stack) health.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Halcyon_Seed_mhknzo.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db40",
+        "itemName": "Item Scrap, Yellow",
+        "color": "Yellow",
+        "description": "Does nothing. Prioritized when used with 3D Printers.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Item_Scrap_2C_Yellow_yazmpd.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db3d",
+        "itemName": "Irradiant Pearl",
+        "color": "Yellow",
+        "description": "Increases ALL stats by 10% (+10% per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211990/riskofrain/Irradiant_Pearl_cdadko.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db56",
+        "itemName": "Pearl",
+        "color": "Yellow",
+        "description": "Increases maximum health by 10% (+10% per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Pearl_h1mo0i.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db47",
+        "itemName": "Little Disciple",
+        "color": "Yellow",
+        "description": "Fire a tracking wisp for 300% (+300% per stack) damage. Fires every 1.6 seconds while sprinting. Fire rate increases with movement speed.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Little_Disciple_yxnzqa.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db57",
+        "itemName": "Planula",
+        "color": "Yellow",
+        "description": "Heal from incoming damage for 15 (+15 per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Planula_q1lbah.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db10",
+        "itemName": "Charged Perforator",
+        "color": "Yellow",
+        "description": "10% chance on hit to down a lightning strike, dealing 500%(+500% per stack) damage.",
+        "cooldown": "Boss",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Charged_Perforator_bzp8kx.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db27",
+        "itemName": "Genesis Loop",
+        "color": "Yellow",
+        "description": "Falling below 25% health causes you to explode, dealing 6000% base damage. Recharges every 30 / (2 +1 per stack) seconds .",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Genesis_Loop_fnfoz4.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db4c",
+        "itemName": "Mired Urn",
+        "color": "Yellow",
+        "description": "While in combat, the nearest 1 (+1 per stack) enemies to you within 13m will be \"tethered\" to you, dealing 100% damage per second, applying tar, and healing you for 100% of the damage dealt.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Mired_Urn_evrz5e.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db60",
+        "itemName": "Queen's Gland",
+        "color": "Yellow",
+        "description": "Every 30 seconds, summon a Beetle Guard with bonus 300% damage and 100% health. Can have up to 1 (+1 per stack) Guards at a time.",
+        "cooldown": "30 Seconds",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Queen_27s_Gland_mcrckv.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db14",
+        "itemName": "Defense Nucleus",
+        "color": "Yellow",
+        "description": "Killing elite monsters spawns an Alpha Construct with bonus 300% damage and 300% health. Limited to 4 (+4 per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Defense_Nucleus_vaarkh.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db04",
+        "itemName": "Artifact Key",
+        "color": "Yellow",
+        "description": "A stone shard with immense power.",
+        "cooldown": "None",
+        "stackType": "None",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Artifact_Key_eqvix1.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db72",
+        "itemName": "Shatter Spleen",
+        "color": "Yellow",
+        "description": "Gain 5% critical chance. Critical Strikes bleed enemies for 240% base damage. Bleeding enemies explode on death for 400% (+400% per stack) damage, plus an additional 15% (+15% per stack) of their maximum health.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shatterspleen_lrmjwc.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db83",
+        "itemName": "Titanic Knurl",
+        "color": "Yellow",
+        "description": "Increase maximum health by 40 (+40 per stack) and base health regeneration by +1.6 hp/s (+1.6 hp/s per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Titanic_Knurl_lezjsh.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db4e",
+        "itemName": "Molten Perforator",
+        "color": "Yellow",
+        "description": "10% chance on hit to call forth 3 magma balls from an enemy, dealing 300% (+300% per stack) damage each.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Boss",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Molten_Perforator_ir2crm.webp"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "_id": "63d9f34f6d08bb0acd07db0e",
+        "itemName": "Brittle Crown",
+        "color": "Blue",
+        "description": "30% chance on hit to gain 2 (+2 per stack) gold. Scales over time. Lose gold on taking damage equal to 100% (+100% per stack) of the maximum health percentage you lost.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Brittle_Crown_e9i8xt.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db33",
+        "itemName": "Helfire Tincture",
+        "color": "Blue",
+        "description": "Ignite ALL characters within 15m for 12s. Deal 5% of your maximum health/second as burning as damage. The burn is 0.5x stronger on yourself, 0.25x stronger on allies, and 24x stronger on enemies.",
+        "cooldown": "45 Seconds",
+        "stackType": "None",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Helfire_Tincture_mvkjk5.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db46",
+        "itemName": "Light Flux Pauldron",
+        "color": "Blue",
+        "description": "Decrease skill cooldowns by 50% (+50% per stack). Decrease attack speed by 50% (+50% per stack).",
+        "cooldown": "None",
+        "stackType": "Hyperbolic Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Light_Flux_Pauldron_ojntlp.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db28",
+        "itemName": "Gesture of the Drowned",
+        "color": "Blue",
+        "description": "Reduce Equipment cooldown by 50% (+15% per stack). Forces your Equipment to activate whenever it is off cooldown.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Gesture_of_the_Drowned_ngzcsg.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db5f",
+        "itemName": "Purity",
+        "color": "Blue",
+        "description": "All skill cooldowns are reduced by 2 (+1 per stack) seconds. All random effects are rolled +1 (+1 per stack) times for an unfavorable outcome.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Purity_jd0i36.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db84",
+        "itemName": "Transcendence",
+        "color": "Blue",
+        "description": "Convert all but 1 health into regenerating shields. Gain 50% (+25% per stack) maximum health.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Transcendence_rd5jww.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db1b",
+        "itemName": "Egocentrism",
+        "color": "Blue",
+        "description": "Every 3 (-50% per stack) seconds, gain an orbiting bomb that detonates on impact for 360% damage, up to a maximum of 3 bombs (+1 per stack). Every 60 seconds, a random item is converted into this item.",
+        "cooldown": "60",
+        "stackType": "Hyperbolic Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Egocentrism_cfimk3.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db89",
+        "itemName": "Visions of Heresy",
+        "color": "Blue",
+        "description": "Replace your Primary Skill with Hungering Gaze. Fire a flurry of tracking shards that detonate after a delay, dealing 120% base damage. Hold up to 12 charges (+12 per stack) that reload after 2 seconds (+2 per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Visions_of_Heresy_fy2vuv.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db1f",
+        "itemName": "Eulogy Zero",
+        "color": "Blue",
+        "description": "Items have a 5% (+5% per stack) chance to become a Lunar item instead.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Eulogy_Zero_sgee9x.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db7a",
+        "itemName": "Spinel Tonic",
+        "color": "Blue",
+        "description": "Drink the Tonic, gaining a boost for 20 seconds. Increases damage by +100%. Increases attack speed by +70%. Increases armor by +20. Increases maximum health by +50%. Increases passive health regeneration by +300%. Increases movespeed by +30%. When the Toni wears off, you have a 20% chance to gain a Tonic Affliction, reducing all of your stats by -5% (-5% per stack).",
+        "cooldown": "60 Seconds",
+        "stackType": "None",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Spinel_Tonic_oxlmmo.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db06",
+        "itemName": "Beads of Fealty",
+        "color": "Blue",
+        "description": "Seems to do nothing... but...",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Beads_of_Fealty_ki5lph.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db21",
+        "itemName": "Focused Convergence",
+        "color": "Blue",
+        "description": "Teleporters charge 30% (+30% per stack) faster, but the size of the Teleporter zone is 50% (-50% per stack) smaller.",
+        "cooldown": "None",
+        "stackType": "Hyperbolic",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Focused_Convergence_t0hhzg.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db36",
+        "itemName": "Hooks of Heresy",
+        "color": "Blue",
+        "description": "Replace your Secondary Skill with Slicing Maelstrom.Charge up a projectile that deals 875% damage per second to nearby enemies, exploding after 3 seconds to deal 700% damage and root enemies for 3 (+3 per stack) seconds. Recharges after 5 (+5 per stack seconds.",
+        "cooldown": "5 Seconds. +5s per stack",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Hooks_of_Heresy_lqyrox.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db7c",
+        "itemName": "Stone Flux Pauldron",
+        "color": "Blue",
+        "description": "Increase max health by 100% (+100% per stack). Reduce movement speed by 50% (+50% per stack).",
+        "cooldown": "None",
+        "stackType": "Linear Hyperbolic",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Stone_Flux_Pauldron_bm77ko.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db7d",
+        "itemName": "Strides of Heresy",
+        "color": "Blue",
+        "description": "Replace your Utility Skill with Shadowfade. Fade away, becoming intangible and gaining +30% movement speed. Heal for 18.2% (+18.2% per stack) of your maximum health. Lasts 3 (+3 per stack) seconds.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Strides_of_Heresy_x1ipgo.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db12",
+        "itemName": "Corpsebloom",
+        "color": "Blue",
+        "description": "Heal +100%(+100% per stack) more. All healing is applied over time. Can heal for a maximum of 10%(-50% per stack) of your health per second.",
+        "cooldown": "Lunar",
+        "stackType": "Linear Hyperbolic",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Corpsebloom_kwbbhd.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db1a",
+        "itemName": "Effigy of Grief",
+        "color": "Blue",
+        "description": "ALL characters within are slowed by 50% and have their armor reduced by 20. Can place up to 5.",
+        "cooldown": "15 Seconds",
+        "stackType": "None",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Effigy_of_Grief_r8cfsg.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db2a",
+        "itemName": "Glowing Meteorite",
+        "color": "Blue",
+        "description": "Rain meteors from the sky, damaging ALL characters for 600% damage per blast. Lasts 20 seconds.",
+        "cooldown": " 140 Seconds",
+        "stackType": "None",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Glowing_Meteorite_ft3e3g.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db16",
+        "itemName": "Defiant Gouge",
+        "color": "Blue",
+        "description": "Using a Shrine summons enemies (stronger per stack) nearby. Scales over time.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Defiant_Gouge_newm87.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db1e",
+        "itemName": "Essence of Heresy",
+        "color": "Blue",
+        "description": "Replace your Special Skill with Ruin. Dealing damage adds a stack of Ruin for 10 (+10 per stack) seconds. Activating the skill detonates all Ruin stacks at unlimited range, dealing 300% damage plus 120% damage per stack of Ruin. Recharges after 8 (+8 per stack) seconds.",
+        "cooldown": "8 Seconds",
+        "stackType": "Linear",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Essence_of_Heresy_fjfvjd.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db4a",
+        "itemName": "Mercurial Rachis",
+        "color": "Blue",
+        "description": "Creates a Ward of Power in a random location nearby that buffs both enemies and allies within 16m (+50% per stack), causing them to deal +50% damage.",
+        "cooldown": "None",
+        "stackType": "Exponential",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Mercurial_Rachis_ukrnfe.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db6f",
+        "itemName": "Shaped Glass",
+        "color": "Blue",
+        "description": "Increase base damage by 100% (+100% per stack). Reduce maximum health by 50% (+50% per stack).",
+        "cooldown": "None",
+        "stackType": "Exponential Hyperbolic",
+        "rarity": "Lunar",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Shaped_Glass_iljeyg.webp"
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "_id": "63d9f34f6d08bb0acd07db29",
+        "itemName": "Ghor's Tome",
+        "color": "Green",
+        "description": "4% (+4% on stack) chance on kill to drop a treasure worth $25. Scales over time.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Ghor_27s_Tome_p5uwxk.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db32",
+        "itemName": "Harvester's Scythe",
+        "color": "Green",
+        "description": "Gain 5% critical chance. Critical strikes heal for 8 (+4 per stack) health.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Harvester_27s_Scythe_neidgq.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db3e",
+        "itemName": "Item Scrap, Green",
+        "color": "Green",
+        "description": "Does nothing. Prioritized when used with 3D Printers.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211990/riskofrain/Item_Scrap_2C_Green_rps0dc.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db90",
+        "itemName": "Will-o'-the-wisp",
+        "color": "Green",
+        "description": "On killing an enemy, spawn a lava pillar in a 12m (+2.4m per stack) radius for 350% (+280% per stack) base damage.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Will-o_27-the-wisp_bvhsir.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db54",
+        "itemName": "Old Guillotine",
+        "color": "Green",
+        "description": "Instantly kill Elite monsters below 13% (+13% per stack) health.",
+        "cooldown": "None",
+        "stackType": "Hyperbolic",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Old_Guillotine_fqbq0p.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db05",
+        "itemName": "Bandolier",
+        "color": "Green",
+        "description": "18% (+10% per stack) chance on kill to drop an ammo pack that resets all skill cooldowns.",
+        "cooldown": "None",
+        "stackType": "Hyperbolic",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Bandolier_jjoo1u.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db26",
+        "itemName": "Fuel Cell",
+        "color": "Green",
+        "description": "Hold an additional equipment charge (+1 per stack). Reduce equipment cooldown by 15% (+15% per stack).",
+        "cooldown": "None",
+        "stackType": "Linear Hyperbolic",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Fuel_Cell_k2ephv.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db3b",
+        "itemName": "Infusion",
+        "color": "Green",
+        "description": "Killing an enemy increases your health permanently by 1(+1 per stack), up to a maximum of 100(+100 per stack) health.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Infusion_k72l8s.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db73",
+        "itemName": "Shipping Request Form",
+        "color": "Green",
+        "description": "A delivery containing 2 items (79%/20%/1%) will appear in a random location on each stage. (Increases rarity chances of the items per stack).",
+        "cooldown": "None",
+        "stackType": "Special",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shipping_Request_Form_ajl9hb.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db7b",
+        "itemName": "Squid Polyp",
+        "color": "Green",
+        "description": "Activating an interactable summons a Squid Turret that attacks nearby enemies at 100% (+100% per stack) attack speed. Lasts 30 seconds.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Squid_Polyp_uq7d41.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db38",
+        "itemName": "Hunter's Harpoon",
+        "color": "Green",
+        "description": "Killing an enemy increases movement speed by 125%, fading over 1 (+0.5 per stack) seconds.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Hunter_27s_Harpoon_urpvst.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db65",
+        "itemName": "Regenerating Scrap",
+        "color": "Green",
+        "description": "Does nothing. Prioritized when used with Uncommon 3D Printers. At the start of each stage, it regenerates.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Regenerating_Scrap_v1rsku.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db45",
+        "itemName": "Lepton Daisy",
+        "color": "Green",
+        "description": "Release a healing nova during the Teleporter event, healing all nearby allies for 50% of their maximum health. Occurs 1 (+1 per stack) times.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lepton_Daisy_hbzmdp.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db64",
+        "itemName": "Red Whip",
+        "color": "Green",
+        "description": "Leaving combat boosts your movement speed by 30% (+30% per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Red_Whip_gbpk3x.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db11",
+        "itemName": "Chronobauble",
+        "color": "Green",
+        "description": "Slow enemies on hit for -60% movement speed for 2s (+2s per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Chronobauble_bgpqst.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db55",
+        "itemName": "Old War Stealthkit",
+        "color": "Green",
+        "description": "Falling below 25% health causes you to gain 40% movement speed and invisibility for 5s. Recharges every 30 seconds (-50% per stack).",
+        "cooldown": "30 Seconds",
+        "stackType": "Hyperbolic",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Old_War_Stealthkit_u5ap0f.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db3a",
+        "itemName": "Ignition Tank",
+        "color": "Green",
+        "description": "Ignite effects deal +300% (+300% per stack) more damage over time.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Ignition_Tank_chjcci.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db74",
+        "itemName": "Shuriken",
+        "color": "Green",
+        "description": "Activating your Primary skill also throws a shuriken that deals 400% (+100% per stack) base damage. You can hold up to 3 (+1 per stack) shurikens which all reload over 10 seconds.",
+        "cooldown": "10 Seconds",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shuriken_rhsc0b.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db09",
+        "itemName": "Berzerker's Pauldron",
+        "color": "Green",
+        "description": "Berzerker's Pauldron\tKilling 4 enemies within 1 second sends you into a frenzy for 6s (+4s per stack). Increases movement speed by 50% and attack speed by 100%.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Berzerker_27s_Pauldron_itpfkd.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db62",
+        "itemName": "Razor Wire",
+        "color": "Green",
+        "description": "Getting hit causes you to explode in a burst of razors, dealing 160% damage. Hits up to 5 (+2 per stack) targets in a 25m (+10m per stack) radius",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Razorwire_m8chlq.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db6b",
+        "itemName": "Runald's Band",
+        "color": "Green",
+        "description": "Hits that deal more than 400% damage also blasts enemies with a runic ice blast, slowing them by 80% for 3s (+3s per stack) and dealing 250% (+250% per stack) TOTAL damage.",
+        "cooldown": "10 Seconds",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211999/riskofrain/Runald_27s_Band_oohy2z.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db8e",
+        "itemName": "Wax Quail",
+        "color": "Green",
+        "description": "Jumping while sprinting boosts you forward by 10m (+10m per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Wax_Quail_qfugne.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db42",
+        "itemName": "Kjaro's Band",
+        "color": "Green",
+        "description": "Hits that deal more than 400% damage also blasts enemies with a runic flame tornado, dealing 300% (+300% per stack) TOTAL damage over time.",
+        "cooldown": "10 Seconds",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Kjaro_27s_Band_ul5v2l.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db44",
+        "itemName": "Leeching Seed",
+        "color": "Green",
+        "description": "Dealing damage heals you for 1 (+1 per stack) health.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Leeching_Seed_em9ryh.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db87",
+        "itemName": "Ukulele",
+        "color": "Green",
+        "description": "25% chance to fire chain lightning for 80% TOTAL damage on up to 3 (+2 per stack) targets within 20m (+2m per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Ukulele_qeya6r.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db8d",
+        "itemName": "War Horn",
+        "color": "Green",
+        "description": "Activating your Equipment gives you +70% attack speed for 8s (+4s per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/War_Horn_nl9jls.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db13",
+        "itemName": "Death Mark",
+        "color": "Green",
+        "description": "Enemies with 4 or more debuffs are marked for death, increasing damage taken by 50% from all sources for 7 (+7 per stack) seconds.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Death_Mark_lriuag.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db37",
+        "itemName": "Hopoo Feather",
+        "color": "Green",
+        "description": "Gain +1 (+1 per stack) maximum jump count.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Hopoo_Feather_illscz.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db5c",
+        "itemName": "Predatory Instincts",
+        "color": "Green",
+        "description": "Gain 5% critical chance. Critical strikes increase attack speed by 12%. Maximum cap of 36% (+24% per stack) attack speed.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Predatory_Instincts_ew98s0.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db69",
+        "itemName": "Rose Buckler",
+        "color": "Green",
+        "description": "Increase armor by 30 (+30 per stack) while sprinting.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Rose_Buckler_u5yr5i.webp"
+    },
+    {
+        "_id": "63d9fa11e25473935853a6bb",
+        "itemName": "AtG Missle Mk.1",
+        "color": "Green",
+        "description": "10% chance to fire a missile that deals 300% (+300% per stack) TOTAL damage.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Uncommon",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/AtG_Missile_Mk._1_rhv73j.webp"
+    }
+]

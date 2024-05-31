@@ -1,0 +1,302 @@
+[
+    {
+        "_id": "63d9f34f6d08bb0acd07daf7",
+        "itemName": "Power Elixir",
+        "color": "White",
+        "description": "Taking damage to below 25% health consumes this item, healing you for 75% of maximum health.",
+        "cooldown": "None",
+        "stackType": "None",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Power_Elixir_ghkrbu.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dae6",
+        "itemName": "Bison Steak",
+        "color": "White",
+        "description": "Increases maximum health by 25(+25 per stack)",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Bison_Steak_nkgtop.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daf6",
+        "itemName": "Personal Shield Generator",
+        "color": "White",
+        "description": "Gain a shield equal to 8% (+8% per stack) of your maximum health. Recharges outside of danger.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Personal_Shield_Generator_uyfbfa.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daf8",
+        "itemName": "Repulsion Armor Plate",
+        "color": "White",
+        "description": "Reduce all incoming damage by 5 (+5 per stack). Cannot be reduced below 1.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Repulsion_Armor_Plate_uuzczu.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dae4",
+        "itemName": "Armor-Piercing Rounds",
+        "color": "White",
+        "description": "Deal an addition 20% damage(+20% per stack) to bosses",
+        "cooldown": "none",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Armor-Piercing_Rounds_piabli.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daed",
+        "itemName": "Focus Crystal",
+        "color": "White",
+        "description": "Increase damage to enemies within 13m by 20% (+20% per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Focus_Crystal_vmua9y.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dae9",
+        "itemName": "Cautious Slug",
+        "color": "White",
+        "description": "Increases base health regeneration by +3hp/s(+3hp/s per stack) while outside of combat",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Cautious_Slug_ib0ulb.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dafc",
+        "itemName": "Sticky Bomb",
+        "color": "White",
+        "description": "5% (+5% per stack) chance on hit to attach a bomb to an enemy, detonating for 180% TOTAL damage.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Sticky_Bomb_bzawbh.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daef",
+        "itemName": "Item Scrap, White",
+        "color": "White",
+        "description": "Does nothing. Prioritized when used with 3D Printers.",
+        "cooldown": "None",
+        "stackType": "None",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675226016/riskofrain/Item_Scrap_2C_White_teh6zv.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daf0",
+        "itemName": "Lens-Maker's Glasses",
+        "color": "White",
+        "description": "Your attacks have a 10% (+10% per stack) chance to 'Critically Strike', dealing double damage.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Lens-Maker_27s_Glasses_ppfbiv.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daf1",
+        "itemName": "Medkit",
+        "color": "White",
+        "description": "2 seconds after getting hurt, heal for 20 plus an additional 5% (+5% per stack) of maximum health.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Medkit_jkl9eh.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daf5",
+        "itemName": "Paul's Goat Hoof",
+        "color": "White",
+        "description": "Increases movement speed by 14% (+14% per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Paul_27s_Goat_Hoof_yo14b1.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dafa",
+        "itemName": "Rusted Key",
+        "color": "White",
+        "description": "A hidden cache containing an item (80%/20%) will appear in a random location on each stage. Opening the cache consumes this item.",
+        "cooldown": "None",
+        "stackType": "None",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Rusted_Key_nvckst.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daf3",
+        "itemName": "Monster Tooth",
+        "color": "White",
+        "description": "Killing an enemy spawns a healing orb that heals for 8 plus an additional 2% (+2% per stack) of maximum health.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Monster_Tooth_jkdsml.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daeb",
+        "itemName": "Delicate Watch",
+        "color": "White",
+        "description": "Increase damage by 20% (+20% per stack). Taking damage to below 25% health breaks this item.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Delicate_Watch_siyls7.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daf9",
+        "itemName": "Roll of Pennies",
+        "color": "White",
+        "description": "Gain 3 (+3 per stack) gold on taking damage from an enemy. Scales over time.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Roll_of_Pennies_fjrgkv.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dafb",
+        "itemName": "Soldier's Syringe",
+        "color": "White",
+        "description": "Increases attack speed by 15%",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Soldier_27s_Syringe_wpx7nq.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daee",
+        "itemName": "Gasoline",
+        "color": "White",
+        "description": "Killing an enemy ignites all enemies within 12m (+4m per stack) for 150% base damage. Additionally, enemies burn for 150% (+75% per stack) base damage.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Gasoline_yz7csa.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dae7",
+        "itemName": "Bundle of Fireworks",
+        "color": "White",
+        "description": "Activating an interactble launces 8(+4 per stack)fireworks that deal 300% base damage",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Bundle_of_Fireworks_kqmmhp.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daec",
+        "itemName": "Energy Drink",
+        "color": "White",
+        "description": "Sprint speed is improved by 25% (+25% per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Energy_Drink_d2iugx.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daff",
+        "itemName": "Tougher Times",
+        "color": "White",
+        "description": "15% (+15% per stack) chance to block incoming damage. Unaffected by luck.",
+        "cooldown": "None",
+        "stackType": "Hyperbolic",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tougher_Times_swgas2.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daea",
+        "itemName": "Crowbar",
+        "color": "White",
+        "description": "Deal +75%(+75% per stack) damage to enemies above 90% health",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Crowbar_t1qqei.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daf2",
+        "itemName": "Mocha",
+        "color": "White",
+        "description": "Increases attack speed by 7.5% (+7.5 per stack) and movement speed by 7% (+7% per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Mocha_jwfm5x.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dae5",
+        "itemName": "Backup Magazine",
+        "color": "White",
+        "description": "Add +1 (+1 per stack) charge of your secondary skill.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Backup_Magazine_m6yumm.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db01",
+        "itemName": "Warbanner",
+        "color": "White",
+        "description": "On level up or starting the Teleporter event, drop a banner that strengthens all allies within 16m (+8m per stack). Raise attack and movement speed by 30%.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Warbanner_das56b.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07daf4",
+        "itemName": "Oddly-shaped Opal",
+        "color": "White",
+        "description": "Increase armor by 100 (+100 per stack) while out of danger.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Oddly-shaped_Opal_z9hpxq.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dafd",
+        "itemName": "Stun Grenade",
+        "color": "White",
+        "description": "5% (+5% on stack) chance on hit to stun enemies for 2 seconds.",
+        "cooldown": "None",
+        "stackType": "Hyperbolic",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Stun_Grenade_aky2jx.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dafe",
+        "itemName": "Topaz Brooch",
+        "color": "White",
+        "description": "Gain a temporary barrier on kill for 15 health (+15 per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Topaz_Brooch_yrzueu.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07dae8",
+        "itemName": "Bustling Fungus",
+        "color": "White",
+        "description": "After standing still for 1 second, create a zone that heals for 4.5%(2.25% per stack) of your health every second to all allies within 3m(+1.5m per stack).",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Bustling_Fungus_hp8yzd.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db00",
+        "itemName": "Tri-Tip Dagger",
+        "color": "White",
+        "description": "10% (+10% per stack) chance to bleed an enemy for 240% base damage.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Common",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tri-Tip_Dagger_zexn5n.webp"
+    }
+]

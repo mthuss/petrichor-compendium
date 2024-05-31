@@ -1,0 +1,142 @@
+[
+    {
+        "_id": "63d9f34f6d08bb0acd07db76",
+        "itemName": "Singularity Band",
+        "color": "Purple",
+        "description": "Hits that deal more than 400% damage also fire a black hole that draws enemies within 15m into its center. Lasts 5 seconds before collapsing, dealing 100% (+100% per stack) TOTAL damage. Recharges every 20 seconds. Corrupts all Runald's and Kjaro's Bands.",
+        "cooldown": "20 Seconds",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Singularity_Band_suet3p.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db6c",
+        "itemName": "Safer Spaces",
+        "color": "Purple",
+        "description": "Blocks incoming damage once. Recharges after 15 seconds (-10% per stack) Corrupts all Tougher Times.",
+        "cooldown": "None",
+        "stackType": "Hyperbolic",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Safer_Spaces_w6rzck.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db1d",
+        "itemName": "Encrusted Key",
+        "color": "Purple",
+        "description": "A hidden cache containing an item (60%/30%/10%) will appear in a random location on each stage. Opening the cache consumes this item. Corrupts all Rusted Keys.",
+        "cooldown": "None",
+        "stackType": "None",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Encrusted_Key_xdhwtb.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db48",
+        "itemName": "Lost seer's Lenses",
+        "color": "Purple",
+        "description": "Your attacks have a 0.5% (+0.5% per stack) chance to instantly kill a non-Boss enemy. Corrupts all Lens-Maker's Glasses.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lost_Seer_27s_Lenses_bjujxw.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db49",
+        "itemName": "Lysate Cell",
+        "color": "Purple",
+        "description": "Add +1 (+1 per stack) charge of your Special skill. Reduces Special skill cooldown by 33%. Corrupts all Fuel Cells.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lysate_Cell_tsczwz.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db8f",
+        "itemName": "Weeping Fungus",
+        "color": "Purple",
+        "description": "Heals for 2% (+2% per stack) of your health every second while sprinting. Corrupts all Bustling Fungi.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Weeping_Fungus_xnwb4q.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db52",
+        "itemName": "Newly Hatched Zoea",
+        "color": "Purple",
+        "description": "Every 60 (-50% per stack) seconds, gain a random Void ally. Can have up to 1 (+1 per stack) allies at a time. Corrupts all yellow items.",
+        "cooldown": "None",
+        "stackType": "Hyperbolic Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Newly_Hatched_Zoea_hhw2xg.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db8a",
+        "itemName": "Voidsent Flame",
+        "color": "Purple",
+        "description": "Upon hitting an enemy at full health, spawn a lava pillar in a 12m (+2.4m per stack) radius for 260% (+156% per stack) base damage. Corrupts all Will-o'-the-wisps.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Voidsent_Flame_v8umua.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db80",
+        "itemName": "Tentabauble",
+        "color": "Purple",
+        "description": "5%(+5% per stack) chance on hit to root enemies for 1s(+1s per stack).Corrupts all chronobaubles",
+        "cooldown": "Void",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tentabauble_gzah8x.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db08",
+        "itemName": "Benthic Bloom",
+        "color": "Purple",
+        "description": "Upgrades 3 (+3 per stack) random items to items of the next higher rarity at the start of each stage. Corrupts all 57 Leaf Clovers.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Benthic_Bloom_sbcmws.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db59",
+        "itemName": "Pluripotent Larva",
+        "color": "Purple",
+        "description": "Upon death, this item will be consumed and you will return to life with 3 seconds of invulnerability, and all of your items that can be corrupted will be. Corrupts all Dio's Best Friends.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Pluripotent_Larva_wlpy7l.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db51",
+        "itemName": "Needletick",
+        "color": "Purple",
+        "description": "10% (+10% per stack) chance to collapse an enemy for 400% base damage. Corrupts all Tri-Tip Daggers.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Needletick_axaqfw.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db58",
+        "itemName": "Plasma Shrimp",
+        "color": "Purple",
+        "description": "Gain a shield equal to 10% of your maximum health. While you have a shield, hitting an enemy fires a missile that deals 40% (+40% per stack) TOTAL damage. Corrupts all AtG Missile Mk. 1s.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Plasma_Shrimp_qrjogo.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db5b",
+        "itemName": "Polylute",
+        "color": "Purple",
+        "description": "25% chance to fire lightning for 60% TOTAL damage up to 3 (+3 per stack) times. Corrupts all Ukuleles.",
+        "cooldown": "None",
+        "stackType": "Linear",
+        "rarity": "Void",
+        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Polylute_dd5e2r.webp"
+    }
+]
