@@ -9,9 +9,6 @@ const scaledWidth = Dimensions.get('window').width;
 const scaledHeight = scaledWidth / aspectRatio;
 
 export default props => {
-    const [fontsLoaded] = useFonts({
-        'Risk-of-Rain': require('../assets/fonts/risk-of-rain.ttf')
-    })
     return (
         <View style={styles.container}>
             <ImageBackground source={require('../assets/main_bg.png')} resizeMode="cover" style={styles.image}>
@@ -23,7 +20,7 @@ export default props => {
                         <RORButton><Text style={{ fontFamily: "Risk-of-Rain", color: "#a6aeb1" }}>Risk of Rain</Text></RORButton>
                     </View>
                     <View style={{ paddingBottom: 10 }}>
-                        <RORButton><Text style={{ fontFamily: "Risk-of-Rain", color: "#a6aeb1" }}>Risk of Rain <Text style={{ color: "#fffeb3" }}>2</Text></Text></RORButton>
+                        <RORButton onPress={() => props.navigation.navigate("ROR2Items")}><Text style={{ fontFamily: "Risk-of-Rain", color: "#a6aeb1" }}>Risk of Rain <Text style={{ color: "#fffeb3" }}>2</Text></Text></RORButton>
                     </View>
                     <View>
                         <RORButton><Text style={{ fontFamily: "Risk-of-Rain", color: "#a6aeb1" }}>Risk of Rain Returns</Text></RORButton>

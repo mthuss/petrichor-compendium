@@ -4,7 +4,7 @@ import { StyleSheet } from "react-native";
 
 export default props => {
     return (
-        <TouchableOpacity style={Styles.button}>
+        <TouchableOpacity style={Styles.button} onPress={props.onPress}>
             <View style={styles.buttonInside}>
                 {props.children}
             </View>
