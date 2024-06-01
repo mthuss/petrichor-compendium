@@ -7,8 +7,9 @@
         "cooldown": "None",
         "stackType": "None",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Power_Elixir_ghkrbu.webp",
-        "pickup": "Receive an instant heal at low health. Consumed on use."
+        "itemImage": "./img/Power_Elixir.png",
+        "pickup": "Receive an instant heal at low health. Consumed on use.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Power_Elixir_ghkrbu.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae6",
@@ -18,8 +19,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Bison_Steak_nkgtop.webp",
-        "pickup": "Gain 25 max health."
+        "itemImage": "./img/Bison_Steak.png",
+        "pickup": "Gain 25 max health.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Bison_Steak_nkgtop.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf6",
@@ -29,8 +31,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Personal_Shield_Generator_uyfbfa.webp",
-        "pickup": "Gain a recharging shield."
+        "itemImage": "./img/Personal_Shield_Generator.png",
+        "pickup": "Gain a recharging shield.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Personal_Shield_Generator_uyfbfa.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf8",
@@ -40,8 +43,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Repulsion_Armor_Plate_uuzczu.webp",
-        "pickup": "Receive flat damage reduction from all attacks."
+        "itemImage": "./img/Repulsion_Armor_Plate.png",
+        "pickup": "Receive flat damage reduction from all attacks.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Repulsion_Armor_Plate_uuzczu.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae4",
@@ -51,8 +55,9 @@
         "cooldown": "none",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Armor-Piercing_Rounds_piabli.webp",
-        "pickup": "Deal extra damage to bosses."
+        "itemImage": "./img/Armor-Piercing_Rounds.png",
+        "pickup": "Deal extra damage to bosses.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Armor-Piercing_Rounds_piabli.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daed",
@@ -62,8 +67,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Focus_Crystal_vmua9y.webp",
-        "pickup": "Deal bonus damage to nearby enemies."
+        "itemImage": "./img/Focus_Crystal.png",
+        "pickup": "Deal bonus damage to nearby enemies.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Focus_Crystal_vmua9y.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae9",
@@ -73,8 +79,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Cautious_Slug_ib0ulb.webp",
-        "pickup": "Rapidly heal outside of danger."
+        "itemImage": "./img/Cautious_Slug.png",
+        "pickup": "Rapidly heal outside of danger.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Cautious_Slug_ib0ulb.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dafc",
@@ -84,8 +91,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Sticky_Bomb_bzawbh.webp",
-        "pickup": "Chance on hit to attach a bomb to enemies."
+        "itemImage": "./img/Sticky_Bomb.png",
+        "pickup": "Chance on hit to attach a bomb to enemies.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Sticky_Bomb_bzawbh.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daef",
@@ -95,8 +103,9 @@
         "cooldown": "None",
         "stackType": "None",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675226016/riskofrain/Item_Scrap_2C_White_teh6zv.webp",
-        "pickup": "Does nothing. Prioritized when used with 3D Printers."
+        "itemImage": "./img/Item_Scrap,_White.png",
+        "pickup": "Does nothing. Prioritized when used with 3D Printers.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675226016/riskofrain/Item_Scrap_2C_White_teh6zv.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf0",
@@ -106,8 +115,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Lens-Maker_27s_Glasses_ppfbiv.webp",
-        "pickup": "Gain 10% chance for hits to 'Critically Strike', dealing double damage."
+        "itemImage": "./img/Lens-Makers_Glasses.png",
+        "pickup": "Gain 10% chance for hits to 'Critically Strike', dealing double damage.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Lens-Maker_27s_Glasses_ppfbiv.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf1",
@@ -117,8 +127,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Medkit_jkl9eh.webp",
-        "pickup": "Receive a delayed heal after taking damage."
+        "itemImage": "./img/Medkit.png",
+        "pickup": "Receive a delayed heal after taking damage.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Medkit_jkl9eh.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf5",
@@ -128,8 +139,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Paul_27s_Goat_Hoof_yo14b1.webp",
-        "pickup": "Increase movement speed."
+        "itemImage": "./img/Pauls_Goat_Hoof.png",
+        "pickup": "Increase movement speed.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Paul_27s_Goat_Hoof_yo14b1.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dafa",
@@ -139,8 +151,9 @@
         "cooldown": "None",
         "stackType": "None",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Rusted_Key_nvckst.webp",
-        "pickup": "Gain access to a Rusty Lockbox that contains a powerful item."
+        "itemImage": "./img/Rusted_Key.png",
+        "pickup": "Gain access to a Rusty Lockbox that contains a powerful item.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Rusted_Key_nvckst.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf3",
@@ -150,8 +163,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Monster_Tooth_jkdsml.webp",
-        "pickup": "Drop a healing orb on kill."
+        "itemImage": "./img/Monster_Tooth.png",
+        "pickup": "Drop a healing orb on kill.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Monster_Tooth_jkdsml.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daeb",
@@ -161,8 +175,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Delicate_Watch_siyls7.webp",
-        "pickup": "...well, it's still right twice a day."
+        "itemImage": "./img/Delicate_Watch.png",
+        "pickup": "...well, it's still right twice a day.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Delicate_Watch_siyls7.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf9",
@@ -172,8 +187,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Roll_of_Pennies_fjrgkv.webp",
-        "pickup": "Gain gold on taking damage."
+        "itemImage": "./img/Roll_of_Pennies.png",
+        "pickup": "Gain gold on taking damage.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Roll_of_Pennies_fjrgkv.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dafb",
@@ -183,8 +199,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Soldier_27s_Syringe_wpx7nq.webp",
-        "pickup": "Increase attack speed."
+        "itemImage": "./img/Soldiers_Syringe.png",
+        "pickup": "Increase attack speed.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Soldier_27s_Syringe_wpx7nq.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daee",
@@ -194,8 +211,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Gasoline_yz7csa.webp",
-        "pickup": "Killing an enemy ignites other nearby enemies."
+        "itemImage": "./img/Gasoline.png",
+        "pickup": "Killing an enemy ignites other nearby enemies.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Gasoline_yz7csa.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae7",
@@ -205,8 +223,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Bundle_of_Fireworks_kqmmhp.webp",
-        "pickup": "Activating an interactable launches fireworks at nearby enemies."
+        "itemImage": "./img/Bundle_of_Fireworks.png",
+        "pickup": "Activating an interactable launches fireworks at nearby enemies.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Bundle_of_Fireworks_kqmmhp.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daec",
@@ -216,8 +235,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Energy_Drink_d2iugx.webp",
-        "pickup": "Increase sprint speed by +25%."
+        "itemImage": "./img/Energy_Drink.png",
+        "pickup": "Increase sprint speed by +25%.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Energy_Drink_d2iugx.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daff",
@@ -227,8 +247,9 @@
         "cooldown": "None",
         "stackType": "Hyperbolic",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tougher_Times_swgas2.webp",
-        "pickup": "Chance to block incoming damage."
+        "itemImage": "./img/Tougher_Times.png",
+        "pickup": "Chance to block incoming damage.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tougher_Times_swgas2.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daea",
@@ -238,8 +259,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Crowbar_t1qqei.webp",
-        "pickup": "Deal bonus damage to enemies above 90% health."
+        "itemImage": "./img/Crowbar.png",
+        "pickup": "Deal bonus damage to enemies above 90% health.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Crowbar_t1qqei.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf2",
@@ -249,8 +271,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Mocha_jwfm5x.webp",
-        "pickup": "Slightly increase attack speed and movement speed."
+        "itemImage": "./img/Mocha.png",
+        "pickup": "Slightly increase attack speed and movement speed.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Mocha_jwfm5x.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae5",
@@ -260,8 +283,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Backup_Magazine_m6yumm.webp",
-        "pickup": "Add an extra charge of your Secondary skill."
+        "itemImage": "./img/Backup_Magazine.png",
+        "pickup": "Add an extra charge of your Secondary skill.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Backup_Magazine_m6yumm.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db01",
@@ -271,8 +295,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Warbanner_das56b.webp",
-        "pickup": "Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed."
+        "itemImage": "./img/Warbanner.png",
+        "pickup": "Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Warbanner_das56b.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf4",
@@ -282,8 +307,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Oddly-shaped_Opal_z9hpxq.webp",
-        "pickup": "Reduce damage the first time you are hit."
+        "itemImage": "./img/Oddly-shaped_Opal.png",
+        "pickup": "Reduce damage the first time you are hit.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Oddly-shaped_Opal_z9hpxq.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dafd",
@@ -293,8 +319,9 @@
         "cooldown": "None",
         "stackType": "Hyperbolic",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Stun_Grenade_aky2jx.webp",
-        "pickup": "Chance to stun on hit."
+        "itemImage": "./img/Stun_Grenade.png",
+        "pickup": "Chance to stun on hit.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Stun_Grenade_aky2jx.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dafe",
@@ -304,8 +331,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Topaz_Brooch_yrzueu.webp",
-        "pickup": "Gain a temporary barrier on kill."
+        "itemImage": "./img/Topaz_Brooch.png",
+        "pickup": "Gain a temporary barrier on kill.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Topaz_Brooch_yrzueu.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae8",
@@ -315,8 +343,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Bustling_Fungus_hp8yzd.webp",
-        "pickup": "Heal all nearby allies after standing still for 1 second."
+        "itemImage": "./img/Bustling_Fungus.png",
+        "pickup": "Heal all nearby allies after standing still for 1 second.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Bustling_Fungus_hp8yzd.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db00",
@@ -326,7 +355,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Common",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tri-Tip_Dagger_zexn5n.webp",
-        "pickup": "Gain +10% chance to bleed enemies on hit."
+        "itemImage": "./img/Tri-Tip_Dagger.png",
+        "pickup": "Gain +10% chance to bleed enemies on hit.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tri-Tip_Dagger_zexn5n.webp"
     }
 ]

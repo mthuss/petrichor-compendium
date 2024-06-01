@@ -7,8 +7,9 @@
         "cooldown": "20 Seconds",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Singularity_Band_suet3p.webp",
-        "pickup": "High damage hits also create unstable black holes. Recharges over time. <style=cIsVoid>Corrupts all Runald's and Kjaro's Bands</style>."
+        "itemImage": "./img/Singularity_Band.png",
+        "pickup": "High damage hits also create unstable black holes. Recharges over time. <style=cIsVoid>Corrupts all Runald's and Kjaro's Bands</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Singularity_Band_suet3p.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db6c",
@@ -18,8 +19,9 @@
         "cooldown": "None",
         "stackType": "Hyperbolic",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Safer_Spaces_w6rzck.webp",
-        "pickup": "Block the next source of damage. <style=cIsVoid>Corrupts all Tougher Times</style>."
+        "itemImage": "./img/Safer_Spaces.png",
+        "pickup": "Block the next source of damage. <style=cIsVoid>Corrupts all Tougher Times</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Safer_Spaces_w6rzck.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db1d",
@@ -29,8 +31,9 @@
         "cooldown": "None",
         "stackType": "None",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Encrusted_Key_xdhwtb.webp",
-        "pickup": "Gain access to an Encrusted Cache that contains a void item. <style=cIsVoid>Corrupts all Rusted Keys</style>."
+        "itemImage": "./img/Encrusted_Key.png",
+        "pickup": "Gain access to an Encrusted Cache that contains a void item. <style=cIsVoid>Corrupts all Rusted Keys</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Encrusted_Key_xdhwtb.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db48",
@@ -40,8 +43,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lost_Seer_27s_Lenses_bjujxw.webp",
-        "pickup": "Gain a 0.5% chance to instantly kill a non-boss enemy. <style=cIsVoid>Corrupts all Lens-Maker's Glasses</style>."
+        "itemImage": "./img/Lost_Seers_Lenses.png",
+        "pickup": "Gain a 0.5% chance to instantly kill a non-boss enemy. <style=cIsVoid>Corrupts all Lens-Maker's Glasses</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lost_Seer_27s_Lenses_bjujxw.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db49",
@@ -51,8 +55,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lysate_Cell_tsczwz.webp",
-        "pickup": "Add an extra charge of your Special skill. <style=cIsVoid>Corrupts all Fuel Cells</style>."
+        "itemImage": "./img/Lysate_Cell.png",
+        "pickup": "Add an extra charge of your Special skill. <style=cIsVoid>Corrupts all Fuel Cells</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lysate_Cell_tsczwz.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db8f",
@@ -62,8 +67,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Weeping_Fungus_xnwb4q.webp",
-        "pickup": "Heal while sprinting. <style=cIsVoid>Corrupts all Bustling Fungi</style>."
+        "itemImage": "./img/Weeping_Fungus.png",
+        "pickup": "Heal while sprinting. <style=cIsVoid>Corrupts all Bustling Fungi</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Weeping_Fungus_xnwb4q.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db52",
@@ -73,8 +79,9 @@
         "cooldown": "None",
         "stackType": "Hyperbolic Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Newly_Hatched_Zoea_hhw2xg.webp",
-        "pickup": "Periodically recruit allies from the <style=cIsVoid>Void</style>. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>."
+        "itemImage": "./img/Newly_Hatched_Zoea.png",
+        "pickup": "Periodically recruit allies from the <style=cIsVoid>Void</style>. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Newly_Hatched_Zoea_hhw2xg.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db8a",
@@ -84,8 +91,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Voidsent_Flame_v8umua.webp",
-        "pickup": "Full health enemies detonate on hit. <style=cIsVoid>Corrupts all Will-o'-the-wisps</style>."
+        "itemImage": "./img/Voidsent_Flame.png",
+        "pickup": "Full health enemies detonate on hit. <style=cIsVoid>Corrupts all Will-o'-the-wisps</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Voidsent_Flame_v8umua.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db80",
@@ -95,8 +103,9 @@
         "cooldown": "Void",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tentabauble_gzah8x.webp",
-        "pickup": "Chance to root enemies on hit. <style=cIsVoid>Corrupts all Chronobaubles</style>."
+        "itemImage": "./img/Tentabauble.png",
+        "pickup": "Chance to root enemies on hit. <style=cIsVoid>Corrupts all Chronobaubles</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tentabauble_gzah8x.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db08",
@@ -106,8 +115,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Benthic_Bloom_sbcmws.webp",
-        "pickup": "Upgrades your items at the start of each stage. <style=cIsVoid>Corrupts all 57 Leaf Clovers</style>."
+        "itemImage": "./img/Benthic_Bloom.png",
+        "pickup": "Upgrades your items at the start of each stage. <style=cIsVoid>Corrupts all 57 Leaf Clovers</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Benthic_Bloom_sbcmws.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db59",
@@ -117,8 +127,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Pluripotent_Larva_wlpy7l.webp",
-        "pickup": "A spent item with no remaining power."
+        "itemImage": "./img/Pluripotent_Larva.png",
+        "pickup": "A spent item with no remaining power.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Pluripotent_Larva_wlpy7l.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db51",
@@ -128,8 +139,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Needletick_axaqfw.webp",
-        "pickup": "Chance to collapse enemies on hit. <style=cIsVoid>Corrupts all Tri-Tip Daggers</style>."
+        "itemImage": "./img/Needletick.png",
+        "pickup": "Chance to collapse enemies on hit. <style=cIsVoid>Corrupts all Tri-Tip Daggers</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Needletick_axaqfw.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db58",
@@ -139,8 +151,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Plasma_Shrimp_qrjogo.webp",
-        "pickup": "While you have shield, fire missiles on every hit. <style=cIsVoid>Corrupts all AtG Missile Mk. 1s</style>."
+        "itemImage": "./img/Plasma_Shrimp.png",
+        "pickup": "While you have shield, fire missiles on every hit. <style=cIsVoid>Corrupts all AtG Missile Mk. 1s</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Plasma_Shrimp_qrjogo.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db5b",
@@ -150,7 +163,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Polylute_dd5e2r.webp",
-        "pickup": "Chance to repeatedly strike a single enemy with lightning. <style=cIsVoid>Corrupts all Ukuleles</style>."
+        "itemImage": "./img/Polylute.png",
+        "pickup": "Chance to repeatedly strike a single enemy with lightning. <style=cIsVoid>Corrupts all Ukuleles</style>.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Polylute_dd5e2r.webp"
     }
 ]

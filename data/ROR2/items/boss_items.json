@@ -7,8 +7,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Empathy_Cores_uxafot.webp",
-        "pickup": "    Recruit a pair of Solus Probes that gain power with more allies."
+        "itemImage": "./img/Empathy_Cores.png",
+        "pickup": "    Recruit a pair of Solus Probes that gain power with more allies.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Empathy_Cores_uxafot.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db2f",
@@ -18,8 +19,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Halcyon_Seed_mhknzo.webp",
-        "pickup": "Summon Aurelionite during the Teleporter event."
+        "itemImage": "./img/Halcyon_Seed.png",
+        "pickup": "Summon Aurelionite during the Teleporter event.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Halcyon_Seed_mhknzo.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db40",
@@ -29,8 +31,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Item_Scrap_2C_Yellow_yazmpd.webp",
-        "pickup": "Does nothing. Prioritized when used with 3D Printers."
+        "itemImage": "./img/Item_Scrap,_Yellow.png",
+        "pickup": "Does nothing. Prioritized when used with 3D Printers.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Item_Scrap_2C_Yellow_yazmpd.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db3d",
@@ -40,8 +43,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211990/riskofrain/Irradiant_Pearl_cdadko.webp",
-        "pickup": "Increase ALL of your stats."
+        "itemImage": "./img/Irradiant_Pearl.png",
+        "pickup": "Increase ALL of your stats.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211990/riskofrain/Irradiant_Pearl_cdadko.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db56",
@@ -51,8 +55,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Pearl_h1mo0i.webp",
-        "pickup": "Increase ALL of your stats."
+        "itemImage": "./img/Pearl.png",
+        "pickup": "Increase ALL of your stats.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Pearl_h1mo0i.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db47",
@@ -62,8 +67,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Little_Disciple_yxnzqa.webp",
-        "pickup": "Fire tracking wisps while sprinting."
+        "itemImage": "./img/Little_Disciple.png",
+        "pickup": "Fire tracking wisps while sprinting.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Little_Disciple_yxnzqa.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db57",
@@ -73,8 +79,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Planula_q1lbah.webp",
-        "pickup": "Receive flat healing when attacked."
+        "itemImage": "./img/Planula.png",
+        "pickup": "Receive flat healing when attacked.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Planula_q1lbah.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db10",
@@ -84,8 +91,9 @@
         "cooldown": "Boss",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Charged_Perforator_bzp8kx.webp",
-        "pickup": "Chance on hit to call down a lightning strike."
+        "itemImage": "./img/Charged_Perforator.png",
+        "pickup": "Chance on hit to call down a lightning strike.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Charged_Perforator_bzp8kx.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db27",
@@ -95,8 +103,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Genesis_Loop_fnfoz4.webp",
-        "pickup": "Fire an electric nova at low health."
+        "itemImage": "./img/Genesis_Loop.png",
+        "pickup": "Fire an electric nova at low health.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Genesis_Loop_fnfoz4.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db4c",
@@ -106,8 +115,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Mired_Urn_evrz5e.webp",
-        "pickup": "Siphon health from nearby enemies while in combat."
+        "itemImage": "./img/Mired_Urn.png",
+        "pickup": "Siphon health from nearby enemies while in combat.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Mired_Urn_evrz5e.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db60",
@@ -117,8 +127,9 @@
         "cooldown": "30 Seconds",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Queen_27s_Gland_mcrckv.webp",
-        "pickup": "Recruit a Beetle Guard."
+        "itemImage": "./img/Queens_Gland.png",
+        "pickup": "Recruit a Beetle Guard.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Queen_27s_Gland_mcrckv.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db14",
@@ -128,8 +139,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Defense_Nucleus_vaarkh.webp",
-        "pickup": "Summon an Alpha Construct on killing an elite."
+        "itemImage": "./img/Defense_Nucleus.png",
+        "pickup": "Summon an Alpha Construct on killing an elite.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Defense_Nucleus_vaarkh.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db04",
@@ -139,8 +151,9 @@
         "cooldown": "None",
         "stackType": "None",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Artifact_Key_eqvix1.webp",
-        "pickup": "A stone shard with immense power."
+        "itemImage": "./img/Artifact_Key.png",
+        "pickup": "A stone shard with immense power.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Artifact_Key_eqvix1.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db72",
@@ -150,8 +163,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shatterspleen_lrmjwc.webp",
-        "pickup": "Critical strikes always bleed enemies. Bleeding enemies now explode."
+        "itemImage": "./img/Shatterspleen.png",
+        "pickup": "Critical strikes always bleed enemies. Bleeding enemies now explode.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shatterspleen_lrmjwc.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db83",
@@ -161,8 +175,9 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Titanic_Knurl_lezjsh.webp",
-        "pickup": "Boosts health and regeneration."
+        "itemImage": "./img/Titanic_Knurl.png",
+        "pickup": "Boosts health and regeneration.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Titanic_Knurl_lezjsh.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db4e",
@@ -172,7 +187,8 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Molten_Perforator_ir2crm.webp",
-        "pickup": "Chance on hit to fire magma balls."
+        "itemImage": "./img/Molten_Perforator.png",
+        "pickup": "Chance on hit to fire magma balls.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Molten_Perforator_ir2crm.webp"
     }
 ]
