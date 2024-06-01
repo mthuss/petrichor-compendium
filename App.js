@@ -5,9 +5,6 @@ import Navigation from './components/Navigation';
 import { useFonts } from 'expo-font';
 
 export default function App() {
-  const [fontsLoaded] = useFonts({
-    'Risk-of-Rain': require('./assets/fonts/risk-of-rain.ttf')
-})
   return (
     <SafeAreaView style={{flex:1}}>
       <NavigationContainer>
