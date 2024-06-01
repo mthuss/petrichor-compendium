@@ -7,7 +7,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Unstable_Tesla_Coil.png",
+        "itemImage": "Unstable_Tesla_Coil.png",
         "pickup": "Shock all nearby enemies every 10 seconds.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Unstable_Tesla_Coil_pz6y2w.webp"
     },
@@ -19,7 +19,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Brilliant_Behemoth.png",
+        "itemImage": "Brilliant_Behemoth.png",
         "pickup": "All your attacks explode!",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Brilliant_Behemoth_tcvtqd.webp"
     },
@@ -31,7 +31,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Hardlight_Afterburner.png",
+        "itemImage": "Hardlight_Afterburner.png",
         "pickup": "Add 2 extra charges of your Utility skill. Reduce Utility skill cooldown.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Hardlight_Afterburner_ugs0m8.webp"
     },
@@ -43,7 +43,7 @@
         "cooldown": "5 Seconds",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Bens_Raincoat.png",
+        "itemImage": "Bens_Raincoat.png",
         "pickup": "Prevent debuffs, instead gaining a temporary barrier.  Recharges over time.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Ben_27s_Raincoat_dgjvuu.webp"
     },
@@ -55,7 +55,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Interstellar_Desk_Plant.png",
+        "itemImage": "Interstellar_Desk_Plant.png",
         "pickup": "Plant a healing fruit on kill.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211990/riskofrain/Interstellar_Desk_Plant_nkounf.webp"
     },
@@ -67,7 +67,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Spare_Drone_Parts.png",
+        "itemImage": "Spare_Drone_Parts.png",
         "pickup": "Your drones fire faster, have less cooldowns, shoot missiles, and gain a bonus chaingun.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Spare_Drone_Parts_w8leo2.webp"
     },
@@ -79,7 +79,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Item_Scrap,_Red.png",
+        "itemImage": "Item_Scrap,_Red.png",
         "pickup": "Does nothing. Prioritized when used with 3D Printers.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211990/riskofrain/Item_Scrap_2C_Red_fqsisk.webp"
     },
@@ -91,7 +91,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Shattering_Justice.png",
+        "itemImage": "Shattering_Justice.png",
         "pickup": "Reduce the armor of enemies after repeatedly striking them.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Shattering_Justice_rx4ihu.webp"
     },
@@ -103,7 +103,7 @@
         "cooldown": "Legendary",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Brainstalks.png",
+        "itemImage": "Brainstalks.png",
         "pickup": "Skills have NO cooldowns for a short period after killing an elite.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211980/riskofrain/Brainstalks_yr9kvn.webp"
     },
@@ -115,7 +115,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Happiest_Mask.png",
+        "itemImage": "Happiest_Mask.png",
         "pickup": "Chance on killing an enemy to summon a ghost.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Happiest_Mask_hin9r1.webp"
     },
@@ -127,7 +127,7 @@
         "cooldown": "0.5 Seconds",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Defensive_Microbots.png",
+        "itemImage": "Defensive_Microbots.png",
         "pickup": "Shoot down nearby projectiles. Recharge rate scales with attack speed.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Defensive_Microbots_osnogs.webp"
     },
@@ -139,7 +139,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Wake_of_Vultures.png",
+        "itemImage": "Wake_of_Vultures.png",
         "pickup": "Temporarily steal the power of slain elites.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Wake_of_Vultures_dby3cp.webp"
     },
@@ -151,7 +151,7 @@
         "cooldown": "None",
         "stackType": "Hyperbolic",
         "rarity": "Legendary",
-        "itemImage": "./img/Alien_Head.png",
+        "itemImage": "Alien_Head.png",
         "pickup": "Reduces cooldowns for your skills.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Alien_Head_iqo1uv.webp"
     },
@@ -163,7 +163,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Sentient_Meat_Hook.png",
+        "itemImage": "Sentient_Meat_Hook.png",
         "pickup": "Chance to hook all nearby enemies.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Sentient_Meat_Hook_kcdowq.webp"
     },
@@ -175,7 +175,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Symbiotic_Scorpion.png",
+        "itemImage": "Symbiotic_Scorpion.png",
         "pickup": "Permanently reduce armor on hit.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Symbiotic_Scorpion_cmybwb.webp"
     },
@@ -187,7 +187,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Dios_Best_Friend.png",
+        "itemImage": "Dios_Best_Friend.png",
         "pickup": "A spent item with no remaining power.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Dio_27s_Best_Friend_o9xzwz.webp"
     },
@@ -199,7 +199,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Ceremonial_Dagger.png",
+        "itemImage": "Ceremonial_Dagger.png",
         "pickup": "Killing an enemy releases homing daggers.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Ceremonial_Dagger_nysxat.webp"
     },
@@ -211,7 +211,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Nkuhanas_Opinion.png",
+        "itemImage": "Nkuhanas_Opinion.png",
         "pickup": "Fire haunting skulls when healed.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/N27s_Opinion_wjwwga.webp"
     },
@@ -223,7 +223,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Soulbound_Catalyst.png",
+        "itemImage": "Soulbound_Catalyst.png",
         "pickup": "Kills reduce equipment cooldown.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Soulbound_Catalyst_gbkvgd.webp"
     },
@@ -235,7 +235,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Pocket_I.C.B.M..png",
+        "itemImage": "Pocket_I.C.B.M..png",
         "pickup": "All Missile items deal more damage and fire an additional two missiles.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Pocket_I.C.B.M._ni8djk.webp"
     },
@@ -247,7 +247,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Resonance_Disc.png",
+        "itemImage": "Resonance_Disc.png",
         "pickup": "Obtain a Resonance Disc charged by killing enemies. Fires automatically when fully charged.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Resonance_Disc_duxqpu.webp"
     },
@@ -259,7 +259,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Bottled_Chaos.png",
+        "itemImage": "Bottled_Chaos.png",
         "pickup": "Activating your Equipment triggers an additional, random Equipment effect.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211979/riskofrain/Bottled_Chaos_zg5dsr.webp"
     },
@@ -271,7 +271,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Frost_Relic.png",
+        "itemImage": "Frost_Relic.png",
         "pickup": "Killing enemies surrounds you with an ice storm.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Frost_Relic_f3uufi.webp"
     },
@@ -283,7 +283,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Aegis.png",
+        "itemImage": "Aegis.png",
         "pickup": "Healing past full grants you a temporary barrier.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Aegis_qmmraq.webp"
     },
@@ -295,7 +295,7 @@
         "cooldown": "10 Seconds",
         "stackType": "Hyperbolic",
         "rarity": "Legendary",
-        "itemImage": "./img/H3AD-5T_v2.png",
+        "itemImage": "H3AD-5T_v2.png",
         "pickup": "Increase jump height. Hold 'Interact' to slam down to the ground.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/H3AD-5T_v2_bignia.webp"
     },
@@ -307,7 +307,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Legendary",
-        "itemImage": "./img/Rejuvenation_Rack.png",
+        "itemImage": "Rejuvenation_Rack.png",
         "pickup": "Double the strength of healing.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Rejuvenation_Rack_t6s9mw.webp"
     }

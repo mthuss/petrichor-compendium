@@ -7,7 +7,7 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Sawmerang.png",
+        "itemImage": "Sawmerang.png",
         "pickup": "Throw a fan of buzzing saws that come back to you.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Sawmerang_pjdkxl.webp"
     },
@@ -19,7 +19,7 @@
         "cooldown": "20 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Blast_Shower.png",
+        "itemImage": "Blast_Shower.png",
         "pickup": "Cleanse all negative effects.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Blast_Shower_aiabjx.webp"
     },
@@ -31,7 +31,7 @@
         "cooldown": "0.1 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Executive_Card.png",
+        "itemImage": "Executive_Card.png",
         "pickup": "Gain 10% cash back on all purchases. Multishops remain open.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Executive_Card_tuek5j.webp"
     },
@@ -43,7 +43,7 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Foreign_Fruit.png",
+        "itemImage": "Foreign_Fruit.png",
         "pickup": "Heal on use.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Foreign_Fruit_c5he15.webp"
     },
@@ -55,7 +55,7 @@
         "cooldown": "60 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Remote_Caffeinator.png",
+        "itemImage": "Remote_Caffeinator.png",
         "pickup": "Request a healing soda machine.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Remote_Caffeinator_ymdtpr.webp"
     },
@@ -67,7 +67,7 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Recycler.png",
+        "itemImage": "Recycler.png",
         "pickup": "Transform an Item or Equipment into a different one. Can only recycle once.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Recycler_vowjzd.webp"
     },
@@ -79,7 +79,7 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Eccentric_Vase.png",
+        "itemImage": "Eccentric_Vase.png",
         "pickup": "Create a quantum tunnel between two locations.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Eccentric_Vase_htz2bb.webp"
     },
@@ -91,7 +91,7 @@
         "cooldown": "100 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Goobo_Jr..png",
+        "itemImage": "Goobo_Jr..png",
         "pickup": "Create a clone of you for 30 seconds.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Goobo_Jr._hfyjsw.webp"
     },
@@ -103,7 +103,7 @@
         "cooldown": "60 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Trophy_Hunters_Tricorn.png",
+        "itemImage": "Trophy_Hunters_Tricorn.png",
         "pickup": "Looks kinda cool, but that's about it.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Trophy_Hunter_27s_Tricorn_t6fklh.webp"
     },
@@ -115,7 +115,7 @@
         "cooldown": "145 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Preon_Accumulator.png",
+        "itemImage": "Preon_Accumulator.png",
         "pickup": "Fire a ball of energy that electrocutes nearby enemies before detonating.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Preon_Accumulator_vconr8.webp"
     },
@@ -127,7 +127,7 @@
         "cooldown": "30 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Volcanic_Egg.png",
+        "itemImage": "Volcanic_Egg.png",
         "pickup": "Transform into a speeding draconic fireball, dealing damage as you pass through enemies.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Volcanic_Egg_znaj7y.webp"
     },
@@ -139,7 +139,7 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Disposable_Missile_Launcher.png",
+        "itemImage": "Disposable_Missile_Launcher.png",
         "pickup": "Fire a swarm of missiles.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Disposable_Missile_Launcher_eh6yyh.webp"
     },
@@ -151,7 +151,7 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Forgive_Me_Please.png",
+        "itemImage": "Forgive_Me_Please.png",
         "pickup": "Throw a cursed doll that repeatedly triggers your 'On Kill' effects.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Forgive_Me_Please_l9bxhw.webp"
     },
@@ -163,7 +163,7 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Jade_Elephant.png",
+        "itemImage": "Jade_Elephant.png",
         "pickup": "Gain massive armor for 5 seconds.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Jade_Elephant_pcxbmd.webp"
     },
@@ -175,7 +175,7 @@
         "cooldown": "60 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Primordial_Cube.png",
+        "itemImage": "Primordial_Cube.png",
         "pickup": "Fire a black hole that draws enemies in.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Primordial_Cube_gkgerf.webp"
     },
@@ -187,7 +187,7 @@
         "cooldown": "None",
         "stackType": "Mending",
         "rarity": "Equipment",
-        "itemImage": "./img/His_Reassurance.png",
+        "itemImage": "His_Reassurance.png",
         "pickup": "    Become an aspect of earth.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/His_Reassurance_a7f9dj.webp"
     },
@@ -199,7 +199,7 @@
         "cooldown": "None",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Fuel_Array.png",
+        "itemImage": "Fuel_Array.png",
         "pickup": "Looks like it could power something. <color=#FF7F7F>EXTREMELY unstable...</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Fuel_Array_bptuoc.webp"
     },
@@ -211,7 +211,7 @@
         "cooldown": "60 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Milky_Chrysalis.png",
+        "itemImage": "Milky_Chrysalis.png",
         "pickup": "    Gain temporary flight.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Milky_Chrysalis_ceovsf.webp"
     },
@@ -223,7 +223,7 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Molotov_(6-Pack).png",
+        "itemImage": "Molotov_(6-Pack).png",
         "pickup": "Throw 6 flaming molotovs that ignite enemies upon shattering.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Molotov_29_jfctfw.webp"
     },
@@ -235,7 +235,7 @@
         "cooldown": "None",
         "stackType": "Perfected",
         "rarity": "Equipment",
-        "itemImage": "./img/Shared_Design.png",
+        "itemImage": "Shared_Design.png",
         "pickup": "    Become an aspect of perfection.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Shared_Design_qy4ffd.webp"
     },
@@ -247,7 +247,7 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Gorags_Opus.png",
+        "itemImage": "Gorags_Opus.png",
         "pickup": "You and all your allies enter a frenzy.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211988/riskofrain/Gorag_27s_Opus_avav1f.webp"
     },
@@ -259,7 +259,7 @@
         "cooldown": "60 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Ocular_HUD.png",
+        "itemImage": "Ocular_HUD.png",
         "pickup": "Gain 100% Critical Strike Chance for 8 seconds.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Ocular_HUD_t2ptgo.webp"
     },
@@ -271,7 +271,7 @@
         "cooldown": "15 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Gnarled_Woodsprite.png",
+        "itemImage": "Gnarled_Woodsprite.png",
         "pickup": "Heal over time. Activate to send to an ally.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Gnarled_Woodsprite_zjjkoy.webp"
     },
@@ -283,7 +283,7 @@
         "cooldown": "None",
         "stackType": "Blazing",
         "rarity": "Equipment",
-        "itemImage": "./img/Ifrits_Distinction.png",
+        "itemImage": "Ifrits_Distinction.png",
         "pickup": "    Become an aspect of fire.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Ifrit_27s_Distinction_t9fgoh.webp"
     },
@@ -295,7 +295,7 @@
         "cooldown": "None",
         "stackType": "Malachite",
         "rarity": "Equipment",
-        "itemImage": "./img/Nkuhanas_Retort.png",
+        "itemImage": "Nkuhanas_Retort.png",
         "pickup": "    Become an aspect of corruption.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/N27s_Retort_gyb0mj.webp"
     },
@@ -307,7 +307,7 @@
         "cooldown": "100 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/The_Back-up.png",
+        "itemImage": "The_Back-up.png",
         "pickup": "Call drones for back up. Lasts 25 seconds.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/The_Back-up_hlesai.webp"
     },
@@ -319,7 +319,7 @@
         "cooldown": "None",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/The_Crowdfunder.png",
+        "itemImage": "The_Crowdfunder.png",
         "pickup": "    Toggle to fire. Costs gold per bullet.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/The_Crowdfunder_cnhghg.webp"
     },
@@ -331,7 +331,7 @@
         "cooldown": "45 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Radar_Scanner.png",
+        "itemImage": "Radar_Scanner.png",
         "pickup": "Reveal all nearby interactables.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Radar_Scanner_mwawsd.webp"
     },
@@ -343,7 +343,7 @@
         "cooldown": "None",
         "stackType": "Celestine",
         "rarity": "Equipment",
-        "itemImage": "./img/Spectral_Circlet.png",
+        "itemImage": "Spectral_Circlet.png",
         "pickup": "    Become an aspect of incorporeality.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Spectral_Circlet_zstf6q.webp"
     },
@@ -355,7 +355,7 @@
         "cooldown": "60 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Super_Massive_Leech.png",
+        "itemImage": "Super_Massive_Leech.png",
         "pickup": "Heal for a percentage of the damage you deal for 8 seconds.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675225566/riskofrain/Super_Massive_Leech_tffuhu.webp"
     },
@@ -367,7 +367,7 @@
         "cooldown": "None",
         "stackType": "Glacial",
         "rarity": "Equipment",
-        "itemImage": "./img/Her_Biting_Embrace.png",
+        "itemImage": "Her_Biting_Embrace.png",
         "pickup": "    Become an aspect of ice.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Her_Biting_Embrace_erhwro.webp"
     },
@@ -379,7 +379,7 @@
         "cooldown": "20 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Royal_Capacitor.png",
+        "itemImage": "Royal_Capacitor.png",
         "pickup": "    Call down a lightning strike on a targeted monster.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Royal_Capacitor_niztoy.webp"
     },
@@ -391,7 +391,7 @@
         "cooldown": "None",
         "stackType": "Overloading",
         "rarity": "Equipment",
-        "itemImage": "./img/Silence_Between_Two_Strikes.png",
+        "itemImage": "Silence_Between_Two_Strikes.png",
         "pickup": "    Become an aspect of lightning.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Silence_Between_Two_Strikes_dvofke.webp"
     },
@@ -403,7 +403,7 @@
         "cooldown": "60 Seconds",
         "stackType": "None",
         "rarity": "Equipment",
-        "itemImage": "./img/Trophy_Hunters_Tricorn_(Consumed).png",
+        "itemImage": "Trophy_Hunters_Tricorn_(Consumed).png",
         "pickup": "Looks kinda cool, but that's about it.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675225671/riskofrain/Trophy_Hunter28Consumed_29_wgkvmw.webp"
     }

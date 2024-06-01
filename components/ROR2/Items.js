@@ -19,6 +19,7 @@ export default props => {
         "lunar": require(data_dir+'lunar_items.json'),
         "boss": require(data_dir+'boss_items.json'),
     }
+    const tesla_img = items_list["legendary"][0]["itemImage"]
     return(
         <View style={Styles.container}>
             <ImageBackground source={require('../../assets/main_bg.png')} resizeMode="cover" style={Styles.imageBackground}>
@@ -29,7 +30,7 @@ export default props => {
                     </View>
                     <View style={{flex: 1, backgroundColor: "#1a1b20", borderStyle: "solid", borderWidth: 10, borderColor:"#2c2e3a", borderRadius: 5}}>
                         <View style={{flex: 1, marginTop: 54}}>
-                            <Text style={{color: "#fff"}}>{items_list["boss"][0]["itemName"]}</Text>
+                            <Text style={{color: "#fff"}}>{items_list["legendary"][0]["itemName"]} {tesla_img}</Text>
                         </View>
                     </View>
                 </View>
