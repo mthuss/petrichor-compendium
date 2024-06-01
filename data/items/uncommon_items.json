@@ -210,14 +210,14 @@
     },
     {
         "_id": "63d9f34f6d08bb0acd07db62",
-        "itemName": "Razor Wire",
+        "itemName": "Razorwire",
         "color": "Green",
         "description": "Getting hit causes you to explode in a burst of razors, dealing 160% damage. Hits up to 5 (+2 per stack) targets in a 25m (+10m per stack) radius",
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
         "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Razorwire_m8chlq.webp",
-        "pickup": "Enter a frenzy after killing 4 enemies in quick succession."
+        "pickup": "Retaliate in a burst of razors on taking damage."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db6b",
@@ -331,13 +331,13 @@
     },
     {
         "_id": "63d9fa11e25473935853a6bb",
-        "itemName": "AtG Missle Mk.1",
+        "itemName": "AtG Missile Mk. 1",
         "color": "Green",
         "description": "10% chance to fire a missile that deals 300% (+300% per stack) TOTAL damage.",
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Uncommon",
         "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/AtG_Missile_Mk._1_rhv73j.webp",
-        "pickup": "Reduce incoming damage while sprinting."
+        "pickup": "Chance to fire a missile."
     }
 ]

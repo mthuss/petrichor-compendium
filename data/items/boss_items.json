@@ -144,14 +144,14 @@
     },
     {
         "_id": "63d9f34f6d08bb0acd07db72",
-        "itemName": "Shatter Spleen",
+        "itemName": "Shatterspleen",
         "color": "Yellow",
         "description": "Gain 5% critical chance. Critical Strikes bleed enemies for 240% base damage. Bleeding enemies explode on death for 400% (+400% per stack) damage, plus an additional 15% (+15% per stack) of their maximum health.",
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
         "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shatterspleen_lrmjwc.webp",
-        "pickup": "A stone shard with immense power."
+        "pickup": "Critical strikes always bleed enemies. Bleeding enemies now explode."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db83",

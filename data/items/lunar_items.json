@@ -12,7 +12,7 @@
     },
     {
         "_id": "63d9f34f6d08bb0acd07db33",
-        "itemName": "Helfire Tincture",
+        "itemName": "Hellfire Tincture",
         "color": "Blue",
         "description": "Ignite ALL characters within 15m for 12s. Deal 5% of your maximum health/second as burning as damage. The burn is 0.5x stronger on yourself, 0.25x stronger on allies, and 24x stronger on enemies.",
         "cooldown": "45 Seconds",

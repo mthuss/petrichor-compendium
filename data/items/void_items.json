@@ -34,14 +34,14 @@
     },
     {
         "_id": "63d9f34f6d08bb0acd07db48",
-        "itemName": "Lost seer's Lenses",
+        "itemName": "Lost Seer's Lenses",
         "color": "Purple",
         "description": "Your attacks have a 0.5% (+0.5% per stack) chance to instantly kill a non-Boss enemy. Corrupts all Lens-Maker's Glasses.",
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
         "itemImage": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lost_Seer_27s_Lenses_bjujxw.webp",
-        "pickup": "Gain access to an Encrusted Cache that contains a void item. <style=cIsVoid>Corrupts all Rusted Keys</style>."
+        "pickup": "Gain a 0.5% chance to instantly kill a non-boss enemy. <style=cIsVoid>Corrupts all Lens-Maker's Glasses</style>."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db49",
