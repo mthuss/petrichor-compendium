@@ -1,7 +1,7 @@
 import React from 'react';
 import Styles from './Styles';
 import { Dimensions, Image, ImageBackground, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
-import RORButton from './RORButton';
+import { RORButton } from './RORComponents';
 import { useFonts } from 'expo-font';
 
 const aspectRatio = 1080 / 1000

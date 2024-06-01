@@ -17,5 +17,13 @@ export default Styles = StyleSheet.create({
     container: {
         flex: 1,
     },
+    header: {
+        justifyContent: "center",
+        alignContent: "center",
+        alignItems: "center",
+        zIndex: 5,
+        top: 0,
+        position: "absolute"
+    }
 
 })

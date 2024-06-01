@@ -2,7 +2,7 @@ import { TouchableOpacity, View } from "react-native";
 import Styles from "./Styles";
 import { StyleSheet } from "react-native";
 
-export default props => {
+export const RORButton = props => {
     return (
         <TouchableOpacity style={Styles.button} onPress={props.onPress}>
             <View style={styles.buttonInside}>
