@@ -1,5 +1,16 @@
 import { StyleSheet } from "react-native";
 
+export const itemColors = {
+    "all": "#a6aeb1",
+    "common": "#a6aeb1",
+    "uncommon": "#7bc742",
+    "legendary": "#f75a44",
+    "void": "#e49bf1",
+    "lunar": "#3ad0eb",
+    "boss": "#ceda23",
+    "equipment": "#e6902e"
+}
+
 export default Styles = StyleSheet.create({
     RORText:{
         fontFamily: "Risk-of-Rain", 
