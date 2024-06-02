@@ -1,0 +1,101 @@
+[
+    {
+        "_id": "b2884c39baca54a1915316cc833fa4",
+        "itemName": "White Undershirt (M)",
+        "pickup": "+2 STR S>2m or best offer @@@@@@@@",
+        "description": "Increases armor by 3",
+        "rarity": "special",
+        "aquisition": "Drops from the Armored Boarlit on Boar Beach.",
+        "drop": "",
+        "category": "Item",
+        "itemImage": "https://riskofrainreturns.wiki.gg/images/5/54/Whiteundershirtm.png"
+    },
+    {
+        "_id": "626118fa7a99544714532b99e6b737",
+        "itemName": "Keycard",
+        "pickup": "Opens locked security doors.",
+        "description": "Opens locked security doors.",
+        "rarity": "special",
+        "aquisition": "Golden Canisters, enemy drops on Risk of Rain.",
+        "drop": "",
+        "category": "Item",
+        "itemImage": "https://riskofrainreturns.wiki.gg/images/d/d4/Keycard.png"
+    },
+    {
+        "_id": "96d8c2129dcff40286fdab8b6b8ea6",
+        "itemName": "Small Enigma",
+        "pickup": "Reduce the cooldown of equipment.",
+        "description": "Reduce the cooldown of equipment.",
+        "rarity": "special",
+        "aquisition": "Drops whenever an equipment would have with the Artifact of Enigma enabled.",
+        "drop": "",
+        "category": "Item",
+        "itemImage": "https://riskofrainreturns.wiki.gg/images/8/8f/Smallenigma.png"
+    },
+    {
+        "_id": "6a8e7f669123350b7d2873adfc9926",
+        "itemName": "Strange Battery",
+        "pickup": "Bzzzt.",
+        "description": "The Strange Battery is an special equipment that doesn't have an entry log, its use is part of a series of steps leading to the unlock of a certain character. The Strange Battery can be found on every variant of Temple of the Elders when playing on Drizzle difficulty. It can be found inside an intractable urn, which drops the item when prompted. The urn is typically located along the edges of the stage. A way to differentiate the urn from similar ones throughout the stage is by its design - bearing a plus-shaped symbol connected to two bracket-like shapes.",
+        "rarity": "special",
+        "aquisition": "Hidden in a unique interactable vase on all variants of stage 5, but only on Drizzle.",
+        "drop": "",
+        "category": "Equipment",
+        "itemImage": "https://riskofrainreturns.wiki.gg/images/4/4f/Strangebattery.png"
+    },
+    {
+        "_id": "ebf2390161c08a6611d333ec0426a4",
+        "itemName": "Big Bison Steak",
+        "pickup": "Increase health regeneration and movement speed.",
+        "description": "\tIncrease health regeneration and movement speed.",
+        "rarity": "special",
+        "aquisition": "One of the meals CHEF can produce from COOK.",
+        "drop": "",
+        "category": "Meal",
+        "itemImage": "https://riskofrainreturns.wiki.gg/images/1/11/Bigbisonsteak.png?20231111080300"
+    },
+    {
+        "_id": "4f53ffac4ac38ca338e4a30cfef8dd",
+        "itemName": "Marinated Lizard Loaf",
+        "pickup": "Increased damage.",
+        "description": "Increased damage.",
+        "rarity": "special",
+        "aquisition": "One of the meals CHEF can produce from COOK.",
+        "drop": "",
+        "category": "Meal",
+        "itemImage": "https://riskofrainreturns.wiki.gg/images/3/35/Marinatedlizardload.png?20231111080331"
+    },
+    {
+        "_id": "6c86f5d53d6ab4d6ccd27534f059c7",
+        "itemName": "Golem Essence on the Rocks",
+        "pickup": "Gain barrier and increased armor.",
+        "description": "Gain barrier and increased armor.",
+        "rarity": "special",
+        "aquisition": "One of the meals CHEF can produce from COOK.",
+        "drop": "",
+        "category": "Meal",
+        "itemImage": "https://riskofrainreturns.wiki.gg/images/4/44/Golemessenceontherocks.png?20231111080315"
+    },
+    {
+        "_id": "a462e8b54eaa597f93e9eef2e03b27",
+        "itemName": "Jelly Brain Salad",
+        "pickup": "Reduces skill cooldowns by 1 second.",
+        "description": "Reduces skill cooldowns by 1 second.",
+        "rarity": "special",
+        "aquisition": "One of the meals CHEF can produce from COOK.",
+        "drop": "",
+        "category": "Meal",
+        "itemImage": "https://riskofrainreturns.wiki.gg/images/4/44/Jellybrainsalad.png?20231111080323"
+    },
+    {
+        "_id": "1b7cbea79909a73ff889c2d33ec618",
+        "itemName": "Fried Eyeball",
+        "pickup": "Slow nearby enemies.",
+        "description": "Slow nearby enemies.",
+        "rarity": "special",
+        "aquisition": "One of the meals CHEF can produce from COOK.",
+        "drop": "",
+        "category": "Meal",
+        "itemImage": "https://riskofrainreturns.wiki.gg/images/3/3f/Friedeyeball.png?20231111080307"
+    }
+]
