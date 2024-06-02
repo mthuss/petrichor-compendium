@@ -1,4 +1,4 @@
-import { View, ImageBackground, Text, Image, FlatList, TouchableOpacity } from 'react-native'
+import { View, TextInput, ImageBackground, Text, Image, FlatList, TouchableOpacity } from 'react-native'
 import Styles from '../Styles'
 import { useState } from 'react'
 import { ItemIcon, RORButton } from '../RORComponents'
@@ -20,7 +20,16 @@ export default props => {
     const allItems = [...items_list["common"], ...items_list["uncommon"], ...items_list["legendary"], ...items_list["void"], ...items_list["lunar"], ...items_list["boss"], ...items_list["equipment"]]
     const [showType, setShowType] = useState("all")
     const [filterText, setFilterText] = useState("Showing all")
-    const [reachedEnd, setReachedEnd] = useState(false)
+    const [query, setQuery] = useState("")
+    const [filteredList, setFilteredList] = useState(showType == "all" ? allItems : items_list[showType])
+
+    function handleTextChange(query) {
+        setQuery(query)
+        if(showType == "all")
+            setFilteredList(allItems.filter(item => (item["itemName"].toLowerCase().includes(query.toLowerCase()))))
+        else
+            setFilteredList(items_list[showType].filter(item => (item["itemName"].toLowerCase().includes(query.toLowerCase()))))
+    }
 
     return (
         <View style={Styles.container}>
@@ -35,7 +44,10 @@ export default props => {
                     </View>
                     <View style={{ flex: 1, backgroundColor: "#1a1b20", borderStyle: "solid", borderWidth: 10, borderColor: "#2c2e3a", borderRadius: 5 }}>
                         <View style={{ flex: 1, marginTop: 54, justifyContent: "center" }}>
-                            <FlatList data={showType == "all" && allItems || items_list[showType]}
+                            <View style={{marginLeft: 10, marginRight: 10, marginBottom: 6}}>
+                                <TextInput fontSize={16} paddingLeft={6} placeholderTextColor={Styles.RORText.color} fontFamily={Styles.RORText.fontFamily} style={Styles.RORText} color={Styles.RORText.color} placeholder="Search..." onChangeText={handleTextChange} value={query} />
+                            </View>
+                            <FlatList data={filteredList}
                                 keyExtractor={item => item["_id"]}
                                 numColumns={2}
                                 renderItem={(item) =>
@@ -47,11 +59,6 @@ export default props => {
                             />
                         </View>
                     </View>
-                    {!reachedEnd &&
-                        <TouchableOpacity style={Styles.FloatingButton} onPress={() => props.navigation.navigate("ROR2ItemSearch")}>
-                            <Ionicon name="search" size={32} color={Styles.RORText.color} />
-                        </TouchableOpacity>
-                    }
                 </View>
             </ImageBackground>
         </View>

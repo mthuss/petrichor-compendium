@@ -11,6 +11,12 @@ export const itemColors = {
     "equipment": "#e6902e"
 }
 
+export const colors = {
+    mainBg: "#333a4c",
+    bgAlt: "#1a1b20",
+    buttonBorder: "#4b4b57",
+}
+
 export default Styles = StyleSheet.create({
     RORText:{
         fontFamily: "Risk-of-Rain", 
@@ -71,6 +77,21 @@ export default Styles = StyleSheet.create({
         backgroundColor: "#1a1b20",
         margin: 10,
         borderRadius: 5,
-    }
+    },
+    FloatingButton: {
+        borderRadius: 5,
+        height: 64,
+        width: 64,
+        backgroundColor: colors.mainBg,
+        justifyContent: "center",
+        alignItems: "center",
+        position: "absolute",
+        bottom: 20,
+        right: 32,
+        elevation: 2,
+        borderColor: colors.buttonBorder,
+        borderStyle: "solid",
+        borderWidth: 5
+    },
 
 })
