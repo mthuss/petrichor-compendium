@@ -7,7 +7,7 @@
         "cooldown": "20 Seconds",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Singularity_Band.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/3/30/Singularity_Band.png",
         "pickup": "High damage hits also create unstable black holes. Recharges over time. <style=cIsVoid>Corrupts all Runald's and Kjaro's Bands</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Singularity_Band_suet3p.webp"
     },
@@ -19,7 +19,7 @@
         "cooldown": "None",
         "stackType": "Hyperbolic",
         "rarity": "Void",
-        "itemImage": "Safer_Spaces.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/9/9d/Safer_Spaces.png",
         "pickup": "Block the next source of damage. <style=cIsVoid>Corrupts all Tougher Times</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Safer_Spaces_w6rzck.webp"
     },
@@ -31,7 +31,7 @@
         "cooldown": "None",
         "stackType": "None",
         "rarity": "Void",
-        "itemImage": "Encrusted_Key.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/f/fa/Encrusted_Key.png",
         "pickup": "Gain access to an Encrusted Cache that contains a void item. <style=cIsVoid>Corrupts all Rusted Keys</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Encrusted_Key_xdhwtb.webp"
     },
@@ -43,7 +43,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Lost_Seers_Lenses.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/1/14/Lost_Seer%27s_Lenses.png",
         "pickup": "Gain a 0.5% chance to instantly kill a non-boss enemy. <style=cIsVoid>Corrupts all Lens-Maker's Glasses</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lost_Seer_27s_Lenses_bjujxw.webp"
     },
@@ -55,7 +55,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Lysate_Cell.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/5/53/Lysate_Cell.png",
         "pickup": "Add an extra charge of your Special skill. <style=cIsVoid>Corrupts all Fuel Cells</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Lysate_Cell_tsczwz.webp"
     },
@@ -67,7 +67,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Weeping_Fungus.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/e/e1/Weeping_Fungus.png",
         "pickup": "Heal while sprinting. <style=cIsVoid>Corrupts all Bustling Fungi</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Weeping_Fungus_xnwb4q.webp"
     },
@@ -79,7 +79,7 @@
         "cooldown": "None",
         "stackType": "Hyperbolic Linear",
         "rarity": "Void",
-        "itemImage": "Newly_Hatched_Zoea.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/5/55/Newly_Hatched_Zoea.png",
         "pickup": "Periodically recruit allies from the <style=cIsVoid>Void</style>. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Newly_Hatched_Zoea_hhw2xg.webp"
     },
@@ -91,7 +91,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Voidsent_Flame.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/6/69/Voidsent_Flame.png",
         "pickup": "Full health enemies detonate on hit. <style=cIsVoid>Corrupts all Will-o'-the-wisps</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Voidsent_Flame_v8umua.webp"
     },
@@ -103,7 +103,7 @@
         "cooldown": "Void",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Tentabauble.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/6/64/Tentabauble.png",
         "pickup": "Chance to root enemies on hit. <style=cIsVoid>Corrupts all Chronobaubles</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tentabauble_gzah8x.webp"
     },
@@ -115,7 +115,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Benthic_Bloom.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/b/b0/Benthic_Bloom.png",
         "pickup": "Upgrades your items at the start of each stage. <style=cIsVoid>Corrupts all 57 Leaf Clovers</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Benthic_Bloom_sbcmws.webp"
     },
@@ -127,7 +127,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Pluripotent_Larva.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/2/26/Pluripotent_Larva.png",
         "pickup": "A spent item with no remaining power.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Pluripotent_Larva_wlpy7l.webp"
     },
@@ -139,7 +139,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Needletick.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/7/76/Needletick.png",
         "pickup": "Chance to collapse enemies on hit. <style=cIsVoid>Corrupts all Tri-Tip Daggers</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Needletick_axaqfw.webp"
     },
@@ -151,7 +151,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Plasma_Shrimp.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/c/cf/Plasma_Shrimp.png",
         "pickup": "While you have shield, fire missiles on every hit. <style=cIsVoid>Corrupts all AtG Missile Mk. 1s</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Plasma_Shrimp_qrjogo.webp"
     },
@@ -163,7 +163,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Void",
-        "itemImage": "Polylute.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/b/b5/Polylute.png",
         "pickup": "Chance to repeatedly strike a single enemy with lightning. <style=cIsVoid>Corrupts all Ukuleles</style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Polylute_dd5e2r.webp"
     }

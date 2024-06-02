@@ -7,7 +7,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Empathy_Cores.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/5/51/Empathy_Cores.png",
         "pickup": "    Recruit a pair of Solus Probes that gain power with more allies.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Empathy_Cores_uxafot.webp"
     },
@@ -19,7 +19,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Halcyon_Seed.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/e/e6/Halcyon_Seed.png",
         "pickup": "Summon Aurelionite during the Teleporter event.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Halcyon_Seed_mhknzo.webp"
     },
@@ -31,7 +31,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Item_Scrap,_Yellow.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/7/7f/Item_Scrap%2C_Yellow.png",
         "pickup": "Does nothing. Prioritized when used with 3D Printers.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Item_Scrap_2C_Yellow_yazmpd.webp"
     },
@@ -43,7 +43,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Irradiant_Pearl.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/e/ef/Irradiant_Pearl.png",
         "pickup": "Increase ALL of your stats.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211990/riskofrain/Irradiant_Pearl_cdadko.webp"
     },
@@ -55,7 +55,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Pearl.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/7/73/Pearl.png",
         "pickup": "Increase ALL of your stats.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Pearl_h1mo0i.webp"
     },
@@ -67,7 +67,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Little_Disciple.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/0/08/Little_Disciple.png",
         "pickup": "Fire tracking wisps while sprinting.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Little_Disciple_yxnzqa.webp"
     },
@@ -79,7 +79,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Planula.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/a/a9/Planula.png",
         "pickup": "Receive flat healing when attacked.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Planula_q1lbah.webp"
     },
@@ -91,7 +91,7 @@
         "cooldown": "Boss",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Charged_Perforator.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/c/cc/Charged_Perforator.png",
         "pickup": "Chance on hit to call down a lightning strike.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Charged_Perforator_bzp8kx.webp"
     },
@@ -103,7 +103,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Genesis_Loop.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/c/c8/Genesis_Loop.png",
         "pickup": "Fire an electric nova at low health.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Genesis_Loop_fnfoz4.webp"
     },
@@ -115,7 +115,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Mired_Urn.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/6/62/Mired_Urn.png",
         "pickup": "Siphon health from nearby enemies while in combat.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Mired_Urn_evrz5e.webp"
     },
@@ -127,7 +127,7 @@
         "cooldown": "30 Seconds",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Queens_Gland.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/0/0b/Queen%27s_Gland.png",
         "pickup": "Recruit a Beetle Guard.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Queen_27s_Gland_mcrckv.webp"
     },
@@ -139,7 +139,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Defense_Nucleus.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/1/10/Defense_Nucleus.png",
         "pickup": "Summon an Alpha Construct on killing an elite.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Defense_Nucleus_vaarkh.webp"
     },
@@ -151,7 +151,7 @@
         "cooldown": "None",
         "stackType": "None",
         "rarity": "Boss",
-        "itemImage": "Artifact_Key.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/1/17/Artifact_Key.png",
         "pickup": "A stone shard with immense power.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Artifact_Key_eqvix1.webp"
     },
@@ -163,7 +163,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Shatterspleen.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/c/cd/Shatterspleen.png",
         "pickup": "Critical strikes always bleed enemies. Bleeding enemies now explode.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Shatterspleen_lrmjwc.webp"
     },
@@ -175,7 +175,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Titanic_Knurl.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/9/9f/Titanic_Knurl.png",
         "pickup": "Boosts health and regeneration.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Titanic_Knurl_lezjsh.webp"
     },
@@ -187,7 +187,7 @@
         "cooldown": "None",
         "stackType": "Linear",
         "rarity": "Boss",
-        "itemImage": "Molten_Perforator.png",
+        "itemImage": "https://riskofrain2.wiki.gg/images/7/71/Molten_Perforator.png",
         "pickup": "Chance on hit to fire magma balls.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Molten_Perforator_ir2crm.webp"
     }

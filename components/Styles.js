@@ -1,6 +1,10 @@
 import { StyleSheet } from "react-native";
 
 export default Styles = StyleSheet.create({
+    RORText:{
+        fontFamily: "Risk-of-Rain", 
+        color: "#a6aeb1" 
+    },
     button: {
         borderStyle: "solid",
         borderColor: "#4b4b57",
@@ -21,9 +25,18 @@ export default Styles = StyleSheet.create({
         justifyContent: "center",
         alignContent: "center",
         alignItems: "center",
-        zIndex: 5,
+        zIndex: 1,
         top: 0,
         position: "absolute"
+    },
+    icon: {
+        borderStyle: "solid",
+        borderColor: "#4b4b57",
+        borderWidth: 5,
+        backgroundColor: "#333a4c",
+        margin: 10,
+        borderRadius: 5,
+        flex: 1/2,
     }
 
 })
