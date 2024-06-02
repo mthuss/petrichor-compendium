@@ -14,6 +14,21 @@ export default Styles = StyleSheet.create({
         marginLeft: 40,
         borderRadius: 5
     },
+    buttonInside: {
+        borderTopStyle: "solid",
+        borderTopWidth: 2,
+        borderTopColor: "black",
+        borderLeftStyle: "solid",
+        borderLeftWidth: 2,
+        borderLeftColor: "black",
+        padding: 4,
+        borderBottomColor: "#323846",
+        borderBottomStyle: "solid",
+        borderBottomWidth: 2,
+        borderRightColor: "#323846",
+        borderRightStyle: "solid",
+        borderRightWidth: 2,
+    },
     imageBackground: {
         flex: 1,
         justifyContent: 'center',
@@ -37,6 +52,14 @@ export default Styles = StyleSheet.create({
         margin: 10,
         borderRadius: 5,
         flex: 1/2,
+    },
+    card:{
+        borderStyle: "solid",
+        borderColor: "#4b4b57",
+        borderWidth: 5,
+        backgroundColor: "#1a1b20",
+        margin: 10,
+        borderRadius: 5,
     }
 
 })
