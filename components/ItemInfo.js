@@ -1,4 +1,4 @@
-import { Image, Text, ImageBackground, View } from 'react-native'
+import { Image, Text, ImageBackground, View, ScrollView } from 'react-native'
 import Styles from './Styles'
 
 export default props => {
@@ -50,7 +50,7 @@ export default props => {
                             </View>
                         </View>
                         <View style={[Styles.card, { flex: 2 }]}>
-                            <View style={[Styles.buttonInside, { flex: 1, padding: 16 }]}>
+                            <ScrollView style={[Styles.buttonInside, { flex: 1, padding: 16 }]}>
                                 <Text style={Styles.RORText}>{handleStyledText(item.pickup)}</Text>
                                 <View style={{ marginTop: 24 }}>
                                     <Text style={[Styles.RORText, { color: "#e6cc81", fontSize: 20, marginBottom: 8 }]}>Description:</Text>
@@ -62,7 +62,11 @@ export default props => {
                                     <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Cooldown:  <Text style={Styles.RORText}>{item.cooldown}</Text></Text>
                                     <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Stack type:  <Text style={Styles.RORText}>{item.stackType}</Text></Text>
                                 </View>
-                            </View>
+                                <View style={{ marginTop: 24 }}>
+                                    <Text style={[Styles.RORText, { color: "#e6cc81", fontSize: 20, marginBottom: 8 }]}>Lore:</Text>
+                                    <Text style={Styles.RORText}>{item.lore}</Text>
+                                </View>
+                            </ScrollView>
                         </View>
                     </View>
                 </View>

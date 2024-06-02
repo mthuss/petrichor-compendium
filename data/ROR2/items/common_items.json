@@ -9,7 +9,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/5/51/Power_Elixir.png",
         "pickup": "Receive an instant heal at low health. Consumed on use.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Power_Elixir_ghkrbu.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Power_Elixir_ghkrbu.webp",
+        "lore": "\t\"Order: 16 oz. Flask, Healing Potion (Not my Strongest)\r\nTracking Number: 10******\r\nEstimated Delivery: 12/31/2058\r\nShipping Method: Priority\r\nShipping Address: Cargo Bay 10-C, Terminal 504-B, UES Port Trailing Comet\nShipping Details: \n- Re: Potion seller, I am going into battle. I require your strongest potions.\n\nMy potions are too strong for you, buyer. I've instead downgraded you to a weaker brew. My strongest potions would kill a dragon, let alone a man!\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae6",
@@ -21,7 +22,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/9/9f/Bison_Steak.png",
         "pickup": "Gain 25 max health.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Bison_Steak_nkgtop.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Bison_Steak_nkgtop.webp",
+        "lore": "\t\"Order: Assorted Saturnian Bison Steak, 10lbs\r\nTracking Number: 31***********\r\nEstimated Delivery: 11/02/2056\r\nShipping Method:  Standard\r\nShipping Address: Sloppy Joe\u2019s Deli and Catering, Manhattan, New York\r\nShipping Details: \r\n\r\nFOR: JOSEPH ******\r\nCC#: **** **** * ***\r\nACCT#: 102215\r\nQuality Saturnian Bison Meat [10lbs]\r\nTreated with special antibiotics to ensure exceptional growth, shelf life, and texture.\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf6",
@@ -33,7 +35,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/e/e0/Personal_Shield_Generator.png",
         "pickup": "Gain a recharging shield.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Personal_Shield_Generator_uyfbfa.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Personal_Shield_Generator_uyfbfa.webp",
+        "lore": "\t\"\"While the kinetic rating is very poor, the extremely cheap production costs of Hinon\u2019s Personal Barrier made it a great budget tool for hikers, sailors, and even daily commuters to be comfortable in harsh weather. Many people in the office figured out they could replace their expensive winter jackets with comfortable, trendy personal barriers!\"\r\n\r\n-Top 10 Best Personal Barriers of 2053\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf8",
@@ -45,7 +48,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/a/aa/Repulsion_Armor_Plate.png",
         "pickup": "Receive flat damage reduction from all attacks.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Repulsion_Armor_Plate_uuzczu.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Repulsion_Armor_Plate_uuzczu.webp",
+        "lore": "\t\"Order: Repulsion Armor Replacement Piece\r\nTracking Number: 09******\r\nEstimated Delivery: 08/15/2056\r\nShipping Method:  Standard\r\nShipping Address: System Police Station 13, Port of Marv, Ganymede\r\nShipping Details:\r\n\r\nLuckily no one was hurt during the shootout. Just a few rough characters at the bar by the docks. Nothing we couldn\u2019t handle. Jaime took a shot to his shoulder but his armor took all the impact. We\u2019ll need to order him a replacement part before he can go back out in the field.\r\n\r\nThe segmented design is nice because I don\u2019t have to shell out the cash for a whole new set. Frankly, the station\u2019s coffers have seen better days. The next time a rookie damages their equipment they might be looking at a desk job for a while.\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae4",
@@ -57,7 +61,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/f/f0/Armor-Piercing_Rounds.png",
         "pickup": "Deal extra damage to bosses.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Armor-Piercing_Rounds_piabli.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Armor-Piercing_Rounds_piabli.webp",
+        "lore": "\t\"Order: Armor-Piercing Rounds, 50mm\r\nTracking Number: 15***********\r\nEstimated Delivery: 3/07/2056\r\nShipping Method:  Standard\r\nShipping Address: Fort Margaret, Jonesworth System\r\nShipping Details: \r\n\r\nAlright, just to clarify, these rounds aren\u2019t faulty. Heck, I\u2019d say they\u2019re better than the standard, but... that\u2019s kind of the problem. I don\u2019t know if it was a new shipment of materials, or a problem with the assembly line, but these rounds are supposed to pierce armor. Not pierce through the armor, five feet of reinforced concrete, a few warehouses, and an armored truck. \r\n\r\nCould you guys look into this so we don\u2019t like, violate any Geneva Conventions or anything?\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daed",
@@ -69,7 +74,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/5/59/Focus_Crystal.png",
         "pickup": "Deal bonus damage to nearby enemies.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Focus_Crystal_vmua9y.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Focus_Crystal_vmua9y.webp",
+        "lore": "\t\"Order: Condensed Matter Crystal [50kg, 10cm by 10cm by 10cm]\r\nTracking Number: 12***********\r\nEstimated Delivery: 05/23/2056\r\nShipping Method:  Standard\r\nShipping Address: Geofferson Principality, Highward, Titan\r\nShipping Details: \r\n\r\nHope they don\u2019t up the price for this thing. I haven\u2019t had troubles with UES before, but I\u2019ve never had to ship a crystal this far before. Let me know if the package is marked as \u201cheavy\u201d when you get it.\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae9",
@@ -81,7 +87,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/c/c6/Cautious_Slug.png",
         "pickup": "Rapidly heal outside of danger.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Cautious_Slug_ib0ulb.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Cautious_Slug_ib0ulb.webp",
+        "lore": "\t\"\u201cOne of the most crucial things to remember about having an animal companion is that your relationship is built on trust. Though humans are perceptive, we tend to be blinded by what we see \u2013 and we ignore the dangers that lurk beyond our vision. Animals, and other xenobiology, can sense things we can\u2019t. \r\n\r\nSo always remember: if your companion warns you of danger in the dark, you had better well listen.\u201d\r\n\r\n- Caring for your Pets, Volume III\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dafc",
@@ -93,7 +100,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/7/74/Sticky_Bomb.png",
         "pickup": "Chance on hit to attach a bomb to enemies.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Sticky_Bomb_bzawbh.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Sticky_Bomb_bzawbh.webp",
+        "lore": "\t\"In the blaring heat, a silhouette could be seen, hiding in the cool shade of a nearby cave. She was waiting for the sandstorm to pass.\r\n\r\nShe heard a noise and turned around, recognizing another silhouette. It bounded into the cave with excitement. As the figure got closer, she alarmingly noticed the cargo.\r\n\r\n\"Woah, what the hell?! Why are you holding like, fifty bombs? Get away from me! \"\r\n\r\n\"What! We need these \u2013 this planet is trying to kill us! \"\r\n\r\n\"You\u2019re a walking bomb. Those are so unstable. Get away! Where did you even find those things? \"\r\n\r\n\"I found an industrial 3D printer nearby, and it was assigned to the blueprints of these bombs. Awesome, right? Unlimited bombs!\"\r\n\r\n\"\u2026What materials?\"\r\n\r\n\"Huh?\"\r\n\r\n\"What materials did you put in? We barely had anything.\"\r\n\r\n\"I just put in everything.\"\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daef",
@@ -105,7 +113,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/9/99/Item_Scrap%2C_White.png",
         "pickup": "Does nothing. Prioritized when used with 3D Printers.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675226016/riskofrain/Item_Scrap_2C_White_teh6zv.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675226016/riskofrain/Item_Scrap_2C_White_teh6zv.webp",
+        "lore": "\t\"\u201cWhile officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don\u2019t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.\u201d\r\n\r\n- The Ultimate Hobby Guide: Kitbashing and 3D Printing\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf0",
@@ -117,7 +126,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/2/23/Lens-Maker%27s_Glasses.png",
         "pickup": "Gain 10% chance for hits to 'Critically Strike', dealing double damage.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Lens-Maker_27s_Glasses_ppfbiv.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Lens-Maker_27s_Glasses_ppfbiv.webp",
+        "lore": "\t\"\u2026What I didn\u2019t see was that the golem was aiming its laser at my back. I managed to barely dodge it - just by pure luck - but the blast knocked me to the ground. My glasses flew off my face and I was on my back, stunned, barely able to make sense of myself\u2026\r\n\r\nAnd then... well, I can\u2019t really explain what happened next. Adrenaline, some kind of divine intervention, I dunno. But I reached out, and managed to grab my glasses, raise \u2018em up to my eyes so I could see, and BAM! Fired the last of my bullets.\r\n\r\nAnd, well... I guess I managed to hit something vital in its head. Exploded in red stone and glass. It stopped moving after that. \r\n\r\nIf it wasn\u2019t for that shot, I wouldn\u2019t be here telling this story.\u201d\r\n\r\n-Signal echoes, UES Contact Light\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf1",
@@ -129,7 +139,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/0/0f/Medkit.png",
         "pickup": "Receive a delayed heal after taking damage.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Medkit_jkl9eh.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Medkit_jkl9eh.webp",
+        "lore": "\t\"\n\"I suggest you stay indoors and rest.\"\r\n\r\nMED-E, the medical bot, has been working overtime. The survivors felt very grateful that their escape pod landed near Med Bay cargo - they would have most likely perished without it.\r\n\r\n\"I suggest you stay indoors and rest.\"\r\n\r\nThe robot was speaking to a tall man, gaunt but strong. \"I'd love to, but we're running low on food.\" Even though his expression was hidden underneath his blue combat helmet, it was obvious the man was extremely tired. \"And everyone else is recovering from last night's attacks. Without the enforcers, we probably wouldn't have-\"\r\n\r\n\"I suggest you stay indoors and rest.\" \r\n\r\nIt was apparent that MED-E only had a limited set of lines. However, the man continued to respond. \"I can't, MED-E. They're counting on me. You know that.\"\r\n\r\n\"I suggest you stay indoors and rest.\" \r\n\r\nThis time the man did not humor a reply. Grabbing his shotgun, he turned away from the echoing robot. Weaving his way between countless sleeping bags and stretchers, he set out into the wilderness again. Everyone was counting on him.\r\n\r\n\"Please stay indoors and rest.\" \r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf5",
@@ -141,7 +152,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/4/4a/Paul%27s_Goat_Hoof.png",
         "pickup": "Increase movement speed.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Paul_27s_Goat_Hoof_yo14b1.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Paul_27s_Goat_Hoof_yo14b1.webp",
+        "lore": "\t\"Order: Paul\u2019s Goat Hoof\r\nTracking Number: 187*****\r\nEstimated Delivery: 03/27/2056\r\nShipping Method:  Standard\r\nShipping Address: 2663rd Fields, Redmond, Venus\r\nShipping Details:\r\n\r\nA hoof from one of my many goats; I noticed one day that one of my goats had an abnormally large foot. Thinking it was cancerous, I went to the doctors and lo-and-behold - it was. My goat died shortly after.\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dafa",
@@ -153,7 +165,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/9/9b/Rusted_Key.png",
         "pickup": "Gain access to a Rusty Lockbox that contains a powerful item.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Rusted_Key_nvckst.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Rusted_Key_nvckst.webp",
+        "lore": "\t\"Order: Key\r\nTracking Number: 12******\r\nEstimated Delivery: 01/21/2056\r\nShipping Method: Standard\r\nShipping Address: |||||||, Druid Hills, Earth\r\nShipping Details:\r\n\r\nI don't trust UESC. Not one bit. Their Security Chests? Full of overrides and backdoors- I've got a cousin working in their factory, and they've got all kinds of weird things going on in those chests. I've seen so many of them in auctions - for the lost and unclaimed ones - and you just pay money, and it springs open on the spot. Are you kidding me?\r\n\r\nAnyways, I'm sending you exactly what I said I would - but it's too important to leave the security up to the UESC. So I'm sending the key to you - and the lockbox to Margaret. Like a two-factor authentication. Let me know when you get this.\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf3",
@@ -165,7 +178,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/3/3b/Monster_Tooth.png",
         "pickup": "Drop a healing orb on kill.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Monster_Tooth_jkdsml.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Monster_Tooth_jkdsml.webp",
+        "lore": "\t\"\r\n//--AUTO-TRANSCRIPTION FROM ROOM 5041C OF UES [Redacted] --//\r\n\r\n\u201cHey, nice duds! Where\u2019d you grab those?\u201d\r\n\r\n\u201cOh, this old thing? I\u2019ve been making it, actually.\u201d\r\n\r\n\u201cMaking it?\u201d\r\n\r\n\u201cYeah, well, I found the first tooth in one of the chests. But every time we go out on patrol, we typically run into more of those aliens. Once we take care of \u2018em, I try to pick myself out a souvenir. Y\u2019know, to add to my collection.\u201d\r\n\r\n\u201cWow, uh\u2026 Is that like, allowed? I feel like that\u2019s not allowed.\u201d\r\n\r\n\u201cEh, what the captain doesn\u2019t know won\u2019t hurt him. Besides, it IS cool, right?\u201d\r\n\r\n\u201cI guess so. I\u2019ll be honest man, that\u2019s creepy as hell\u2026 but hey, do you have any more string? I might start one of my own.\u201d\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daeb",
@@ -177,7 +191,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/c/c6/Delicate_Watch.png",
         "pickup": "...well, it's still right twice a day.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Delicate_Watch_siyls7.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Delicate_Watch_siyls7.webp",
+        "lore": "\t\"The wind blows over the plains. Two soldiers trudge along on their routine patrol, filling their boredom with casual conversation. \"Hm. Hey, Shelly, have I ever showed you my new Patex?\" Quinton mused. Shelly shot him a quizzical look. \"Tell me you didn't bring a $75,000 watch with you on a dangerous expedition into unknown territories...\"\n\nWhirling around to face his partner, Quinton gave a hearty laugh. \"Why, yes I did!\" Rolling up his sleeve, a glint of gold revealed his collector's watch. The metal surface gleamed proudly, reflecting a ray of sunlight into the eyes of a hidden Lemurian. \"What's the point of going through trials and tribulations in the middle of nowhere if I can't STYLE all over my fellow soldiers!?\" Quinton laughed, pounding his fist to his chest. \"I'm going to rub it in your face SO HARD when that thing inevitably breaks,\" Shelly chuckled. Quinton scoffed. \"Oh, please. We've been along this route countless times, and nothing's happened. We're lucky to be stationed on a quiet sector of this hellhole, and I doubt our luck will run out any time soon.\"\n\nAs if on cue, the aggrivated Lemurian, annoyed by the glare, leapt from the bushes and shot a fireball. \"Woah!\" Shelly shouted, raising her gun and killing the beast. \"Hah... So much about a quiet, sector, huh?\" Shelly turned to her partner, who was doubled over on the ground. Shelly's face blanched.\n\n\"Oh no... Were you hit? We need to get you to a medic, fast...!\"\n\n\"No.\" Quinton's voice was small and full of grief. \"I'm perfectly fine, but...\" Quinton looked up, revealing his gleaming Patex, having taken the fireball dead-on, had been reduced to a mangled mess of twisted metal and smoking polish. \"L-Look what that BEAST did to my precious watch!\"\n\nFor a moment, all was quiet on the plains. Then, the silence was yet again broken by Shelly's laughter and Quinton's desperate pleading.\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf9",
@@ -189,7 +204,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/e/e9/Roll_of_Pennies.png",
         "pickup": "Gain gold on taking damage.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Roll_of_Pennies_fjrgkv.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Roll_of_Pennies_fjrgkv.webp",
+        "lore": "\t\"The sounds of gunfire rang in Johnson's ears. Biting down and tugging on the bandage covering his wounded leg, he hastily reloaded his firearm.\n\nFor a moment, before he fired on the Lemurians who had pinned his team into a corner and already claimed two of his friends, Johnson reflected on what brought him here.\n\nJohnson had grown up in poverty, the oldest of three children. He had started working at a young age to support his sick mother and younger siblings, and all his life he bounced from one odd job to the next. Anything that could rake in the cash. Anything that would pay the bills.\n\n\"'An expedition into unknown territories, seeking volunteers,'\" his recruiter read in between puffs of his cigar. \"Lot of classified info, don't know too much myself... But it pays a lot. And I know you need the money. You in, Johnny-boy?\" At the time, Johnson had thought to himself, 'it couldn't be that bad.'\n\nJohnson returned to the battlefield, gunning down Lemurians in an effort to save his remaining friends. The wound on his leg ached, dying the bandage red with blood. 'It couldn't be that bad,' he had thought. \"Yeah, right.\" Johnson scoffed. \"At least I'm getting paid after this.\"\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dafb",
@@ -201,7 +217,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/f/f2/Soldier%27s_Syringe.png",
         "pickup": "Increase attack speed.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Soldier_27s_Syringe_wpx7nq.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Soldier_27s_Syringe_wpx7nq.webp",
+        "lore": "\t\"\"I ain't much for drugs... but hell, when fortune is knockin', ya gotta greet that door with a smile and a nod. Salud!\"\r\n\r\n-Signal echoes, UES Contact Light\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daee",
@@ -213,7 +230,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/6/6e/Gasoline.png",
         "pickup": "Killing an enemy ignites other nearby enemies.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Gasoline_yz7csa.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Gasoline_yz7csa.webp",
+        "lore": "\t\"\r\nAudio transcription complete from signal echoes. Assigning generic tokens.\r\n\r\n[Fire crackling]\r\n\r\nMAN 1: D-do you think they're gonna come for us?\r\n\r\nMAN 2: They'll try. It's going to be a very long while.\r\n\r\nMAN 1: What? Why?\r\n\r\nMAN 2: A long while. Even if they know where to look we'd be months out from the nearest port. And that's if they even have any ships as fast as ours \u2013 FTL ships are very rare nowadays.\r\n\r\nMAN 1: Months...?! And what do you mean if they know where? What about the other ships on our shipping routes?\r\n\r\nMAN 2: We weren't on the route.\r\n\r\n[Fire pops]\r\n\r\nMAN 1: What?!\r\n\r\nMAN 2: We should've been halfway to Procyon by the time we crashed... but we weren\u2019t. The ship never announced it was slowing down either, so that\u2019ll make triangulating our positions even harder.\r\n\r\nMAN 1: I-I don't get it. Who would take a UES train off course? That's completely insane!\r\n\r\nMAN 2: I don\u2019t know \u2013 only the Captain does. There\u2019s no reason to slow down in this star system - there's not even supposed to be a habitable planet out here.\r\n\r\n[Sizzling]\r\n\r\nMAN 2: This looks cooked to me. Can't vouch for how it'll taste - but we have to eat.\r\n\r\nMAN 1: I... I can't even think right now. I\u2019m not hungry.\r\n\r\nMAN 2: Eat. We've got a lot of traveling to do tomorrow and we'll need to keep our strength.\r\n\r\nMAN 1: Sure. Okay. Okay. Um\u2026 do you think it's poisonous?\r\n\r\nMAN 2: Eat.\r\n\r\nEnd of requested transcript. \r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae7",
@@ -225,7 +243,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/3/3d/Bundle_of_Fireworks.png",
         "pickup": "Activating an interactable launches fireworks at nearby enemies.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Bundle_of_Fireworks_kqmmhp.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Bundle_of_Fireworks_kqmmhp.webp",
+        "lore": "\t\"\"Hey, happy anniversary!\r\n\r\nYou really thought I forgot?\r\n\r\nAh, I thought I was the dumb one in our relationship. C'mon T, of course not! Well, I wasn't going to let a little alien death planet ruin our night. Right? Shh, just watch. Just watch. It's okay. Just watch. You'll love it - you really will. Then we can go home.\r\n\r\nYou can keep your eyes closed. Just listen. Ah - here it comes! In five... four... three... two... ONE...!\"\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daec",
@@ -237,7 +256,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/7/7e/Energy_Drink.png",
         "pickup": "Increase sprint speed by +25%.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Energy_Drink_d2iugx.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Energy_Drink_d2iugx.webp",
+        "lore": "\t\"Order: NR-G Sports Soda (400)\r\nTracking Number: 49******\r\nEstimated Delivery: 03/12/2056\r\nShipping Method:  Standard\r\nShipping Address: Venetian Health & Public Services, Ridgelake, Venus\r\nShipping Details:\r\n\r\nYeah, so, uh this is the um, the energy drink that people were mixing during that disaster in Majora Minora a few weeks ago. \r\n\r\nA quick toxicology test on some of the victims has come back positive for um... all kinds of stuff, really. Methadone, phencyclidine, tetrahydrocannabinol, a variety of opiates, benzodiazepines, barbiturates, amphetamines... the list just goes on and on and on.\r\n\r\nRadical Drinks is insisting that NONE of those were from their energy drink - which I find pretty uh, unlikely. Maybe they REALLY know how to party in Violet Heights, huh?\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daff",
@@ -249,7 +269,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/3/39/Tougher_Times.png",
         "pickup": "Chance to block incoming damage.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tougher_Times_swgas2.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tougher_Times_swgas2.webp",
+        "lore": "\t\"\n//--AUTO-TRANSCRIPTION FROM ROOM 4211B OF UES [Redacted] --//\n\n\"Why'd you sign up?\"\n\nWyatt's voice was bored. The mission to the Contact Light's last known location was taking longer than he expected.\n\nMalik was on the floor, cleaning her rifle. \"To get paid, mostly.\"\n\n\"And that's it?\"\n\nShe grunted in affirmation. She continued to wipe down the weapon.\n\n\"I'm here to find something.\" He continued. \"I shipped it a few years back, but I don't think it made it before the train went down. I'm guessing it's still in the Contact Light. So I'm gonna get it back.\"\n\nShe began to tighten the last remaining bolts. Her routine near completion, she moved her gaze to Wyatt. \"Seriously?\"\n\n\"Yep!\"\n\nMalik raised her brow. \"There were over 7 million security chests in the Contact Light. The chance of you finding a specific one is impossible.\" She began to unfold her legs as she propped her rifle in the corner. \"And according to the distress beacon, the Contact Light was destroyed in orbit. Your shipment is probably floating around in space. It's all gone, Wyatt.\"\n\nHe grinned. \"I think I'm gonna find it.\"\n\n\"You're terrible.\"\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daea",
@@ -261,7 +282,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/c/c0/Crowbar.png",
         "pickup": "Deal bonus damage to enemies above 90% health.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Crowbar_t1qqei.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Crowbar_t1qqei.webp",
+        "lore": "\t\"\r\n//--AUTO-TRANSCRIPTION FROM CARGO BAY 5 OF UES [Redacted] --//\r\n\r\n\u201cHey, toss me a crowbar?\u201d\r\n\r\nJesse walked over to the toolbox and rummaged around. Plucking a crowbar from the container, she went over to James.\r\n\r\n\u201cThanks,\u201d he grunted, attempting to pry the chest open. Jesse sat herself on the table next to James, idly watching him work. \u201cI swear, this had to be the one chest that CAN\u2019T be paid open... Crash must have... broken the circuitry inside.\u201d James mumbled to himself.\r\n\r\n\u201cYeah.\u201d Jesse looked around, her eyes falling on a palette of chests that had been recovered from the recent expeditions. Sighing, she hopped to her feet. \u201cI\u2019m heading to the mess hall. Want anything?\u201d \r\n\r\n\u201cYeah, how about a better crowbar? This thing is only a second edition.\u201d James stretched, tossing the crowbar over his shoulder. Patting the still unopened chest, he chuckled. \u201cIt\u2019s good, but to be honest\u2026 it\u2019s getting a little old.\u201d\r\n\r\nJesse laughed.\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf2",
@@ -273,7 +295,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/4/48/Mocha.png",
         "pickup": "Slightly increase attack speed and movement speed.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Mocha_jwfm5x.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Mocha_jwfm5x.webp",
+        "lore": "\t\"Order: To-Go Coffee Cup, 16 ounces\r\nTracking Number: 32******\\r\nEstimated Delivery: 05/04/2058\r\nShipping Method:  Standard\r\nShipping Address: Museum of Natural History, Ninten Island, Earth\r\nShipping Details:\nMy finest brew. Hope it doesn't spoil during transit. Remember to heat it back up to 176.23 degrees... that's when it's freshest. See you soon... Coo.\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae5",
@@ -285,7 +308,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/f/f3/Backup_Magazine.png",
         "pickup": "Add an extra charge of your Secondary skill.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Backup_Magazine_m6yumm.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Backup_Magazine_m6yumm.webp",
+        "lore": "\t\"Order: Ammo Magazine, Standard Ammunition (45mm Rounds)\r\nTracking Number: 05***********\r\nEstimated Delivery: 10/05/2056\r\nShipping Method:  Priority\r\nShipping Address: Cargo Bay 10-C, Terminal 504-B, UES Port Trailing Comet\r\nShipping Details: \r\n- Billed to: Captain [REDACTED]\r\n- Note from Sender:  You going on a hunting trip or something? I\u2019ve never seen anyone order this much ammo before.\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07db01",
@@ -297,7 +321,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/f/f0/Warbanner.png",
         "pickup": "Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Warbanner_das56b.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Warbanner_das56b.webp",
+        "lore": "\t\"Heavy losses were expected \u2013 after all, the invaders were as cunning as they were deadly. \r\n\r\nThe dust had at last settled. The Golems had returned to the earth, and the Lemurians had returned to their tunnels. It was a long and grueling battle, but they had won. The invaders had been purged.\r\n\r\nThe only proof of their last stand was a single banner, fluttering in the wind, flying over a mountain of corpses.\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07daf4",
@@ -309,7 +334,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/f/f3/Oddly-shaped_Opal.png",
         "pickup": "Reduce damage the first time you are hit.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Oddly-shaped_Opal_z9hpxq.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211995/riskofrain/Oddly-shaped_Opal_z9hpxq.webp",
+        "lore": "\t\"//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\n\n\"...You think this planet is as bad as they say?\"\n\nLiz sat in silence among her fellow soldiers. She, like the rest of her squadron, had been taken from the middle of a firefight in the galactic outback and brought before an old UES veteran. Liz was used to debriefing by now, it all blended together in her head. Something about monsters, and the missing UES Contact Light.\n\n\"...Dunno.\" Liz murmured as she turned a small, oddly-shaped hunk of opal in her hand. It was one of the only things she had that reminded her of Parker. Of when things were calm, and peaceful.\n\n\"...Heh, I don't think a shiny rock will do much,\" A soldier joked. Liz's brow furrowed under her helmet. \"Yeah, probably not... but...\"\n\nLiz took a deep breath and slipped the opal back into her pocket. \"It just helps.\"\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dafd",
@@ -321,7 +347,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/2/27/Stun_Grenade.png",
         "pickup": "Chance to stun on hit.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Stun_Grenade_aky2jx.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Stun_Grenade_aky2jx.webp",
+        "lore": "\t\"\r\n//--AUTO-TRANSCRIPTION FROM CARGO BAY 2 OF UES [Redacted] --//\r\n\u201cInventory duty. I swear, this must be the most boring position ever...\u201d Two crewmates stood in the cargo bay, doing a routine check on the items gathered from the Contact Light\u2019s wreckage. \u201cSome of us are out there having adventures and fighting aliens, and I\u2019M stuck in here counting dusty knick-knacks. What a bummer.\u201d The other crewmate idly tapped at their device as their colleague rummaged through a container of recovered items.\r\n\r\n\u201cCan\u2019t agree there. The Contact Light had millions of items in transit... It\u2019s like a collage of people\u2019s interests from all across the galaxy.\u201d The other crew member scoffed. \u201cOh yeah? That\u2019s really inspiring. Say, keep telling those stories, maybe it\u2019ll make this go by quicker.\u201d\r\n\r\n\u201cYou just need to look at this from a different angle. There\u2019s so much cool stuff in here! Like, for example...\u201d The worker took something out of a container \u2013 glancing over at their colleague, the other worker stiffened.\r\n\r\n\u201cWhat the\u2014is that a grenade!?\u201d \r\n\r\nThe worker laughed, tossing the dusty and dirty grenade from hand to hand. \u201cYeah. Don\u2019t worry, thing was damaged in the crash. See? Completely harmless.\u201d Holding the grenade up, a large dent was visible in its hull. \u201cMan, I wonder what kind of model this is... I was always super interested in like, weaponry and stuff. Hm... looks to be a flashbang... old model, they don\u2019t make these things anymore.\u201d \r\n\r\nThe other worker was not so thrilled. \u201cI still don\u2019t think you should play with that. That\u2019s not a toy.\u201d Squinting, the other worker realized in horror that the defunct grenade had no pin. \u201cD-DUDE! Put that thing down, there\u2019s no pin!\u201d\r\n\r\n\u201cHuh? Oh, come on! Stop being such a buzzkill! This thing is busted beyond repair. It can\u2019t even detonate, not even if I were to say... bang it against this table. Watch, I\u2019ll show you.\u201d\r\n\r\nThey were both admitted to the medical bay shortly after.\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dafe",
@@ -333,7 +360,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/c/c5/Topaz_Brooch.png",
         "pickup": "Gain a temporary barrier on kill.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Topaz_Brooch_yrzueu.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Topaz_Brooch_yrzueu.webp",
+        "lore": "\t\"Order: Topaz Brooch\r\nTracking Number: 442*****\r\nEstimated Delivery: 05/05/2056\r\nShipping Method: High Priority\r\nShipping Address: Locker #2, Parghos Resort, Venus\r\nShipping Details:\r\n\r\nThe locker combination is 33941. Inside the package, besides your standard equipment, you will find the brooch. The appearance of this item is meant to blend in at the party. Pin it to your body and the software inside will map your extents. Activation will briefly cover you in ultra-phasic shielding.\r\n\r\nWhen you have taken out the target, the shield will switch on to protect you from any immediate retaliation measures they have installed in the security system. If the time frame is not enough to make your escape, the shield can be... reactivated, but we\u2019d like to keep casualties to a minimum.\r\n\r\nGood luck.\r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07dae8",
@@ -345,7 +373,8 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/3/33/Bustling_Fungus.png",
         "pickup": "Heal all nearby allies after standing still for 1 second.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Bustling_Fungus_hp8yzd.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Bustling_Fungus_hp8yzd.webp",
+        "lore": "\t\"\r\n//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\r\n\r\n\u201cYou have a problem.\u201d\r\n\r\n\u201cWhat? How? These are good for me, they\u2026\u201d\r\n\r\n\u201cYeah, they help promote cell repair, carbon neutral, blah blah blah\u2026 I\u2019ve heard that spiel a thousand times already. Whether they\u2019re good for you or not, you can\u2019t just have a diet consisting only of them. It\u2019s basic dietary science!\u201d\r\n\r\n\u201cSo what?\u201d\r\n\r\n\u201cSo what? Eating only mushrooms isn\u2019t healthy, just like eating only meat or vegetables isn\u2019t healthy!\u201d\r\n\r\n\u201cOh, so you\u2019re attacking vegetarians, now?\u201d\r\n\r\n\u201cWh- No! I just mean--\u201d\r\n\r\n\u201cWell, when you\u2019re a bit more tolerant of my lifestyle, I\u2019d be glad to continue this conversation with you. Until then, I\u2019d suggest you open your heart and appetite to a more\u2026 fungal\u2026 palette.\u201d \r\n\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07db00",
@@ -357,6 +386,7 @@
         "rarity": "Common",
         "itemImage": "https://riskofrain2.wiki.gg/images/1/17/Tri-Tip_Dagger.png",
         "pickup": "Gain +10% chance to bleed enemies on hit.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tri-Tip_Dagger_zexn5n.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Tri-Tip_Dagger_zexn5n.webp",
+        "lore": "\t\"\r\nWelcome to DataScraper (v3.1.53 \u2013 beta branch)\r\n$ Scraping memory... done.\r\n$ Resolving... done.\r\n$ Combing for relevant data... done.\r\nComplete!\r\n\r\n\r\nThe following is an audio transcript from the trial of D. Cooper, wanted for 5 counts of serial manslaughter.\r\n\r\n\u201cMr. Cooper, do you recognize this item?\u201d\r\n\r\n\u201cI do.\u201d\r\n\r\n\u201cIs it true that you used this weapon on your victims?\u201d\r\n\r\n\u201cYes.\u201d\r\n\r\n\u201cAnd, Mr. Cooper, is it true that... that you would use this dagger to expose the healed wounds of your victims? In an attempt to spill yet more innocent blood from them?\u201d\r\n\r\n\u201cOh yes. Was my favorite part.\u201d\r\n\r\n\u201cYour favorite part, you say. Ladies and gentlemen of the jury, I think you all can see that Mr. Cooper is a truly deranged man - who took the lives of countless innocent people. However, if you are not fully convinced, I have one more piece of evidence to provide for the jury\u2019s consideration. Your honor, if I may prepare an audio recording of Mr. Cooper?\u201d\r\n\r\n\u201cProceed.\u201d\r\n\r\n\u201cThank you, your honor. Now, please play back the recording.\u201d\r\n\r\nThe remainder of this court transcript has been sealed.\r\nReason: i think im gonna be sick\r\n\""
     }
 ]

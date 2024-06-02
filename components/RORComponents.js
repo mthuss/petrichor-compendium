@@ -24,7 +24,8 @@ export const ItemIcon = ({item, navigation, onPress}) => {
         rarity: item["rarity"],
         stackType: item["stackType"],
         cooldown: item["cooldown"],
-        pickup: item["pickup"]
+        pickup: item["pickup"],
+        lore: item["lore"]
     })}>
         <View style={[Styles.buttonInside,{justifyContent:"center", alignContent: "center", alignItems: "center", flex:1}]}>
                 <Image style={{ width: 64, height: 64, marginBottom: 8}} source={{ uri: item["itemImage"] }} />
