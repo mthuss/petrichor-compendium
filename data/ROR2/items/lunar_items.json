@@ -8,7 +8,7 @@
         "stackType": "Linear",
         "rarity": "Lunar",
         "itemImage": "https://riskofrain2.wiki.gg/images/a/ae/Brittle_Crown.png",
-        "pickup": "Gain gold on hit... <color=#FF7F7F>\\BUT lose gold on getting hit.</color>\\n",
+        "pickup": "Gain gold on hit... <color=#FF7F7F>BUT lose gold on getting hit.</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211982/riskofrain/Brittle_Crown_e9i8xt.webp"
     },
     {
@@ -20,7 +20,7 @@
         "stackType": "None",
         "rarity": "Lunar",
         "itemImage": "https://riskofrain2.wiki.gg/images/4/4d/Helfire_Tincture.png",
-        "pickup": "Gain gold on hit... <color=#FF7F7F>\\BUT lose gold on getting hit.</color>\\n",
+        "pickup": "Gain gold on hit... <color=#FF7F7F>BUT lose gold on getting hit.</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Helfire_Tincture_mvkjk5.webp"
     },
     {
@@ -32,7 +32,7 @@
         "stackType": "Hyperbolic Linear",
         "rarity": "Lunar",
         "itemImage": "https://riskofrain2.wiki.gg/images/6/6e/Light_Flux_Pauldron.png",
-        "pickup": "Halve your cooldowns.. <color=#FF7F7F>BUT halve your attack speed.</color>\\n",
+        "pickup": "Halve your cooldowns.. <color=#FF7F7F>BUT halve your attack speed.</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211992/riskofrain/Light_Flux_Pauldron_ojntlp.webp"
     },
     {
@@ -44,7 +44,7 @@
         "stackType": "Linear",
         "rarity": "Lunar",
         "itemImage": "https://riskofrain2.wiki.gg/images/c/c9/Gesture_of_the_Drowned.png",
-        "pickup": "Dramatically reduce Equipment cooldown... <color=#FF7F7F>\\BUT it automatically activates.</color>",
+        "pickup": "Dramatically reduce Equipment cooldown... <color=#FF7F7F>BUT it automatically activates.</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Gesture_of_the_Drowned_ngzcsg.webp"
     },
     {
@@ -128,7 +128,7 @@
         "stackType": "Linear",
         "rarity": "Lunar",
         "itemImage": "https://riskofrain2.wiki.gg/images/0/07/Beads_of_Fealty.png",
-        "pickup": "Seems to do nothing... <color=#FF7F7F>but...</color>\\n",
+        "pickup": "Seems to do nothing... <color=#FF7F7F>but...</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Beads_of_Fealty_ki5lph.webp"
     },
     {
@@ -164,7 +164,7 @@
         "stackType": "Linear Hyperbolic",
         "rarity": "Lunar",
         "itemImage": "https://riskofrain2.wiki.gg/images/b/b1/Stone_Flux_Pauldron.png",
-        "pickup": "Double your health... <color=#FF7F7F>BUT halve your speed.</color>\\n",
+        "pickup": "Double your health... <color=#FF7F7F>BUT halve your speed.</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Stone_Flux_Pauldron_bm77ko.webp"
     },
     {
@@ -188,7 +188,7 @@
         "stackType": "Linear Hyperbolic",
         "rarity": "Lunar",
         "itemImage": "https://riskofrain2.wiki.gg/images/3/31/Corpsebloom.png",
-        "pickup": "Double your healing... <color=#FF7F7F>\\BUT it's applied over time.</color>\\n",
+        "pickup": "Double your healing... <color=#FF7F7F>BUT it's applied over time.</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Corpsebloom_kwbbhd.webp"
     },
     {
@@ -200,7 +200,7 @@
         "stackType": "None",
         "rarity": "Lunar",
         "itemImage": "https://riskofrain2.wiki.gg/images/4/45/Effigy_of_Grief.png",
-        "pickup": "Double your healing... <color=#FF7F7F>\\BUT it's applied over time.</color>\\n",
+        "pickup": "Double your healing... <color=#FF7F7F>BUT it's applied over time.</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Effigy_of_Grief_r8cfsg.webp"
     },
     {
@@ -212,7 +212,7 @@
         "stackType": "None",
         "rarity": "Lunar",
         "itemImage": "https://riskofrain2.wiki.gg/images/f/f4/Glowing_Meteorite.png",
-        "pickup": "Double your healing... <color=#FF7F7F>\\BUT it's applied over time.</color>\\n",
+        "pickup": "Double your healing... <color=#FF7F7F>BUT it's applied over time.</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Glowing_Meteorite_ft3e3g.webp"
     },
     {
@@ -260,7 +260,7 @@
         "stackType": "Exponential Hyperbolic",
         "rarity": "Lunar",
         "itemImage": "https://riskofrain2.wiki.gg/images/f/ff/Shaped_Glass.png",
-        "pickup": "Double your damage... <color=#FF7F7F>BUT halve your health.</color>\\n",
+        "pickup": "Double your damage... <color=#FF7F7F>BUT halve your health.</color>",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Shaped_Glass_iljeyg.webp"
     }
 ]

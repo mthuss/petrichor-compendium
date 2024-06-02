@@ -80,7 +80,7 @@
         "stackType": "Hyperbolic Linear",
         "rarity": "Void",
         "itemImage": "https://riskofrain2.wiki.gg/images/5/55/Newly_Hatched_Zoea.png",
-        "pickup": "Periodically recruit allies from the <style=cIsVoid>Void</style>. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>.",
+        "pickup": "Periodically recruit allies from the <style=cIsVoid>Void</style>. <style=cIsVoid>Corrupts all yellow items</style><style=cIsVoid></style>.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Newly_Hatched_Zoea_hhw2xg.webp"
     },
     {
