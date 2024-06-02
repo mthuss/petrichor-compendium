@@ -93,5 +93,12 @@ export default Styles = StyleSheet.create({
         borderStyle: "solid",
         borderWidth: 5
     },
+    searchButton: {
+        borderRadius: 5,
+        justifyContent: "center",
+        alignItems: "center",
+        marginLeft: 42
+
+    }
 
 })

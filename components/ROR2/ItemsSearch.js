@@ -38,9 +38,6 @@ export default props => {
                     <View style={{ position: "absolute", width: "100%", zIndex: 1 }}>
                         <Image style={{ width: "100%" }} source={require('../../assets/RORR_Header.png')}></Image>
                         <Text style={{ position: "absolute", top: 22, left: 30, fontFamily: "Risk-of-Rain", color: "#a6aeb1" }}>ITEMS</Text>
-                        <View style={{position: "absolute", bottom: -4, right: 34, }}>
-                            <FilterPopup filterText={filterText} showType={showType} setShowType={setShowType} setFilterText={setFilterText}/>
-                        </View>
                     </View>
                     <View style={{ flex: 1, backgroundColor: "#1a1b20", borderStyle: "solid", borderWidth: 10, borderColor: "#2c2e3a", borderRadius: 5 }}>
                         <View style={{ flex: 1, marginTop: 54, justifyContent: "center" }}>

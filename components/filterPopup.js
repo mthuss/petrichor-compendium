@@ -25,6 +25,9 @@ export default props =>{
                         backgroundColor: "#1a1b20"
                     }
                 }}>
+                    <MenuOption style={[Styles.icon,{margin: 4}]} onSelect={() => {props.navigation.navigate("ROR2ItemSearch")}}>
+                        <Text style={Styles.RORText}>Search</Text>
+                    </MenuOption>
                     <MenuOption style={[Styles.icon,{margin: 4}]} onSelect={() => { props.setShowType("all"); props.setFilterText("Showing all")}}>
                         <Text style={Styles.RORText}>All</Text>
                     </MenuOption>
