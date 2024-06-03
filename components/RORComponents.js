@@ -25,7 +25,10 @@ export const ItemIcon = ({item, navigation, imageSize, game}) => {
         stackType: item["stackType"],
         cooldown: item["cooldown"],
         pickup: item["pickup"],
-        lore: item["lore"]
+        lore: item["lore"],
+        category: item["category"],
+        date: item["date"],
+        destination: item["destination"]
     })}>
         <View style={[Styles.buttonInside,{justifyContent:"center", alignContent: "center", alignItems: "center", flex:1}]}>
                 <Image style={{ width: imageSize, height: imageSize, marginBottom: 8, resizeMode: "contain"}} source={{ uri: item["itemImage"] }} />

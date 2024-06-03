@@ -43,15 +43,17 @@ export default props => {
                     <View style={{ flex: 1, backgroundColor: "#333a4c", borderStyle: "solid", borderWidth: 6, borderColor: "#4b4b57", borderRadius: 5, margin: 10 }}>
                         <View style={Styles.card}>
                             <View style={[Styles.buttonInside, { flexDirection: "row", justifyContent: "center", padding: 8 }]}>
-                                <Image style={{ width: 64, height: 64 }} source={{ uri: item.image }} />
-                                <View style={{ margin: 16, justifyContent: "center", alignItems: "center" }}>
+                                <Image style={{ width: 64, height: 64, resizeMode: "contain"}} source={{ uri: item.image }} />
+                                <View style={{ justifyContent: "center", alignItems: "center", flex:3/4 }}>
                                     <Text style={[Styles.RORText, { fontSize: 16, textAlign: 'center' }]}>{item.name}</Text>
                                 </View>
                             </View>
                         </View>
                         <View style={[Styles.card, { flex: 2 }]}>
-                            <ScrollView style={[Styles.buttonInside, { flex: 1, padding: 16 }]}>
-                                <Text style={Styles.RORText}>{handleStyledText(item.pickup)}</Text>
+                            <View style={[Styles.buttonInside, {flex: 1, paddingHorizontal: 16, paddingBottom: 16}]}>
+
+                            <ScrollView style={{flex: 1}}>
+                                <Text style={[Styles.RORText,{marginTop: 16}]}>{handleStyledText(item.pickup)}</Text>
                                 <View style={{ marginTop: 24 }}>
                                     <Text style={[Styles.RORText, { color: "#e6cc81", fontSize: 20, marginBottom: 8 }]}>Description:</Text>
                                     <Text style={Styles.RORText}>{item.description}</Text>
@@ -59,14 +61,29 @@ export default props => {
                                 <View style={{ marginTop: 24 }}>
                                     <Text style={[Styles.RORText, { color: "#e6cc81", fontSize: 20, marginBottom: 8 }]}>Details:</Text>
                                     <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Rarity:  <Text style={Styles.RORText}>{item.rarity}</Text></Text>
-                                    <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Cooldown:  <Text style={Styles.RORText}>{item.cooldown}</Text></Text>
-                                    <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Stack type:  <Text style={Styles.RORText}>{item.stackType}</Text></Text>
+                                    <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Cooldown:  <Text style={Styles.RORText}>{item.cooldown ? item.cooldown : "N/A"}</Text></Text>
+                                    <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Stack type:  <Text style={Styles.RORText}>{item.stackType ? item.stackType : "N/A"}</Text></Text>
                                 </View>
-                                <View style={{ marginTop: 24 }}>
-                                    <Text style={[Styles.RORText, { color: "#e6cc81", fontSize: 20, marginBottom: 8 }]}>Lore:</Text>
-                                    <Text style={Styles.RORText}>{item.lore}</Text>
-                                </View>
+                                {item.lore &&
+                                <>
+                                    <View style={{ marginTop: 24 }}>
+                                        <Text style={[Styles.RORText, { color: "#e6cc81", fontSize: 20, marginBottom: 8 }]}>Lore:</Text>
+                                        <Text style={Styles.RORText}>{item.lore}</Text>
+                                    </View>
+                                    <View style={{flexDirection: "row", alignContent: "center", justifyContent: "center", marginTop: 8}}>
+                                        <View style={{marginBottom: 8, flex: 1/2}}>
+                                            <Text style={[Styles.RORText, { color: "#e6cc81", fontSize: 14, marginBottom: 6}]}>Destination:</Text>
+                                            <Text style={Styles.RORText}>{item.destination}</Text>
+                                        </View>
+                                        <View style={{marginBottom: 8, flex: 1/2}}>
+                                            <Text style={[Styles.RORText, { color: "#e6cc81", fontSize: 14, marginBottom: 6}]}>Date:</Text> 
+                                            <Text style={Styles.RORText}>{item.date}</Text>
+                                        </View>
+                                    </View>
+                                </>
+                                }
                             </ScrollView>
+                            </View>
                         </View>
                     </View>
                 </View>

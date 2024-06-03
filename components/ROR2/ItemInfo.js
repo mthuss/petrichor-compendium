@@ -44,14 +44,16 @@ export default props => {
                         <View style={Styles.card}>
                             <View style={[Styles.buttonInside, { flexDirection: "row", justifyContent: "center", padding: 8 }]}>
                                 <Image style={{ width: 64, height: 64 }} source={{ uri: item.image }} />
-                                <View style={{ margin: 16, justifyContent: "center", alignItems: "center" }}>
+                                <View style={{ justifyContent: "center", alignItems: "center", flex: 3/4 }}>
                                     <Text style={[Styles.RORText, { fontSize: 16, textAlign: 'center' }]}>{item.name}</Text>
                                 </View>
                             </View>
                         </View>
                         <View style={[Styles.card, { flex: 2 }]}>
-                            <ScrollView style={[Styles.buttonInside, { flex: 1, padding: 16 }]}>
-                                <Text style={Styles.RORText}>{handleStyledText(item.pickup)}</Text>
+                            <View style={[Styles.buttonInside, {flex: 1, paddingHorizontal: 16, paddingBottom: 16}]}>
+
+                            <ScrollView style={{ flex: 1 }}>
+                                <Text style={[Styles.RORText,{marginTop: 16}]}>{handleStyledText(item.pickup)}</Text>
                                 <View style={{ marginTop: 24 }}>
                                     <Text style={[Styles.RORText, { color: "#e6cc81", fontSize: 20, marginBottom: 8 }]}>Description:</Text>
                                     <Text style={Styles.RORText}>{item.description}</Text>
@@ -67,6 +69,7 @@ export default props => {
                                     <Text style={Styles.RORText}>{item.lore}</Text>
                                 </View>
                             </ScrollView>
+                            </View>
                         </View>
                     </View>
                 </View>
