@@ -1,19 +1,22 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import Styles from './Styles';
 import { Dimensions, Image, ImageBackground, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { RORButton } from './RORComponents';
 import { useFonts } from 'expo-font';
+import UserContext from './User/UserContext';
 
 const aspectRatio = 1080 / 1000
 const scaledWidth = Dimensions.get('window').width;
 const scaledHeight = scaledWidth / aspectRatio;
 
 export default props => {
+    const {state} = useContext(UserContext)
+    // console.warn(state)
     return (
         <View style={styles.container}>
             <ImageBackground source={require('../assets/main_bg.png')} resizeMode="cover" style={styles.image}>
                 <View style={Styles.loginButton}>
-                    <RORButton onPress={() => props.navigation.navigate("Login")}><Text style={Styles.RORText}>Login</Text></RORButton>
+                    <RORButton onPress={() => props.navigation.navigate(state["user"] != null ? "UserInfo" : "Login")}><Text style={Styles.RORText}>{state["user"] != null ? state["user"]["username"] : "Login"}</Text></RORButton>
                 </View>
                 <View style={styles.logoView}>
                     <Image source={require('../assets/logo.png')} style={styles.logo} />

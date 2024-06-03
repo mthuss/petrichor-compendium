@@ -9,6 +9,9 @@ import ROR2ItemInfo from "./ROR2/ItemInfo";
 import RORRItems from "./RORR/Items"
 import RORRItemSearch from "./RORR/ItemsSearch"
 import RORRItemInfo from "./RORR/ItemInfo";
+import LoginScreen from "./LoginScreen"
+import UserInfo from "./User/UserInfo";
+
 
 const MainStack = createNativeStackNavigator()
 
@@ -25,5 +28,7 @@ export default props => (
         <MainStack.Screen name="RORRItems" component={RORRItems}/>
         <MainStack.Screen name="RORRItemSearch" component={RORRItemSearch}/>
         <MainStack.Screen name="RORRItemInfo" component={RORRItemInfo}/>
+        <MainStack.Screen name="Login" component={LoginScreen}/>
+        <MainStack.Screen name="UserInfo" component={UserInfo}/>
     </MainStack.Navigator>
 )
