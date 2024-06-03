@@ -12,18 +12,18 @@ export default props => {
     return (
         <View style={styles.container}>
             <ImageBackground source={require('../assets/main_bg.png')} resizeMode="cover" style={styles.image}>
+                <View style={Styles.loginButton}>
+                    <RORButton onPress={() => props.navigation.navigate("Login")}><Text style={Styles.RORText}>Login</Text></RORButton>
+                </View>
                 <View style={styles.logoView}>
                     <Image source={require('../assets/logo.png')} style={styles.logo} />
                 </View>
                 <View style={{ flex: 1, zIndex: 1 }}>
                     <View style={{ paddingBottom: 10 }}>
-                        <RORButton><Text style={Styles.RORText}>Risk of Rain</Text></RORButton>
-                    </View>
-                    <View style={{ paddingBottom: 10 }}>
-                        <RORButton onPress={() => props.navigation.navigate("ROR2Items")}><Text style={ Styles.RORText }>Risk of Rain <Text style={{ color: "#fffeb3" }}>2</Text></Text></RORButton>
+                        <RORButton onPress={() => props.navigation.navigate("RORRItems")}><Text style={Styles.RORText}>Risk of Rain Returns</Text></RORButton>
                     </View>
                     <View>
-                        <RORButton onPress={() => props.navigation.navigate("RORRItems")}><Text style={Styles.RORText}>Risk of Rain Returns</Text></RORButton>
+                        <RORButton onPress={() => props.navigation.navigate("ROR2Items")}><Text style={ Styles.RORText }>Risk of Rain <Text style={{ color: "#fffeb3" }}>2</Text></Text></RORButton>
                     </View>
                 </View>
                 <Image source={require('../assets/titlescreen.gif')} style={styles.gif} />

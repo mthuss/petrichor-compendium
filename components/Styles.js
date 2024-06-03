@@ -100,6 +100,12 @@ export default Styles = StyleSheet.create({
         alignItems: "center",
         marginLeft: 42
 
+    },
+    loginButton: {
+        position: "absolute",
+        right: 0,
+        top: 64,
+        zIndex: 3
     }
 
 })
