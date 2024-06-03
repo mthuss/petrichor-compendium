@@ -9,7 +9,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/6/62/Sawmerang.png",
         "pickup": "Throw a fan of buzzing saws that come back to you.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Sawmerang_pjdkxl.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Sawmerang_pjdkxl.webp",
+        "lore": "I'm so happy they let me bring my trusty disc toy on this trip! Trees need cutting? Disc toy. Baddies getting a little too close? Disc toy. Fun after-hours game of catch? Disc toy... but only if you're trained to catch it."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db0a",
@@ -21,7 +22,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/4/4f/Blast_Shower.png",
         "pickup": "Cleanse all negative effects.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Blast_Shower_aiabjx.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211978/riskofrain/Blast_Shower_aiabjx.webp",
+        "lore": "Order: Blast Shower\r\nTracking Number: 152*****\r\nEstimated Delivery: 06/19/2056\r\nShipping Method: Standard\r\nShipping Address: Frontier Gate, Outer Edge Zone\r\nShipping Details:\r\n\r\nOuter Edge thanks you for your rewards redemption! It takes a real explorer to make their living on the frontier. As you undoubtedly know, REAL exploring is REAL messy. This portable unit will equip you with the modern convenience of taking a shower anywhere at any time!\r\n\r\nDisclaimer: Wear your protective suit while cleansing. Do not use product directly on skin. Blast Shower is only rated for B-class toxins and C-class foreign organisms. This company does not accept any responsibility for incidents as a result of an incomplete cleansing.\r\n" 
     },
     {
         "_id": "63d9f34f6d08bb0acd07db20",
@@ -33,7 +35,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/8/82/Executive_Card.png",
         "pickup": "Gain 10% cash back on all purchases. Multishops remain open.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Executive_Card_tuek5j.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211985/riskofrain/Executive_Card_tuek5j.webp",
+        "lore": "\/\/--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/\r\n\r\n\"When you're on the planet, keep a look out for any loose UES Security Chests. Orders from the higher ups, we're to retrieve any and all parcels that were aboard the Contact Light and bring 'em home. When you locate them, open the Security Chest and retrieve the item within. When you've verified the contents of the chest, move out and continue with your other assignments. Understood?\"\r\n\r\n\"Sir yes sir! But how are we going to open them? They're locked tight, aren't they?\"\r\n\r\n\"A good question, soldier. Everyone, take one Executive Credit Card, then pass the tray to your next squad mate.\"\r\n\r\n\"E-Executive cards...? Aren't these only used by like, super rich folks? How are we ever going to pay it back?\"\r\n\r\n\"What? No. You don't pay it back.\"\r\n\r\n\"But aren't we borrowing money?\"'\r\n\r\n\"Yes.\"\r\n\r\n\"So don't we have to pay it back, eventually?\"\r\n\r\n\"Yes, with another card.\"\r\n\r\n\"Sir, I don't understand.\"\r\n\r\n\"No, you just uh... well you see, the way these cards work is that, uh... [?] well you can take out a low-interest loan to... the buying power of debt is...[??]\"\r\n\r\n\/\/--TRANSCRIPTION UNINTELLIGIBLE --\/\/"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db22",
@@ -45,7 +48,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/d/d0/Foreign_Fruit.png",
         "pickup": "Heal on use.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Foreign_Fruit_c5he15.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Foreign_Fruit_c5he15.webp",
+        "lore": "\u201CThe Nutapple is an exotic fruit picked from the curious Xelphum Tree, native to coastal Gemines on Titan. Renowned for its sweet, yet cleansing flavor (and low caloric total), the Nutapple is a must-have for health enthusiasts everywhere.\u201D\r\n\r\n- Dietary Sciences Digest\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db67",
@@ -57,7 +61,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/9/9c/Remote_Caffeinator.png",
         "pickup": "Request a healing soda machine.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Remote_Caffeinator_ymdtpr.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Remote_Caffeinator_ymdtpr.webp",
+        "lore": "\"I sure am thirsty,\" Chen said as he filled a Lemurian with bullets.\n\nLuckily for him, he had found an Eclipse Remote Caffeinator aboard his vessel. Reaching in his pocket, Chen pressed the button marked with the Eclipse logo, and many systems began to whirr to life.\n\nHigh up in the atmosphere, a panel on the hull of the UES Safe Travels slid open with a clunk. Ready to be ejected, an Eclipse Zero Vending Machine (c2038) twinkled valiantly. Silently, the vending machine began its journey down to the surface.\n\nBack down on the planet, Chen was starting to run low on ammunition, and the Lemurians were closing in. But, just when the Lemurians were ready to tear Chen apart, who else but the Eclipse Zero Vending Machine came crashing down, squishing the Lemurians into a fine paste. Climbing up a mound of dead Lemurians, Chen entered 5 standard credits into the machine and ordered his favorite beverage, courtesy of the Eclipse Company. \"Wow, refreshing and life-saving! Eclipse, quenching thirsts no matter where you are!\" Chen smiled, grateful for Eclipse's galaxy-wide service and quality assurance.\n\n<style=cMono>This log entry was brought to you by Eclipse: The Galactic Quencher</style>"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db63",
@@ -69,7 +74,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/6/67/Recycler.png",
         "pickup": "Transform an Item or Equipment into a different one. Can only recycle once.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Recycler_vowjzd.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Recycler_vowjzd.webp",
+        "lore": "Order: \u201CTY-6G Recycler\u201D\r\nTracking Number: 02******\r\nEstimated Delivery: 11\\06\\2056\\\r\nShipping Method: Standard\r\nShipping Address: 700 Baler Ave, Seattle, Earth\r\nShipping Details:\r\n\r\nStandard issue recycling apparatus TY-6G. Please read the manual before operating. KEEP HANDS CLEAR OF THE TOP OPENING.\r\n\r\nUse included recycler rod to pack refuse into top. Our patented smart technology will find a new, usable form for the matter you insert. \r\n\r\nThank you for recycling!\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db19",
@@ -81,7 +87,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/c/ce/Eccentric_Vase.png",
         "pickup": "Create a quantum tunnel between two locations.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Eccentric_Vase_htz2bb.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211984/riskofrain/Eccentric_Vase_htz2bb.webp",
+        "lore": "\u201COne of Robins\u2019 most loved acts was the pitcher skit. \r\n\r\nThe skit would start off with Robins, playing the part of a flower keeper, getting ready to fill a vase with soil. He would pour, pour, and pour, but the vase wouldn\u2019t seem to get any fuller \u2013 as if the soil was disappearing infinitely. \r\n\r\nRobins would inspect the vase, looking at it up and down, but there weren\u2019t any holes in the thing. Finally, at the climax, Robins would hold it upside down over his head \u2013 upon which all of the soil poured in would land directly on his face.\u201D\r\n\r\n- Biography of Charles Robins\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db2c",
@@ -93,7 +100,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/3/3a/Goobo_Jr..png",
         "pickup": "Create a clone of you for 30 seconds.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Goobo_Jr._hfyjsw.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Goobo_Jr._hfyjsw.webp",
+        "lore": "//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\n\n\"I'm telling you, you need to be more strict with your little slime project, dude. I caught him rummaging through my stuff earlier. You know how hard it is to get stains out of these UES uniforms? \"\n\n\"His NAME is Goobo Jr., thank you very much. And I'm sure he was just playing. He likes his uncle Rich, isn't that right, Goobo?\"\n\n\"It doesn't have vocal chords, Mike.\"\n\n\"You don't have vocal chords.\"\n\n\"Real mature. Anyway, you better stop messing around, or the Captain will send that slime ball to the front lines. Now, I got to go do my job. Y'know, what we were sent here for, not playing dollhouse with your 'science project' over here.\"\n\n\"Yeah, yeah... Alright, he's gone. Hey Goobo, listen up. You got a good look at Rich, right? I got an idea to knock him down a few notches. First, you gotta take on his shape, and then...\"\n\n[THIS LOG HAS BEEN FLAGGED FOR REVIEW AS PART OF: COURT MARTIAL OF RICHARD D. BAGGINS]"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db85",
@@ -105,7 +113,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/7/72/Trophy_Hunter%27s_Tricorn.png",
         "pickup": "Looks kinda cool, but that's about it.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Trophy_Hunter_27s_Tricorn_t6fklh.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/Trophy_Hunter_27s_Tricorn_t6fklh.webp",
+        "lore":"\"I've always thought,\" said Rainsford, \"that the Bighorn Bison is the most dangerous of all big game.\"\n\nFor a moment the general did not reply; he was smiling his curious red-lipped smile. Then he said slowly, \"No. You are wrong, sir. The Bighorn Bison is not the most dangerous big game.\" He sipped his wine. \"Here in my preserve on this planet,\" he said in the same slow tone, \"I hunt more dangerous game.\"\n\n\"...Sir?\" General Hadbury turned to Rainsford. \"Tell me, Rainsford, what makes game... dangerous?\" Rainsford thought for a moment. \"...The, er, size, sir? Big animals are often pretty tough to take down.\" Habury nodded. \"Indeed, size can be important, but that's not it. In my eye, what makes game dangerous is... intelligence.\" Hadbury met Rainsford's gaze with a twinkle in his eye.\n\n\"The best hunt is always a match of wits. Say I were to lay some traps - how would I go about disguising them so that my prize won't spot them from a mile away? It makes things so much more fun, you see.\" Hadbury turned, walking towards the railing of the balcony overlooking his reserve. \"There's no fun to the hunt, or any game for that matter, if there is no risk involved... if there is no story to the prize. That is why, dear Rainsford, my halls are decorated with the spoils of hunts that could only be described as legendary.\" Hadbury's red-lipped smile grew into a red-lined grin. \"Now get the men ready, for we are going to hunt.\""
     },
     {
         "_id": "63d9f34f6d08bb0acd07db5d",
@@ -117,7 +126,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/f/fe/Preon_Accumulator.png",
         "pickup": "Fire a ball of energy that electrocutes nearby enemies before detonating.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Preon_Accumulator_vconr8.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Preon_Accumulator_vconr8.webp",
+        "lore": "Order: Particle Accelerator Component\r\nTracking Number: 993******\r\nEstimated Delivery: 06\/06\/2056\r\nShipping Method: Volatile\r\nShipping Address: Advance Particle Research Center, Mesquite, Earth\r\n\r\nI still don't get how you keep losing so many accumulators. I build 'em tough, and they're supposed to last. I ran the numbers on the comm speeds, and I'm pretty sure you sent for this order less than two days after you should've got the last one. \r\n\r\nIf this keeps up, you're gonna punch a hole in something where it doesn't belong. You've got a real good sponsor, Jim, but this stuff ain't cheap to ship. And it sure as heck ain't fast. So, I'm sending you a custom part. One that's as tough as I can make, and with a safety to keep you from overcharging it - that I'm sure you'll bypass anyway. \r\n\r\nAt least try not to blow this one to bits for the first week, alright? Make our hometown look good. You're not gonna show up those fancy Europeans with a smoking scrap heap.\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db8b",
@@ -129,7 +139,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/2/2e/Volcanic_Egg.png",
         "pickup": "Transform into a speeding draconic fireball, dealing damage as you pass through enemies.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Volcanic_Egg_znaj7y.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211977/riskofrain/Volcanic_Egg_znaj7y.webp",
+        "lore": "Order: Europan Great Dragon Egg\r\nTracking Number: 00****************\r\nEstimated Delivery: 10\/04\/2056\r\nShipping Method:  Biological \/ Fragile\r\nShipping Address: Xenobiology Wildlife Reserve, Titan\r\nShipping Details: \r\n\r\nMake sure to keep this thing nice and hot while it incubates. I know it may seem plenty hot already, but Great Dragons are creatures of flame \u2013 they live the stuff, breath the stuff. Oh, and please send me pictures of the little guy once it hatches. Great Dragons are always so cute when they first hatch."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db18",
@@ -141,7 +152,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/7/78/Disposable_Missile_Launcher.png",
         "pickup": "Fire a swarm of missiles.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Disposable_Missile_Launcher_eh6yyh.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211983/riskofrain/Disposable_Missile_Launcher_eh6yyh.webp",
+        "lore": "\u201CConsumers were shocked when a beloved game company released its latest cardboard assembly kit: a missile launcher.\u201D\r\n\r\n- The Saturn Reporter\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db23",
@@ -153,7 +165,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/7/78/Forgive_Me_Please.png",
         "pickup": "Throw a cursed doll that repeatedly triggers your 'On Kill' effects.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Forgive_Me_Please_l9bxhw.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211986/riskofrain/Forgive_Me_Please_l9bxhw.webp",
+        "lore": "There is a note pinned to the doll:\r\n\r\nAyy, you\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re really killing me.\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db41",
@@ -165,7 +178,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/4/41/Jade_Elephant.png",
         "pickup": "Gain massive armor for 5 seconds.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Jade_Elephant_pcxbmd.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211991/riskofrain/Jade_Elephant_pcxbmd.webp",
+        "lore": "Excerpt from the folk tale \"Clean as Jade\":\r\n\r\n\u201C... and while the peasants braced for the advancement of the Emperor\u2019s army, the stone carver finished her last strike on the giant sculpture. The clang of the flat tool against the beautiful, translucent green sheen of the solid surface echoed through the trees and around all the villagers. Their souls were cleansed and made whole by the heavenly stone, now formed into the imposing presence of an elephant.\r\n\r\nDetermination and resolve had essentially been carved into the very spirit of the ones who, just moments ago, were clutching their farming implements and make-shift weapons with trembling hands. The attack was repelled that day. The Emperor\u2019s army told stories about their metal weapons bouncing off the cloth of commoners. This inspiring encounter spread to other villages and...\u201D\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db5e",
@@ -177,7 +191,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/d/d9/Primordial_Cube.png",
         "pickup": "Fire a black hole that draws enemies in.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Primordial_Cube_gkgerf.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211996/riskofrain/Primordial_Cube_gkgerf.webp",
+        "lore": "\u201CProfessors Mia Thatcher and Jared Malik report that the galaxy\u2019s first singularity containment lattice \u2013 or SCL, for short \u2013 has finished tests and is confirmed to be perfectly safe. \r\n\r\nWhile this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.\u201D\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db35",
@@ -213,7 +228,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/e/e3/Milky_Chrysalis.png",
         "pickup": "    Gain temporary flight.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Milky_Chrysalis_ceovsf.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Milky_Chrysalis_ceovsf.webp",
+        "lore": "Order: Milky Chrysalis\r\nTracking Number: 393*****\r\nEstimated Delivery: 11/27/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Diptera Research Center, Io\r\nShipping Details:\r\n\r\nDeep within the plague wastes there is an alcove free from disease. It is home to a group of insects that have NOT acclimated to their environment. They survive not through resistance\u2026 but through transformation. \r\n\r\nI\u2019ve witnessed the creatures undergoing infinite states of metamorphosis. Each change that happens to them is reflected in the surrounding land. This constantly molds the area into something less toxic.\r\n\r\nI can\u2019t imagine that they don\u2019t have an upper limit - a final form. What adjustments would that final form bring? Are there any restrictions to what can be modified? I\u2019m sending this sample to you to study. Please be careful with it, as it\u2019s frozen in a cryo cell mid-transformation.\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db4d",
@@ -225,7 +241,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/b/bf/Molotov_%286-Pack%29.png",
         "pickup": "Throw 6 flaming molotovs that ignite enemies upon shattering.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Molotov_29_jfctfw.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211993/riskofrain/Molotov_29_jfctfw.webp",
+        "lore": "Order: Ethanol Bottle (32 oz.), 6 Pack\r\nTracking Number: 81******\r\nEstimated Delivery: 05/8/2058\r\nShipping Method: Priority\r\nShipping Address: Teromere Manor, Privet Road, Mars\nShipping Details: Let our friends inside know that we're coming over for drinks on the 16th of June. It'll be a hell of a party, they should probably hit the road before things get too out of hand."
     },
     {
         "_id": "63d9f34f6d08bb0acd07db70",
@@ -238,6 +255,7 @@
         "itemImage": "https://riskofrain2.wiki.gg/images/5/50/Shared_Design.png",
         "pickup": "    Become an aspect of perfection.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Shared_Design_qy4ffd.webp"
+
     },
     {
         "_id": "63d9f34f6d08bb0acd07db2d",
@@ -249,7 +267,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/5/56/Gorag%27s_Opus.png",
         "pickup": "You and all your allies enter a frenzy.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211988/riskofrain/Gorag_27s_Opus_avav1f.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211988/riskofrain/Gorag_27s_Opus_avav1f.webp",
+        "lore": "Audio transcription complete from \"Carrion Crows Tour 2055: Special Edition\"\r\n\r\nPrinting...\r\n\r\n\"Halfway through the tour we were at this little shop down in Groveside and the guy at the desk is trying to sell us random junk.\"\r\n\r\n\"Yeah, he was totally out of the loop, had no idea who we were.\"\r\n\r\n\"Yep, anyways, as a joke, I\u2019m thinking I\u2019ll buy this ancient looking drum and use it on stage at the next show. Then we\u2019d circle back and show this guy a video of his merch being used in the biggest performance on the planet.\"\r\n\r\n\"We tried to find him again, but the shop was all shut down. Couldn\u2019t figure out what happened to him.\"\r\n\r\n\"Thing is, that drum drove our fans wild. It turned out to be our most successful tour ever.\"\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db53",
@@ -261,7 +280,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/6/68/Ocular_HUD.png",
         "pickup": "Gain 100% Critical Strike Chance for 8 seconds.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Ocular_HUD_t2ptgo.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/Ocular_HUD_t2ptgo.webp",
+        "lore": "Order: Ocular HUD\r\nTracking Number: 871*****\r\nEstimated Delivery: 09\/06\/2056\r\nShipping Method: Standard\r\nShipping Address: Greivenkamp, 5th Houston St, Prism Tower, Earth\r\nShipping Details:\r\n\r\nI wish you hadn't asked me for help. I was contacted by [REDACTED] and they explained... well, some things. Using their instructions, I was able to design this interface for prolonged exactness. The beauty of it all is that it will compound with any previous precision enhancing tools. Digital plus optical is the way to go.\r\n\r\nWhile I still don't know everything, I feel like I'm already in too deep. You won't hear from me anymore after this.\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db2b",
@@ -273,7 +293,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/d/d8/Gnarled_Woodsprite.png",
         "pickup": "Heal over time. Activate to send to an ally.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Gnarled_Woodsprite_zjjkoy.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Gnarled_Woodsprite_zjjkoy.webp",
+        "lore": "Gnarled Woodsprite\r\nTracking Number: 447*****\r\nEstimated Delivery: 01/16/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Happy Hope Children's Hospital, Waleton, Earth\r\nShipping Details:\r\n\r\nDr. Coleas's studies on the benefits of sprite-assisted care have paved the way for hospitals across Earth. These little guys take every opportunity to radiate amongst the injured and sick. \r\n\r\nWe've seen significant decreases in the recovery times of almost all patients. While effective, I'm not certain if this aura effect is transmitting anything at all. It might all be placebo; people could just be reacting to the spectacle of a cute lifeform putting on a light show in front of them.\r\n\r\nEither way, it's good to have them around, and I think they enjoy being around us too. I'm lucky enough to get to keep one in my home... for study purposes, of course. It may seem a little crass, but shipping these little guys in from off world does not seem to impact their attitude in the slightest.\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db39",
@@ -309,7 +330,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/3/39/The_Back-up.png",
         "pickup": "Call drones for back up. Lasts 25 seconds.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/The_Back-up_hlesai.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/The_Back-up_hlesai.webp",
+        "lore": "\"The inclusion of Rapid Response Drone Squadrons (RRDS) by local law enforcement marked a dire turning point of Plank's Rebellion. After its massive \"success\" in quelling the Rebellion - and subsequent implementation across Mercury - underground drone hackers became highly sought after by black market users.\"\r\n\r\n-Overview of Drone Technology, Vol.2\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db82",
@@ -321,7 +343,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/d/d4/The_Crowdfunder.png",
         "pickup": "    Toggle to fire. Costs gold per bullet.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/The_Crowdfunder_cnhghg.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211976/riskofrain/The_Crowdfunder_cnhghg.webp",
+        "lore": "Order: The Crowdfunder\r\nTracking Number: 783*****\r\nEstimated Delivery: 05/09/2056\r\nShipping Method: Standard\r\nShipping Address: 206 29th Ave, High Chariot, Mercury \r\nShipping Details:\r\n\r\nThe wealthy overlords on Primas V went to great measures to break the will of the lower class. They kept the threat of injury and death constant, which helped to keep their servants in check, but this was only half of their method. \r\n\r\nTo further highlight the vast differences in status, their extravagant weapons were fueled by currency - they were literally throwing money at them.\r\n\r\nI don\u2019t have to tell you how that turned out for them. It\u2019s why my client is in hiding now and has to pawn these things off. He thanks you for your patronage in these trying times.\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db61",
@@ -333,7 +356,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/7/7f/Radar_Scanner.png",
         "pickup": "Reveal all nearby interactables.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Radar_Scanner_mwawsd.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211997/riskofrain/Radar_Scanner_mwawsd.webp",
+        "lore": "Order: Radar Communications Array\r\nTracking Number: 02****************\r\nEstimated Delivery: 01\/14\/2056\r\nShipping Method:  Standard\r\nShipping Address: PO Box 25-B, Fort G.B., Mercury\r\nShipping Details: \r\n\r\nYou\u2019re asking for trouble, ordering this through the UES. Not very covert. This thing can put out anything from infrared to UV waves \u2013 maybe it\u2019ll let you see the Enforcers coming to haul you off to jail as they kick down your door! Hah!\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db79",
@@ -357,7 +381,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/a/ae/Super_Massive_Leech.png",
         "pickup": "Heal for a percentage of the damage you deal for 8 seconds.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675225566/riskofrain/Super_Massive_Leech_tffuhu.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675225566/riskofrain/Super_Massive_Leech_tffuhu.webp",
+        "lore": "Return: Super Massive Leech\r\nTracking Number: 817*****\r\nEstimated Delivery: 07/01/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Rare/Extinct Study Satellite, Beachfront, Saturn\r\nShipping Details:\r\n\r\nWhile the medical benefits of this creature are obvious, the psychological effects are not. Upon receiving a previous shipment, Carolyn took charge of research and experimentation with the organism. \r\n\r\nEverything was by the book until, one day, she walked into the lab with the specimen clearly attached to her neck. Incredibly startled, the rest of us eventually coaxed her into placing it back into containment.\r\n\r\nWe inspected the bite area but, after running all the standard tests, we did not observe any adverse side effects.\r\n\r\nShe stated that it made her feel fantastic, but no one else in the lab felt comfortable with her behavior.\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db34",
@@ -381,7 +406,8 @@
         "rarity": "Equipment",
         "itemImage": "https://riskofrain2.wiki.gg/images/e/ef/Royal_Capacitor.png",
         "pickup": "    Call down a lightning strike on a targeted monster.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Royal_Capacitor_niztoy.webp"
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211998/riskofrain/Royal_Capacitor_niztoy.webp",
+        "lore": "Order: ZAP2-K \u201CRoyal\u201D Capacitor\r\nTracking Number: 145***************\r\nEstimated Delivery: 04\/30\/2056\r\nShipping Method:  Standard\r\nShipping Address: Power Plant 005, Route 10, Venus\r\nShipping Details: \r\n\r\nHere\u2019s a replacement for your damaged equipment. Crazy how gang activity is starting up again \u2013 even crazier that they\u2019d steal a capacitor from you guys. Anyway, you guys know the drill \u2013 make sure routinely discharge the capacitor\u2019s storage cells, as it may hold on to latent voltage. Oh, and make sure not to point it at anybody when you do.\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db75",
