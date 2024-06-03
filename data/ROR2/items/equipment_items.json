@@ -245,19 +245,6 @@
         "lore": "Order: Ethanol Bottle (32 oz.), 6 Pack\r\nTracking Number: 81******\r\nEstimated Delivery: 05/8/2058\r\nShipping Method: Priority\r\nShipping Address: Teromere Manor, Privet Road, Mars\nShipping Details: Let our friends inside know that we're coming over for drinks on the 16th of June. It'll be a hell of a party, they should probably hit the road before things get too out of hand."
     },
     {
-        "_id": "63d9f34f6d08bb0acd07db70",
-        "itemName": "Shared Design",
-        "color": "Orange",
-        "description": "Become an aspect of perfection.",
-        "cooldown": "None",
-        "stackType": "Perfected",
-        "rarity": "Equipment",
-        "itemImage": "https://riskofrain2.wiki.gg/images/5/50/Shared_Design.png",
-        "pickup": "    Become an aspect of perfection.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Shared_Design_qy4ffd.webp"
-
-    },
-    {
         "_id": "63d9f34f6d08bb0acd07db2d",
         "itemName": "Gorag's Opus",
         "color": "Orange",
@@ -295,30 +282,6 @@
         "pickup": "Heal over time. Activate to send to an ally.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211987/riskofrain/Gnarled_Woodsprite_zjjkoy.webp",
         "lore": "Gnarled Woodsprite\r\nTracking Number: 447*****\r\nEstimated Delivery: 01/16/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Happy Hope Children's Hospital, Waleton, Earth\r\nShipping Details:\r\n\r\nDr. Coleas's studies on the benefits of sprite-assisted care have paved the way for hospitals across Earth. These little guys take every opportunity to radiate amongst the injured and sick. \r\n\r\nWe've seen significant decreases in the recovery times of almost all patients. While effective, I'm not certain if this aura effect is transmitting anything at all. It might all be placebo; people could just be reacting to the spectacle of a cute lifeform putting on a light show in front of them.\r\n\r\nEither way, it's good to have them around, and I think they enjoy being around us too. I'm lucky enough to get to keep one in my home... for study purposes, of course. It may seem a little crass, but shipping these little guys in from off world does not seem to impact their attitude in the slightest.\r\n"
-    },
-    {
-        "_id": "63d9f34f6d08bb0acd07db39",
-        "itemName": "Ifrit's Distinction",
-        "color": "Orange",
-        "description": "Become an aspect of fire.",
-        "cooldown": "None",
-        "stackType": "Blazing",
-        "rarity": "Equipment",
-        "itemImage": "https://riskofrain2.wiki.gg/images/0/08/Ifrit%27s_Distinction.png",
-        "pickup": "    Become an aspect of fire.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Ifrit_27s_Distinction_t9fgoh.webp"
-    },
-    {
-        "_id": "63d9f34f6d08bb0acd07db4f",
-        "itemName": "N'kuhana's Retort",
-        "color": "Orange",
-        "description": "Become an aspect of corruption.",
-        "cooldown": "None",
-        "stackType": "Malachite",
-        "rarity": "Equipment",
-        "itemImage": "https://riskofrain2.wiki.gg/images/9/9b/N%27kuhana%27s_Retort.png",
-        "pickup": "    Become an aspect of corruption.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/N27s_Retort_gyb0mj.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db81",
@@ -360,18 +323,6 @@
         "lore": "Order: Radar Communications Array\r\nTracking Number: 02****************\r\nEstimated Delivery: 01\/14\/2056\r\nShipping Method:  Standard\r\nShipping Address: PO Box 25-B, Fort G.B., Mercury\r\nShipping Details: \r\n\r\nYou\u2019re asking for trouble, ordering this through the UES. Not very covert. This thing can put out anything from infrared to UV waves \u2013 maybe it\u2019ll let you see the Enforcers coming to haul you off to jail as they kick down your door! Hah!\r\n"
     },
     {
-        "_id": "63d9f34f6d08bb0acd07db79",
-        "itemName": "Spectral Circlet",
-        "color": "Orange",
-        "description": "Become an aspect of incorporeality.",
-        "cooldown": "None",
-        "stackType": "Celestine",
-        "rarity": "Equipment",
-        "itemImage": "https://riskofrain2.wiki.gg/images/d/d2/Spectral_Circlet.png",
-        "pickup": "    Become an aspect of incorporeality.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Spectral_Circlet_zstf6q.webp"
-    },
-    {
         "_id": "63d9f34f6d08bb0acd07db7e",
         "itemName": "Super Massive Leech",
         "color": "Orange",
@@ -383,18 +334,6 @@
         "pickup": "Heal for a percentage of the damage you deal for 8 seconds.",
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675225566/riskofrain/Super_Massive_Leech_tffuhu.webp",
         "lore": "Return: Super Massive Leech\r\nTracking Number: 817*****\r\nEstimated Delivery: 07/01/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Rare/Extinct Study Satellite, Beachfront, Saturn\r\nShipping Details:\r\n\r\nWhile the medical benefits of this creature are obvious, the psychological effects are not. Upon receiving a previous shipment, Carolyn took charge of research and experimentation with the organism. \r\n\r\nEverything was by the book until, one day, she walked into the lab with the specimen clearly attached to her neck. Incredibly startled, the rest of us eventually coaxed her into placing it back into containment.\r\n\r\nWe inspected the bite area but, after running all the standard tests, we did not observe any adverse side effects.\r\n\r\nShe stated that it made her feel fantastic, but no one else in the lab felt comfortable with her behavior.\r\n"
-    },
-    {
-        "_id": "63d9f34f6d08bb0acd07db34",
-        "itemName": "Her Biting Embrace",
-        "color": "Orange",
-        "description": "Become an aspect of ice.",
-        "cooldown": "None",
-        "stackType": "Glacial",
-        "rarity": "Equipment",
-        "itemImage": "https://riskofrain2.wiki.gg/images/8/8b/Her_Biting_Embrace.png",
-        "pickup": "    Become an aspect of ice.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Her_Biting_Embrace_erhwro.webp"
     },
     {
         "_id": "63d9f34f6d08bb0acd07db6a",
@@ -410,6 +349,66 @@
         "lore": "Order: ZAP2-K \u201CRoyal\u201D Capacitor\r\nTracking Number: 145***************\r\nEstimated Delivery: 04\/30\/2056\r\nShipping Method:  Standard\r\nShipping Address: Power Plant 005, Route 10, Venus\r\nShipping Details: \r\n\r\nHere\u2019s a replacement for your damaged equipment. Crazy how gang activity is starting up again \u2013 even crazier that they\u2019d steal a capacitor from you guys. Anyway, you guys know the drill \u2013 make sure routinely discharge the capacitor\u2019s storage cells, as it may hold on to latent voltage. Oh, and make sure not to point it at anybody when you do.\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n"
     },
     {
+        "_id": "63d9f34f6d08bb0acd07db86",
+        "itemName": "Trophy Hunter's Tricorn (Consumed)",
+        "color": "Orange",
+        "description": "Looks kinda cool, but that's about it.",
+        "cooldown": "60 Seconds",
+        "stackType": "None",
+        "rarity": "Equipment",
+        "itemImage": "https://riskofrain2.wiki.gg/images/e/e4/Trophy_Hunter%27s_Tricorn_%28Consumed%29.png",
+        "pickup": "Looks kinda cool, but that's about it.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675225671/riskofrain/Trophy_Hunter28Consumed_29_wgkvmw.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db34",
+        "itemName": "Her Biting Embrace",
+        "color": "Orange",
+        "description": "Become an aspect of ice.",
+        "cooldown": "None",
+        "stackType": "Glacial",
+        "rarity": "Equipment",
+        "itemImage": "https://riskofrain2.wiki.gg/images/8/8b/Her_Biting_Embrace.png",
+        "pickup": "    Become an aspect of ice.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Her_Biting_Embrace_erhwro.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db79",
+        "itemName": "Spectral Circlet",
+        "color": "Orange",
+        "description": "Become an aspect of incorporeality.",
+        "cooldown": "None",
+        "stackType": "Celestine",
+        "rarity": "Equipment",
+        "itemImage": "https://riskofrain2.wiki.gg/images/d/d2/Spectral_Circlet.png",
+        "pickup": "    Become an aspect of incorporeality.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Spectral_Circlet_zstf6q.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db4f",
+        "itemName": "N'kuhana's Retort",
+        "color": "Orange",
+        "description": "Become an aspect of corruption.",
+        "cooldown": "None",
+        "stackType": "Malachite",
+        "rarity": "Equipment",
+        "itemImage": "https://riskofrain2.wiki.gg/images/9/9b/N%27kuhana%27s_Retort.png",
+        "pickup": "    Become an aspect of corruption.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211994/riskofrain/N27s_Retort_gyb0mj.webp"
+    },
+    {
+        "_id": "63d9f34f6d08bb0acd07db39",
+        "itemName": "Ifrit's Distinction",
+        "color": "Orange",
+        "description": "Become an aspect of fire.",
+        "cooldown": "None",
+        "stackType": "Blazing",
+        "rarity": "Equipment",
+        "itemImage": "https://riskofrain2.wiki.gg/images/0/08/Ifrit%27s_Distinction.png",
+        "pickup": "    Become an aspect of fire.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211989/riskofrain/Ifrit_27s_Distinction_t9fgoh.webp"
+    },
+    {
         "_id": "63d9f34f6d08bb0acd07db75",
         "itemName": "Silence Between Two Strikes",
         "color": "Orange",
@@ -422,15 +421,15 @@
         "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211975/riskofrain/Silence_Between_Two_Strikes_dvofke.webp"
     },
     {
-        "_id": "63d9f34f6d08bb0acd07db86",
-        "itemName": "Trophy Hunter's Tricorn (Consumed)",
+        "_id": "63d9f34f6d08bb0acd07db70",
+        "itemName": "Shared Design",
         "color": "Orange",
-        "description": "Looks kinda cool, but that's about it.",
-        "cooldown": "60 Seconds",
-        "stackType": "None",
+        "description": "Become an aspect of perfection.",
+        "cooldown": "None",
+        "stackType": "Perfected",
         "rarity": "Equipment",
-        "itemImage": "https://riskofrain2.wiki.gg/images/e/e4/Trophy_Hunter%27s_Tricorn_%28Consumed%29.png",
-        "pickup": "Looks kinda cool, but that's about it.",
-        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675225671/riskofrain/Trophy_Hunter28Consumed_29_wgkvmw.webp"
+        "itemImage": "https://riskofrain2.wiki.gg/images/5/50/Shared_Design.png",
+        "pickup": "    Become an aspect of perfection.",
+        "thumbUrl": "https://res.cloudinary.com/morgancrawfordweb/image/upload/v1675211974/riskofrain/Shared_Design_qy4ffd.webp"
     }
 ]
