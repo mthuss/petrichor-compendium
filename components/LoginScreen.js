@@ -18,6 +18,7 @@ export default props => {
                     password: password
                 }
             )
+            signin()
         }
         catch (e) {
             showError(e)
@@ -32,8 +33,8 @@ export default props => {
                     password: password
                 }
             )
-            // console.warn(response.data)
             dispatch({ type:"login", payload: response.data })
+            props.navigation.navigate("GameSelect")
         }
         catch(e){
             showError(e)

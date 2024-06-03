@@ -16,6 +16,7 @@ export const colors = {
     mainBg: "#333a4c",
     bgAlt: "#1a1b20",
     buttonBorder: "#4b4b57",
+    highlight: "#e6cc81"
 }
 
 export default Styles = StyleSheet.create({
@@ -106,6 +107,27 @@ export default Styles = StyleSheet.create({
         right: 0,
         top: 64,
         zIndex: 3
+    },
+    userIcon: {
+        borderRadius: 5,
+        borderWidth: 5,
+        borderStyle: "solid",
+        borderColor: colors.highlight,
+
+    },
+    logout: {
+        position: "absolute",
+        bottom: 16,
+        justifyContent: "center",
+        alignContent: "center",
+        alignItems: "center",
+        width: "100%"
+    },
+    border: {
+        borderStyle: "solid",
+        borderColor: "#4b4b57",
+        borderWidth: 5,
+        borderRadius: 5
     }
 
 })

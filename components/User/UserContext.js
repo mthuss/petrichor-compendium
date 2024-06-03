@@ -23,6 +23,7 @@ async function saveUser(user){
         console.error("Erro ao carregar usuário: " + e)
     }
 }
+
 export const UserProvider = props => {
     useEffect(() => {
         async function fetchData() {
@@ -44,6 +45,9 @@ export const UserProvider = props => {
             case "loadUser": {
                 const user = action.payload
                 return {user: user}
+            }
+            case "logout": {
+                return {user: null}
             }
         }
     }
