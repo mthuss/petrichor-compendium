@@ -6,6 +6,7 @@ import { useFonts } from 'expo-font';
 import * as SplashScreen from 'expo-splash-screen';
 import { useCallback } from 'react';
 import { MenuProvider } from 'react-native-popup-menu';
+import { UserProvider } from './components/User/UserContext';
 
 SplashScreen.preventAutoHideAsync();
 
@@ -26,13 +27,15 @@ export default function App() {
   }
 
   return (
-    <MenuProvider>
-      <SafeAreaView style={{ flex: 1 }} onLayout={onLayoutRootView}>
-        <NavigationContainer>
-          <Navigation></Navigation>
-        </NavigationContainer>
-      </SafeAreaView>
-    </MenuProvider>
+    <UserProvider>
+      <MenuProvider>
+        <SafeAreaView style={{ flex: 1 }} onLayout={onLayoutRootView}>
+          <NavigationContainer>
+            <Navigation></Navigation>
+          </NavigationContainer>
+        </SafeAreaView>
+      </MenuProvider>
+    </UserProvider>
   );
 }
 

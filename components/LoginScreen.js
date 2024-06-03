@@ -1,13 +1,15 @@
 import { TextInput, ImageBackground, View, Text, Alert } from 'react-native'
 import Styles from './Styles'
-import { useState } from 'react'
+import { useContext, useState } from 'react'
 import { RORButton } from './RORComponents'
 import axios from 'axios'
 import {server, showError} from './common'
+import UserContext from './User/UserContext'
 
 export default props => {
     const [username, setUsername] = useState("")
     const [password, setPassword] = useState("")
+    const {dispatch} = useContext(UserContext)
     signup = async () => {
         try {
             await axios.post(`${server}/signup`,
@@ -30,7 +32,8 @@ export default props => {
                     password: password
                 }
             )
-            console.warn(response.data)
+            // console.warn(response.data)
+            dispatch({ type:"login", payload: response.data })
         }
         catch(e){
             showError(e)
