@@ -3,21 +3,19 @@ import Styles from '../Styles'
 import { useState } from 'react'
 import { ItemIcon, RORButton } from '../RORComponents'
 import Ionicon from 'react-native-vector-icons/Ionicons'
-import FilterPopup from './filterPopup'
 
 export default props => {
-    const data_dir = "../../data/ROR2/items/"
+    const data_dir = "../../data/RORR/items/"
     const items_list = {
         "common": require(data_dir + 'common_items.json'),
         "uncommon": require(data_dir + 'uncommon_items.json'),
         "legendary": require(data_dir + 'legendary_items.json'),
-        "void": require(data_dir + 'void_items.json'),
-        "lunar": require(data_dir + 'lunar_items.json'),
         "boss": require(data_dir + 'boss_items.json'),
-        "equipment": require(data_dir + 'equipment_items.json')
+        "equipment": require(data_dir + 'equipment_items.json'),
+        "special": require(data_dir + 'special_items.json'),
     }
 
-    const allItems = [...items_list["common"], ...items_list["uncommon"], ...items_list["legendary"], ...items_list["void"], ...items_list["lunar"], ...items_list["boss"], ...items_list["equipment"]]
+    const allItems = [...items_list["common"], ...items_list["uncommon"], ...items_list["legendary"], ...items_list["boss"], ...items_list["equipment"], ...items_list["special"]]
     const [showType, setShowType] = useState("all")
     const [filterText, setFilterText] = useState("Showing all")
     const [query, setQuery] = useState("")
@@ -25,10 +23,7 @@ export default props => {
 
     function handleTextChange(query) {
         setQuery(query)
-        if(showType == "all")
-            setFilteredList(allItems.filter(item => (item["itemName"].toLowerCase().includes(query.toLowerCase()))))
-        else
-            setFilteredList(items_list[showType].filter(item => (item["itemName"].toLowerCase().includes(query.toLowerCase()))))
+        setFilteredList(allItems.filter(item => (item["itemName"].toLowerCase().includes(query.toLowerCase()))))
     }
 
     return (
@@ -45,14 +40,14 @@ export default props => {
                                 <TextInput fontSize={16} paddingLeft={6} placeholderTextColor={Styles.RORText.color} fontFamily={Styles.RORText.fontFamily} style={Styles.RORText} color={Styles.RORText.color} placeholder="Search..." onChangeText={handleTextChange} value={query} />
                             </View>
                             <FlatList data={filteredList}
-                                keyExtractor={item => item["_id"]}
+                                keyExtractor={(item) => item["_id"]}
                                 numColumns={2}
                                 renderItem={(item) =>
                                     <ItemIcon item={item["item"]}
                                         navigation={props.navigation}
                                         contentContainerStyle={{ alignSelf: 'flex-start' }}
                                         imageSize={64}
-                                        game={"ROR2"}
+                                        game={"RORR"}
                                     />
                                 }
                             />

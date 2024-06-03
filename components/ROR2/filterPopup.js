@@ -1,6 +1,6 @@
 import { Menu, MenuOption, MenuOptions, MenuTrigger } from "react-native-popup-menu"
 import Ionicon from 'react-native-vector-icons/Ionicons'
-import Styles, {itemColors} from './Styles'
+import Styles, {itemColors} from '../Styles'
 import { View, Text } from "react-native"
 
 export default props =>{

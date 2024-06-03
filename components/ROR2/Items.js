@@ -3,7 +3,7 @@ import Styles from '../Styles'
 import { useState } from 'react'
 import { ItemIcon, RORButton } from '../RORComponents'
 import Ionicon from 'react-native-vector-icons/Ionicons'
-import FilterPopup from '../filterPopup'
+import FilterPopup from './filterPopup'
 
 export default props => {
     const data_dir = "../../data/ROR2/items/"
@@ -44,6 +44,8 @@ export default props => {
                                     <ItemIcon item={item["item"]}
                                         navigation={props.navigation}
                                         contentContainerStyle={{ alignSelf: 'flex-start' }}
+                                        imageSize={64}
+                                        game={"ROR2"}
                                     />
                                 }
                             />

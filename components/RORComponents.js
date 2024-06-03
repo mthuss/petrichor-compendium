@@ -12,9 +12,9 @@ export const RORButton = props => {
     )
 }
 
-export const ItemIcon = ({item, navigation, onPress}) => {
+export const ItemIcon = ({item, navigation, imageSize, game}) => {
     return (
-    <TouchableOpacity style={Styles.icon} onPress={()=>navigation.navigate("ItemInfo", 
+    <TouchableOpacity style={Styles.icon} onPress={()=>navigation.navigate(game+"ItemInfo", 
     {   
         id: item["_id"],
         name: item["itemName"] ,
@@ -28,7 +28,7 @@ export const ItemIcon = ({item, navigation, onPress}) => {
         lore: item["lore"]
     })}>
         <View style={[Styles.buttonInside,{justifyContent:"center", alignContent: "center", alignItems: "center", flex:1}]}>
-                <Image style={{ width: 64, height: 64, marginBottom: 8}} source={{ uri: item["itemImage"] }} />
+                <Image style={{ width: imageSize, height: imageSize, marginBottom: 8, resizeMode: "contain"}} source={{ uri: item["itemImage"] }} />
                 <Text style={[Styles.RORText, {textAlign: "center"}]}>{item["itemName"]}</Text>
             </View>
         </TouchableOpacity>

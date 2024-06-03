@@ -1,5 +1,5 @@
 import { Image, Text, ImageBackground, View, ScrollView } from 'react-native'
-import Styles from './Styles'
+import Styles from '../Styles'
 
 export default props => {
     const item = props.route.params
@@ -38,7 +38,7 @@ export default props => {
 
     return (
         <View style={Styles.container}>
-            <ImageBackground source={require('../assets/main_bg.png')} resizeMode="cover" style={Styles.imageBackground}>
+            <ImageBackground source={require('../../assets/main_bg.png')} resizeMode="cover" style={Styles.imageBackground}>
                 <View style={{ flex: 1, marginTop: 54 }}>
                     <View style={{ flex: 1, backgroundColor: "#333a4c", borderStyle: "solid", borderWidth: 6, borderColor: "#4b4b57", borderRadius: 5, margin: 10 }}>
                         <View style={Styles.card}>

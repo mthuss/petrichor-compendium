@@ -8,7 +8,8 @@ export const itemColors = {
     "void": "#e49bf1",
     "lunar": "#3ad0eb",
     "boss": "#ceda23",
-    "equipment": "#e6902e"
+    "equipment": "#e6902e",
+    "special": "#e49bf1"
 }
 
 export const colors = {
