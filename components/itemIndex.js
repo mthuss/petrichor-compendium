@@ -27,3 +27,8 @@ export const itemIndex = {
         "special": require(RORR_dir + 'special_items.json'),
     }
 }
+
+export const completeList = [...itemIndex["ROR"]["common"], ...itemIndex["ROR"]["uncommon"], ...itemIndex["ROR"]["legendary"], ...itemIndex["ROR"]["boss"], ...itemIndex["ROR"]["equipment"],
+...itemIndex["ROR2"]["common"], ...itemIndex["ROR2"]["uncommon"], ...itemIndex["ROR2"]["legendary"], ...itemIndex["ROR2"]["void"], ...itemIndex["ROR2"]["lunar"], ...itemIndex["ROR2"]["boss"], ...itemIndex["ROR2"]["equipment"],
+...itemIndex["RORR"]["common"], ...itemIndex["RORR"]["uncommon"], ...itemIndex["RORR"]["legendary"], ...itemIndex["RORR"]["boss"], ...itemIndex["RORR"]["equipment"], ...itemIndex["RORR"]["special"]
+]

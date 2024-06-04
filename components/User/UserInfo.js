@@ -5,23 +5,13 @@ import { ItemIcon, RORButton } from '../RORComponents'
 import Ionicon from 'react-native-vector-icons/Ionicons'
 import FilterPopup from '../RORR/filterPopup'
 import UserContext from './UserContext'
+import { completeList } from '../itemIndex'
+import { isFavorited } from '../common'
 
 export default props => {
-    const data_dir = "../../data/RORR/items/"
-    const items_list = {
-        "common": require(data_dir + 'common_items.json'),
-        "uncommon": require(data_dir + 'uncommon_items.json'),
-        "legendary": require(data_dir + 'legendary_items.json'),
-        "boss": require(data_dir + 'boss_items.json'),
-        "equipment": require(data_dir + 'equipment_items.json'),
-        "special": require(data_dir + 'special_items.json'),
-    }
-
     const { state, dispatch } = useContext(UserContext)
     console.warn(state)
 
-    const allItems = [...items_list["common"], ...items_list["uncommon"], ...items_list["legendary"], ...items_list["boss"], ...items_list["equipment"], ...items_list["special"]]
-    const [showType, setShowType] = useState("all")
 
     return (
         <View style={Styles.container}>
@@ -46,7 +36,7 @@ export default props => {
                             <View style={{ flex: 3, marginBottom: 72}}>
                                 <Text style={[Styles.RORText,{fontSize: 18, marginLeft: 14, marginTop: 16}]}>Favorites: </Text>
                                 <View style={[Styles.border,{margin: 8, flex: 1}]}>
-                                <FlatList data={showType == "all" && allItems || items_list[showType]}
+                                <FlatList data={completeList.filter(item => isFavorited(item["_id"],state.user))}
                                     keyExtractor={item => item["_id"]}
                                     numColumns={2}
                                     renderItem={(item) =>
