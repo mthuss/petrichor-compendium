@@ -11,7 +11,6 @@ const scaledHeight = scaledWidth / aspectRatio;
 
 export default props => {
     const {state} = useContext(UserContext)
-    // console.warn(state)
     return (
         <View style={styles.container}>
             <ImageBackground source={require('../assets/main_bg.png')} resizeMode="cover" style={styles.image}>

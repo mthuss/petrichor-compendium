@@ -10,7 +10,6 @@ import { isFavorited } from '../common'
 
 export default props => {
     const { state, dispatch } = useContext(UserContext)
-    console.warn(state)
 
 
     return (
