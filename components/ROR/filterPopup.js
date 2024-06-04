@@ -25,7 +25,7 @@ export default props =>{
                         backgroundColor: "#1a1b20"
                     }
                 }}>
-                    <MenuOption style={[Styles.icon,{margin: 4}]} onSelect={() => {props.navigation.navigate("ROR2ItemSearch")}}>
+                    <MenuOption style={[Styles.icon,{margin: 4}]} onSelect={() => {props.navigation.navigate("RORItemSearch")}}>
                         <Text style={Styles.RORText}>Search</Text>
                     </MenuOption>
                     <MenuOption style={[Styles.icon,{margin: 4}]} onSelect={() => { props.setShowType("all"); props.setFilterText("Showing all")}}>
@@ -39,12 +39,6 @@ export default props =>{
                     </MenuOption>
                     <MenuOption style={[Styles.icon,{margin: 4}]} onSelect={() => { props.setShowType("legendary"); props.setFilterText("Legendary")}}>
                         <Text style={[Styles.RORText,{color: itemColors["legendary"]}]}>Legendary</Text>
-                    </MenuOption>
-                    <MenuOption style={[Styles.icon,{margin: 4}]} onSelect={() => { props.setShowType("void"); props.setFilterText("Void")}}>
-                        <Text style={[Styles.RORText,{color: itemColors["void"]}]}>Void</Text>
-                    </MenuOption>
-                    <MenuOption style={[Styles.icon,{margin: 4}]} onSelect={() => { props.setShowType("lunar"); props.setFilterText("Lunar")}}>
-                        <Text style={[Styles.RORText,{color: itemColors["lunar"]}]}>Lunar</Text>
                     </MenuOption>
                     <MenuOption style={[Styles.icon,{margin: 4}]} onSelect={() => { props.setShowType("boss"); props.setFilterText("Boss")}}>
                         <Text style={[Styles.RORText,{color: itemColors["boss"]}]}>Boss</Text>

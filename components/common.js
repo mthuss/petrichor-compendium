@@ -8,3 +8,7 @@ export function showError(err) {
         Alert.alert('Ops! Ocorreu um Problema!', `Mensagem: ${err}`)
     }
 }
+
+export function capitalize(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}

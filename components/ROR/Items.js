@@ -15,7 +15,7 @@ export default props => {
         "equipment": require(data_dir + 'equipment_items.json')
     }
 
-    const allItems = [...items_list["common"], ...items_list["uncommon"], ...items_list["legendary"], ...items_list["equipment"]]
+    const allItems = [...items_list["common"], ...items_list["uncommon"], ...items_list["legendary"], ...items_list["boss"], ...items_list["equipment"]]
     const [showType, setShowType] = useState("all")
     const [filterText, setFilterText] = useState("Showing all")
     const [reachedEnd, setReachedEnd] = useState(false)

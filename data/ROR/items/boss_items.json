@@ -18,8 +18,8 @@
 		"description": "+40 maximum health, +1.2 HPregen/sec, +6 armor",
         "pickup": "aadawdasd",
 		"stack": "+40 maximum health, +1.2 HPregen/sec, +6 armor",
-		"itemImage": "https://riskofrain.wiki.gg/itemImages/0/06/Colossal_Knurl_Icon.png",
-        "lore": "aaaaaa"
+		"itemImage": "https://riskofrain.wiki.gg/images/0/06/Colossal_Knurl_Icon.png",
+        "lore": ""
 	},
 	{
         "_id": "32",

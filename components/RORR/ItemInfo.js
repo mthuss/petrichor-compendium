@@ -1,5 +1,6 @@
 import { Image, Text, ImageBackground, View, ScrollView } from 'react-native'
 import Styles from '../Styles'
+import { capitalize } from '../common'
 
 export default props => {
     const item = props.route.params
@@ -60,7 +61,8 @@ export default props => {
                                 </View>
                                 <View style={{ marginTop: 24 }}>
                                     <Text style={[Styles.RORText, { color: "#e6cc81", fontSize: 20, marginBottom: 8 }]}>Details:</Text>
-                                    <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Rarity:  <Text style={Styles.RORText}>{item.rarity}</Text></Text>
+                                    <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Rarity:  <Text style={Styles.RORText}>{capitalize(item.rarity)}</Text></Text>
+                                    <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Category:  <Text style={Styles.RORText}>{item.category}</Text></Text>
                                     <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Cooldown:  <Text style={Styles.RORText}>{item.cooldown ? item.cooldown : "N/A"}</Text></Text>
                                     <Text style={[Styles.RORText, { color: "#e0e0e0" }]}>- Stack type:  <Text style={Styles.RORText}>{item.stackType ? item.stackType : "N/A"}</Text></Text>
                                 </View>

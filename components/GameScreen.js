@@ -23,10 +23,13 @@ export default props => {
                 </View>
                 <View style={{ flex: 1, zIndex: 1 }}>
                     <View style={{ paddingBottom: 10 }}>
-                        <RORButton onPress={() => props.navigation.navigate("RORRItems")}><Text style={Styles.RORText}>Risk of Rain Returns</Text></RORButton>
+                        <RORButton onPress={() => props.navigation.navigate("RORItems")}><Text style={Styles.RORText}>Risk of Rain (2013)</Text></RORButton>
+                    </View>
+                    <View style={{ paddingBottom: 10 }}>
+                        <RORButton onPress={() => props.navigation.navigate("ROR2Items")}><Text style={ Styles.RORText }>Risk of Rain <Text style={{ color: "#fffeb3" }}>2</Text></Text></RORButton>
                     </View>
                     <View>
-                        <RORButton onPress={() => props.navigation.navigate("ROR2Items")}><Text style={ Styles.RORText }>Risk of Rain <Text style={{ color: "#fffeb3" }}>2</Text></Text></RORButton>
+                        <RORButton onPress={() => props.navigation.navigate("RORRItems")}><Text style={Styles.RORText}>Risk of Rain Returns</Text></RORButton>
                     </View>
                 </View>
                 <Image source={require('../assets/titlescreen.gif')} style={styles.gif} />
