@@ -3,21 +3,13 @@ import Styles from '../Styles'
 import { useState } from 'react'
 import { ItemIcon, RORButton } from '../RORComponents'
 import Ionicon from 'react-native-vector-icons/Ionicons'
+import { itemIndex } from '../itemIndex'
 
 export default props => {
-    const data_dir = "../../data/RORR/items/"
-    const items_list = {
-        "common": require(data_dir + 'common_items.json'),
-        "uncommon": require(data_dir + 'uncommon_items.json'),
-        "legendary": require(data_dir + 'legendary_items.json'),
-        "boss": require(data_dir + 'boss_items.json'),
-        "equipment": require(data_dir + 'equipment_items.json'),
-        "special": require(data_dir + 'special_items.json'),
-    }
+    const items_list = itemIndex["RORR"]
 
     const allItems = [...items_list["common"], ...items_list["uncommon"], ...items_list["legendary"], ...items_list["boss"], ...items_list["equipment"], ...items_list["special"]]
     const [showType, setShowType] = useState("all")
-    const [filterText, setFilterText] = useState("Showing all")
     const [query, setQuery] = useState("")
     const [filteredList, setFilteredList] = useState(showType == "all" ? allItems : items_list[showType])
 

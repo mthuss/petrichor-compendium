@@ -2,25 +2,15 @@ import { View, ImageBackground, Text, Image, FlatList, TouchableOpacity } from '
 import Styles from '../Styles'
 import { useState } from 'react'
 import { ItemIcon, RORButton } from '../RORComponents'
-import Ionicon from 'react-native-vector-icons/Ionicons'
 import FilterPopup from './filterPopup'
+import { itemIndex } from '../itemIndex'
 
 export default props => {
-    const data_dir = "../../data/ROR2/items/"
-    const items_list = {
-        "common": require(data_dir + 'common_items.json'),
-        "uncommon": require(data_dir + 'uncommon_items.json'),
-        "legendary": require(data_dir + 'legendary_items.json'),
-        "void": require(data_dir + 'void_items.json'),
-        "lunar": require(data_dir + 'lunar_items.json'),
-        "boss": require(data_dir + 'boss_items.json'),
-        "equipment": require(data_dir + 'equipment_items.json')
-    }
+    const items_list = itemIndex["ROR2"]
 
     const allItems = [...items_list["common"], ...items_list["uncommon"], ...items_list["legendary"], ...items_list["void"], ...items_list["lunar"], ...items_list["boss"], ...items_list["equipment"]]
     const [showType, setShowType] = useState("all")
     const [filterText, setFilterText] = useState("Showing all")
-    const [reachedEnd, setReachedEnd] = useState(false)
 
     return (
         <View style={Styles.container}>
