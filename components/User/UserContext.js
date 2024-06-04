@@ -1,5 +1,6 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { createContext, useEffect, useReducer } from "react";
+import { hasDuplicate } from "../common";
 
 const UserContext = createContext({})
 const initialState = {user: null}
@@ -49,12 +50,32 @@ export const UserProvider = props => {
             case "logout": {
                 return {user: null}
             }
+            case "toggleFavorite": {
+                const user = action.payload.user
+                const item_id = action.payload.item_id
+                const data = user["data"]
+                if (!data) {
+                    user["data"] = [item_id]
+                    return {user: user}
+                }
+                if(hasDuplicate(item_id,data))
+                {
+                       user["data"] = data.filter(id => id !== item_id)
+                       return{user: user}
+                }
+                var updatedFavorites
+                updatedFavorites = [...data, item_id]
+                user["data"] = updatedFavorites
+                console.warn(user)
+                saveUser(user)
+                return { user: user }
+            }
         }
     }
-    const [state,dispatch] = useReducer(reducer, initialState)
+    const [state, dispatch] = useReducer(reducer, initialState)
 
     return (
-        <UserContext.Provider value={{state,dispatch}}>
+        <UserContext.Provider value={{ state, dispatch }}>
             {props.children}
         </UserContext.Provider>
     )

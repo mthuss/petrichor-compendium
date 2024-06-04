@@ -1,8 +1,14 @@
-import { Image, Text, ImageBackground, View, ScrollView } from 'react-native'
+import { TouchableOpacity, Image, Text, ImageBackground, View, ScrollView } from 'react-native'
 import Styles from '../Styles'
+import Ionicon from 'react-native-vector-icons/Ionicons'
+import { useContext } from 'react'
+import UserContext from  "../User/UserContext"
+import { isFavorited } from '../common'
 
 export default props => {
     const item = props.route.params
+    const {state, dispatch} = useContext(UserContext)
+
     function handleStyledText (text) { //unfortunately only handles void (purple) and red text individually, NOT concurrently
         const returnText = []
         const void_sections = text.match(/<style=cIsVoid>.*?<\/style>/g)
@@ -42,11 +48,14 @@ export default props => {
                 <View style={{ flex: 1, marginTop: 54 }}>
                     <View style={{ flex: 1, backgroundColor: "#333a4c", borderStyle: "solid", borderWidth: 6, borderColor: "#4b4b57", borderRadius: 5, margin: 10 }}>
                         <View style={Styles.card}>
-                            <View style={[Styles.buttonInside, { flexDirection: "row", justifyContent: "center", padding: 8 }]}>
+                            <View style={[Styles.buttonInside, { flexDirection: "row", justifyContent: "center", alignItems:"center", alignContent: "center", padding: 8 }]}>
                                 <Image style={{ width: 64, height: 64 }} source={{ uri: item.image }} />
                                 <View style={{ justifyContent: "center", alignItems: "center", flex: 3/4 }}>
                                     <Text style={[Styles.RORText, { fontSize: 16, textAlign: 'center' }]}>{item.name}</Text>
                                 </View>
+                                <TouchableOpacity onPress={()=>dispatch({type: "toggleFavorite", payload: {user: state.user, item_id: item.id}})}>
+                                    <Ionicon size={20} color={isFavorited(item.id,state.user) ? "gold" : Styles.RORText.color} name={isFavorited(item.id,state.user) ? "star" : "star-outline"} />
+                                </TouchableOpacity>
                             </View>
                         </View>
                         <View style={[Styles.card, { flex: 2 }]}>

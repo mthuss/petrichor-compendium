@@ -128,6 +128,8 @@ export default Styles = StyleSheet.create({
         borderColor: "#4b4b57",
         borderWidth: 5,
         borderRadius: 5
+    },
+    favoriteButton: {
     }
 
 })

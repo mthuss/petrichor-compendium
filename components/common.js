@@ -12,3 +12,15 @@ export function showError(err) {
 export function capitalize(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
+
+export function hasDuplicate(item, favorite_list){
+    return favorite_list.filter(id => id === item).length ? true : false
+}
+
+export function isFavorited(item, user){
+    const data = user["data"]
+    if(data)
+        return data.filter(id => id === item).length ? true : false
+    return false
+
+}

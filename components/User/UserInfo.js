@@ -18,6 +18,7 @@ export default props => {
     }
 
     const { state, dispatch } = useContext(UserContext)
+    console.warn(state)
 
     const allItems = [...items_list["common"], ...items_list["uncommon"], ...items_list["legendary"], ...items_list["boss"], ...items_list["equipment"], ...items_list["special"]]
     const [showType, setShowType] = useState("all")
