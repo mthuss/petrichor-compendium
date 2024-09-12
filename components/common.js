@@ -16,9 +16,11 @@ export function capitalize(string) {
 export function hasDuplicate(item, favorite_list){
     if(favorite_list)
         return favorite_list.filter(id => id === item).length ? true : false
+    return false
 }
 
 export function isFavorited(item, user){
+    // console.warn(user["data"])
     const data = user["data"]
     if(data)
         return data.filter(id => id === item).length ? true : false

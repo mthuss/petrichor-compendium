@@ -11,11 +11,12 @@ const scaledHeight = scaledWidth / aspectRatio;
 
 export default props => {
     const {state} = useContext(UserContext)
+    console.warn(state)
     return (
         <View style={styles.container}>
             <ImageBackground source={require('../assets/main_bg.png')} resizeMode="cover" style={styles.image}>
                 <View style={Styles.loginButton}>
-                    <RORButton onPress={() => props.navigation.navigate(state["user"] != null ? "UserInfo" : "Login")}><Text style={Styles.RORText}>{state["user"] != null ? state["user"]["username"] : "Login"}</Text></RORButton>
+                    <RORButton onPress={() => props.navigation.navigate("UserInfo")}><Text style={Styles.RORText}>{state["user"] != null ? state["user"]["username"] : "Login"}</Text></RORButton>
                 </View>
                 <View style={styles.logoView}>
                     <Image source={require('../assets/logo.png')} style={styles.logo} />

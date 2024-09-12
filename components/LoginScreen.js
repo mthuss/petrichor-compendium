@@ -44,6 +44,7 @@ export default props => {
         <ImageBackground source={require('../assets/main_bg.png')} resizeMode="cover" style={Styles.imageBackground}>
             <View style={{ margin: 24, alignContent: "center" }}>
                 <View style={Styles.button}>
+                    
                     <View style={[Styles.buttonInside, { justifyContent: 'center', paddingVertical: 16 }]}>
                         <Text style={[Styles.RORText, { fontSize: 48, textAlign: 'center' }]}>Login</Text>
                     </View>

@@ -5,7 +5,8 @@ import { server } from "../common";
 import axios from "axios";
 
 const UserContext = createContext({})
-const initialState = {user: null}
+const defaultUser = {username: "Commando", data: []}
+const initialState = {user: defaultUser}
 
 async function uploadUserData(user){
     try {
@@ -23,7 +24,8 @@ async function uploadUserData(user){
 async function downloadUserData(user){
     try{
         const res = await axios.post(`${server}/getData`,{username: user.username})
-        user["data"] = res.data["data"]
+        if(Object.keys(res.data["data"] !== 0))
+            user["data"] = res.data["data"]
     }catch(e){
         showError(e)
     }
@@ -31,7 +33,7 @@ async function downloadUserData(user){
 async function fetchUser() {
     try {
         const user = await AsyncStorage.getItem('user')
-        return { user: user ? JSON.parse(user) : null }
+        return { user: user ? JSON.parse(user) :  defaultUser}
     } catch (e) {
         console.error("Erro ao carregar usuário: " + e)
         return { user: null }
@@ -61,17 +63,24 @@ export const UserProvider = props => {
         switch (action.type) {
             case "login": {
                 const user = action.payload
-                downloadUserData(user)
+                // downloadUserData(user)
                 saveUser(user)
                 return { user: user }
             }
             case "loadUser": {
                 const user = action.payload
-                downloadUserData(user)
+                // downloadUserData(user)
                 return { user: user }
             }
             case "logout": {
                 return { user: null }
+            }
+            case "changeUsername": {
+                const name = action.username
+                const user = state.user
+                user.username = name
+                saveUser(user)
+                return { user: user }
             }
             case "toggleFavorite": {
                 const user = action.payload.user
@@ -80,20 +89,20 @@ export const UserProvider = props => {
                 if (!data) {
                     user["data"] = [item_id]
                     saveUser(user)
-                    uploadUserData(user)
+                    // uploadUserData(user)
                     return { user: user }
                 }
                 if (hasDuplicate(item_id, data)) {
                     user["data"] = data.filter(id => id !== item_id)
                     saveUser(user)
-                    uploadUserData(user)
+                    // uploadUserData(user)
                     return { user: user }
                 }
                 var updatedFavorites
                 updatedFavorites = [...data, item_id]
                 user["data"] = updatedFavorites
                 saveUser(user)
-                uploadUserData(user)
+                // uploadUserData(user)
                 return { user: user }
             }
         }

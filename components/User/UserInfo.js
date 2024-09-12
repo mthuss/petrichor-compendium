@@ -19,7 +19,10 @@ export default props => {
                     <View style={{ position: "absolute", width: "100%", zIndex: 1 }}>
                         <Image style={{ width: "100%" }} source={require('../../assets/RORR_Header.png')}></Image>
                         <View style={{ position: "absolute", top: 22, left: 30, flexDirection: "row", alignItems: "center", justifyContent: "center", alignContent: "center" }}>
-                            <Text style={{ fontFamily: "Risk-of-Rain", color: "#a6aeb1" }}>USER</Text>
+                            <Text style={{ fontFamily: "Risk-of-Rain", color: "#a6aeb1", marginRight: 64 }}>USER</Text>
+                            <TouchableOpacity onPress={() => props.navigation.navigate("UserEdit")}>
+                                <Ionicon name={"pencil"} size={20} color={Styles.RORText.color} />
+                            </TouchableOpacity>
                         </View>
                     </View>
                     <View style={{ flex: 1, backgroundColor: "#1a1b20", borderStyle: "solid", borderWidth: 10, borderColor: "#2c2e3a", borderRadius: 5 }}>
@@ -32,7 +35,7 @@ export default props => {
                                     <Text style={[Styles.RORText, { textAlign: 'center', fontSize: 52 }]}>{state.user.username}</Text>
                                 </View>
                             </View>
-                            <View style={{ flex: 3, marginBottom: 72}}>
+                            <View style={{ flex: 3 }}>
                                 <Text style={[Styles.RORText,{fontSize: 18, marginLeft: 14, marginTop: 16}]}>Favorites: </Text>
                                 <View style={[Styles.border,{margin: 8, flex: 1}]}>
                                 <FlatList data={completeList.filter(item => isFavorited(item["_id"],state.user))}
@@ -47,11 +50,6 @@ export default props => {
                                         />
                                     }
                                 />
-                                </View>
-                            </View>
-                            <View style={Styles.logout}>
-                                <View>
-                                    <RORButton onPress={() => {props.navigation.navigate("GameSelect"); dispatch({type: "logout"})}}><Text style={Styles.RORText}>Logout</Text></RORButton>
                                 </View>
                             </View>
                         </View>
