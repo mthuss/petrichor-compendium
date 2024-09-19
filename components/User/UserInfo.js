@@ -19,7 +19,7 @@ export default props => {
                     <View style={{ position: "absolute", width: "100%", zIndex: 1 }}>
                         <Image style={{ width: "100%" }} source={require('../../assets/RORR_Header.png')}></Image>
                         <View style={{ position: "absolute", top: 22, left: 30, flexDirection: "row", alignItems: "center", justifyContent: "center", alignContent: "center" }}>
-                            <Text style={{ fontFamily: "Risk-of-Rain", color: "#a6aeb1", marginRight: 64 }}>USER</Text>
+                            <Text style={{ fontFamily: "risk-of-rain", color: "#a6aeb1", marginRight: 64 }}>USER</Text>
                             <TouchableOpacity onPress={() => props.navigation.navigate("UserEdit")}>
                                 <Ionicon name={"pencil"} size={20} color={Styles.RORText.color} />
                             </TouchableOpacity>

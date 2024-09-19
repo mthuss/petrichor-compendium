@@ -10,7 +10,7 @@ export default props =>{
                 <MenuTrigger>
                     <View style={{ flexDirection: "row", alignItems: "center" }}>
                         <Ionicon size={12} color={Styles.RORText.color} name="chevron-down-outline" />
-                        <Text style={{ fontFamily: "Risk-of-Rain", color: itemColors[props.showType], marginLeft: 10 }}>{props.filterText}</Text>
+                        <Text style={{ fontFamily: "risk-of-rain", color: itemColors[props.showType], marginLeft: 10 }}>{props.filterText}</Text>
                     </View>
                 </MenuTrigger>
                 <MenuOptions customStyles={{

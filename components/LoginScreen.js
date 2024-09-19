@@ -2,7 +2,6 @@ import { TextInput, ImageBackground, View, Text, Alert } from 'react-native'
 import Styles from './Styles'
 import { useContext, useState } from 'react'
 import { RORButton } from './RORComponents'
-import axios from 'axios'
 import {server, showError} from './common'
 import UserContext from './User/UserContext'
 
@@ -10,36 +9,6 @@ export default props => {
     const [username, setUsername] = useState("")
     const [password, setPassword] = useState("")
     const {dispatch} = useContext(UserContext)
-    signup = async () => {
-        try {
-            await axios.post(`${server}/signup`,
-                {
-                    username: username,
-                    password: password
-                }
-            )
-            signin()
-        }
-        catch (e) {
-            showError(e)
-        }
-    }
-
-    signin = async () => {
-        try{
-            const response = await axios.post(`${server}/signin`,
-                {
-                    username: username,
-                    password: password
-                }
-            )
-            dispatch({ type:"login", payload: response.data })
-            props.navigation.navigate("GameSelect")
-        }
-        catch(e){
-            showError(e)
-        }
-    }
     return (
         <ImageBackground source={require('../assets/main_bg.png')} resizeMode="cover" style={Styles.imageBackground}>
             <View style={{ margin: 24, alignContent: "center" }}>

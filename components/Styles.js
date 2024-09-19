@@ -21,7 +21,7 @@ export const colors = {
 
 export default Styles = StyleSheet.create({
     RORText:{
-        fontFamily: "Risk-of-Rain", 
+        fontFamily: "risk-of-rain", 
         color: "#a6aeb1" 
     },
     button: {
