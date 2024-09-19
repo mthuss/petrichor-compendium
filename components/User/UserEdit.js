@@ -2,7 +2,6 @@ import { View, ImageBackground, Text, Image, FlatList, TouchableOpacity, ScrollV
 import Styles from '../Styles'
 import { useContext, useState } from 'react'
 import { ItemIcon, RORButton } from '../RORComponents'
-import Ionicon from 'react-native-vector-icons/Ionicons'
 import FilterPopup from '../RORR/filterPopup'
 import UserContext from './UserContext'
 import { completeList } from '../itemIndex'
@@ -29,7 +28,7 @@ export default props => {
                     <View style={{ position: "absolute", width: "100%", zIndex: 1 }}>
                         <Image style={{ width: "100%" }} source={require('../../assets/RORR_Header.png')}></Image>
                         <View style={{ position: "absolute", top: 22, left: 30, flexDirection: "row", alignItems: "center", justifyContent: "center", alignContent: "center" }}>
-                            <Text style={{ fontFamily: "Risk-of-Rain", color: "#a6aeb1", marginRight: 64 }}>EDIT USER</Text>
+                            <Text style={{ fontFamily: "risk-of-rain", color: "#a6aeb1", marginRight: 64 }}>EDIT USER</Text>
                         </View>
                     </View>
                     <View style={{ flex: 1, backgroundColor: "#1a1b20", borderStyle: "solid", borderWidth: 10, borderColor: "#2c2e3a", borderRadius: 5 }}>

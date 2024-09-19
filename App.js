@@ -2,34 +2,17 @@ import { NavigationContainer } from '@react-navigation/native';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
 import Navigation from './components/Navigation';
-import { useFonts } from 'expo-font';
-import * as SplashScreen from 'expo-splash-screen';
 import { useCallback } from 'react';
 import { MenuProvider } from 'react-native-popup-menu';
 import { UserProvider } from './components/User/UserContext';
 
-SplashScreen.preventAutoHideAsync();
 
 export default function App() {
-  const [fontsLoaded, fontError] = useFonts({
-    'Risk-of-Rain': require('./assets/fonts/risk-of-rain.ttf')
-  })
-
-  //display splashscreen while fonts are loading
-  const onLayoutRootView = useCallback(async () => {
-    if (fontsLoaded || fontError) {
-      await SplashScreen.hideAsync();
-    }
-  }, [fontsLoaded, fontError]);
-
-  if (!fontsLoaded && !fontError) {
-    return null;
-  }
 
   return (
     <UserProvider>
       <MenuProvider>
-        <SafeAreaView style={{ flex: 1 }} onLayout={onLayoutRootView}>
+        <SafeAreaView style={{ flex: 1 }}>
           <NavigationContainer>
             <Navigation></Navigation>
           </NavigationContainer>

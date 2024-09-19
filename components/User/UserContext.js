@@ -2,34 +2,12 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { createContext, useEffect, useReducer } from "react";
 import { hasDuplicate, showError } from "../common";
 import { server } from "../common";
-import axios from "axios";
 
 const UserContext = createContext({})
 const defaultUser = {username: "Commando", data: []}
 const initialState = {user: defaultUser}
 
-async function uploadUserData(user){
-    try {
-        await axios.post(`${server}/data`,
-            {
-                username: user.username,
-                data: JSON.stringify(user.data)
-            }
-        )
-    } catch (e) {
-        showError(e)
-    }
-}
 
-async function downloadUserData(user){
-    try{
-        const res = await axios.post(`${server}/getData`,{username: user.username})
-        if(Object.keys(res.data["data"] !== 0))
-            user["data"] = res.data["data"]
-    }catch(e){
-        showError(e)
-    }
-}
 async function fetchUser() {
     try {
         const user = await AsyncStorage.getItem('user')
